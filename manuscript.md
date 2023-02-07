@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-07" />
   <meta name="citation_publication_date" content="2023-02-07" />
   <meta property="article:published_time" content="2023-02-07" />
-  <meta name="dc.modified" content="2023-02-07T19:41:15+00:00" />
-  <meta property="article:modified_time" content="2023-02-07T19:41:15+00:00" />
+  <meta name="dc.modified" content="2023-02-07T19:55:33+00:00" />
+  <meta property="article:modified_time" content="2023-02-07T19:55:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/d20934db25f28396443e0789f12840554eb84b8f/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d20934db25f28396443e0789f12840554eb84b8f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d20934db25f28396443e0789f12840554eb84b8f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/d20934db25f28396443e0789f12840554eb84b8f/))
 versión indicada a continuación, se encuentra en 
 ****
-[153d6f4](https://github.com/hwong23/fna-devdoc-f3/tree/153d6f422c42a595d3b246c24a41a74d1db603e5)
+[d20934d](https://github.com/hwong23/fna-devdoc-f3/tree/d20934db25f28396443e0789f12840554eb84b8f)
 de February 7, 2023.
 
 
@@ -158,18 +158,19 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 # Contenido de los Productos Contractuales, 181-2020
 
 # Producto 10: PR10. Hoja de Ruta SOA
-Esta es la descripción del producto.
+Es un plan de navegación de proyectos de migración a otro estado de la arquitectura SOA del Fondo.
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y tiempo de mercado (OBJ3).
 
 <br>
 
 ## Justificación
-Esta es la justificación.
+La hoja de ruta SOA (o el plan de migración) programa una ruta viable de implementación de los cambios (migración) en la arquitectura SOA FNA y moverla de un estado a otro. Procura la articulación y gestión de dependencias de las iniciativas SOA del portafolio de cambios de la arquitectura (producto 9) con las de otros proyectos del FNA con el fin de economizar recursos o evitar colisiones. Este producto es el responsable de migrar de la arquitetura a la implementación.
 
 ## Contenidos
 1. Hoja de ruta de los proyectos de cambio
 1. Estimaciones y análisis de impacto y dependencia entre los cambios en el segmento de la empresa
+1. Consideraciones para la ejecución de los primeros cambios
 
 <br>
 
