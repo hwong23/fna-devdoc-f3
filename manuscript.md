@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-07" />
   <meta name="citation_publication_date" content="2023-02-07" />
   <meta property="article:published_time" content="2023-02-07" />
-  <meta name="dc.modified" content="2023-02-07T17:37:08+00:00" />
-  <meta property="article:modified_time" content="2023-02-07T17:37:08+00:00" />
+  <meta name="dc.modified" content="2023-02-07T19:41:15+00:00" />
+  <meta property="article:modified_time" content="2023-02-07T19:41:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/72f8511460ebbda34c6e0caab6dc1773bd8bce77/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/72f8511460ebbda34c6e0caab6dc1773bd8bce77/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/72f8511460ebbda34c6e0caab6dc1773bd8bce77/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/72f8511460ebbda34c6e0caab6dc1773bd8bce77/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/153d6f422c42a595d3b246c24a41a74d1db603e5/))
 versión indicada a continuación, se encuentra en 
 ****
-[72f8511](https://github.com/hwong23/fna-devdoc-f3/tree/72f8511460ebbda34c6e0caab6dc1773bd8bce77)
+[153d6f4](https://github.com/hwong23/fna-devdoc-f3/tree/153d6f422c42a595d3b246c24a41a74d1db603e5)
 de February 7, 2023.
 
 
@@ -128,7 +128,7 @@ de February 7, 2023.
 # Contenido de los Productos Contractuales, 181-2020
 
 # Producto 9: PR9. Portafolio de Inciativas y Brechas SOA Objetivo
-La técnica del portafolio de brechas es utilizada en el desarrollo de este ejercicio de diagnóstico SOA del FNA para analizar la situación actual SOA (Fase 1 del proyecto) desde la perspectiva de proyectos ejecutables. La idea principal del análisis de brecha es resaltar los proyectos o ítems omitidos, o por definir, entre la situación actual SOA del FNA y la situación objetivo, incluso cuando esta última está todavía en evolución. Lo anterior da origen al portafolio de iniciativas priorizadas que ser ejecutadas cierra las brechas analizadas.
+La técnica del portafolio de brechas es utilizada en el desarrollo de este ejercicio de diagnóstico SOA del FNA para delinear los cambios aplicables a la situación actual SOA (Fase 1 del proyecto) desde una perspectiva de proyectos ejecutables. La idea principal del análisis de brecha es resaltar los proyectos o ítems omitidos, o por definir, entre la situación actual SOA del FNA (fase 1 del diagnóstico) y la situación objetivo (fase 2). Incluso cuando esta última está todavía en evolución es posible avistar dichos cambios y proyectos. Lo anterior da origen al portafolio de iniciativas priorizadas, las mismas que al ser programas en el tiempo se convierte en la hoja de ruta SOA del FNA (producto 10 de esta fase), y cuya ejecución cerrará las brechas ente el estado inicial SOA y el objetivo.
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y tiempo de mercado (OBJ3).
 
