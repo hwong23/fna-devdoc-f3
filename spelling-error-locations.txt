@@ -22,31 +22,37 @@ content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:Producto
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:análisis
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:aplicables
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:arquitectura
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:arquittectura
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:avistar
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:brecha
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:brechas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:brechas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cambios
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cambios
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:candidata
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:candidata
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cerrará
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:conducen
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:convierte
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cuando
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cuya
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:definir
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:delinear
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:desarrollada
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:desarrollo
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:desde
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:diagnóstico
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:diagnóstico
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:dichos
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ejecución
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ejecutables
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ejercicio
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ente
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:El
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:entre
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:entre
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:esta
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:esta
@@ -57,13 +63,16 @@ content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:evolución
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:Fase
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:FNA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:FNA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:hoja
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:generadores
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:identifica
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:Incluso
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:inicial
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:iniciativas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:iniciativas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ítems
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:mismas
@@ -71,8 +80,10 @@ content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:objetivo
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:objetivo
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:omitidos
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:origen
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:perspectiva
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:paquetes
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:parte
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:por
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:portafolio
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:portafolio
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:portafolio
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:posible
@@ -83,6 +94,8 @@ content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyecto
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:reformas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:resaltar
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ruta
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ser
@@ -94,11 +107,12 @@ content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:técnica
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:tiempo
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:todavía
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:trabajo
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:última
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:una
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:utilizada
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:análisis
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:aplicaciones
@@ -116,69 +130,99 @@ content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:tiempo
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:13:Justificación
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:adjudicación
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:apegada
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:arquitectura
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:arquitectura
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:arquitectura
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Asegurar
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:cambios
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:cambios
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:candidata
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:capacidades
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:considere
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:continuidad
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:contratación
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:cumplir
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:datos
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:diagnóstico
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:diagramados
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:ejercicio
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:el
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:el
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:entrada
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:entre
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:están
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:este
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:evoluciones
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:FNA
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:FNA
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:FNA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Fondo
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Fondo
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:futuros
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:garanticen
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:impacto
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:implementación
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:información
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:información
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:negocio
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:objetivos
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:orden
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:paquetes
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Por
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:portafolio
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:procesamiento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:realiación
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:procesos
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:proporciona
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Provee
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:realización
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:requeridas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Segmento
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:sistemas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:soporte
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:tecnologías
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:trabajo
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:último
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:17:Contenidos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:actualizar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:Bloques
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:cambios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:el
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:arquitectura
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:brechas
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:candidata
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:ítems
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:por
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:rediseñar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:retener
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:retirar
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:Matriz
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:segmento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:brechas
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:SOA
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:actualizar
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:Matriz
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:partes
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:iniciativas
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:ítems
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:Lista
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:paquetes
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:por
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:proyectos
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:rediseñar
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:retener
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:retirar
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:segmento
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:trabajo
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:Análisis
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:cambios
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:dependencia
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:empresa
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:entre
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:FNA
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:impacto
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:segmento
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:descriptiva
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:el
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:Ficha
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:iniciativas
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:justificación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:mejora
+content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:proyectos
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:segmento
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:25:Aceptación
 content/09. Fase 3 PR9 Portafolio de Inciativas.md:25:Criterios
@@ -209,14 +253,67 @@ content/10. Fase 3 PR10 Hoja de Ruta SOA.md:4:Hoja
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:4:Producto
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:4:Ruta
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:4:SOA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:además
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:arquitectura
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:arquitectura
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:arquitectura
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:arquitectura
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:arreglo
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:asegurar
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:cambios
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:candidata
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:capacidades
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:controles
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:coordinado
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:despliegue
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:diagnóstico
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:ejecución
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:el
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:el
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:el
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:el
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:estadios
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:estado
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:Fondo
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:FNA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:FNA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:FNA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:hoja
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:hoja
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:iniciativas
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:intención
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:intermedios
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:llegar
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:migración
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:navegación
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:migración
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:migración
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:moverla
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:objetivo
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:oficina
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:otro
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:plantea
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:Plantea
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:portafolio
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:presente
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:producto
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:programa
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:programación
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:proyectos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:proyectos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:proyectos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:requeridos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:resulten
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:rollout
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:rumbo
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:ruta
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:ruta
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:SOA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:SOA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:SOA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:SOA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:SOA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:sus
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:tiempo
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:5:tiempo
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:7:análisis
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:7:aplicaciones
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:7:cumplir
@@ -234,47 +331,50 @@ content/10. Fase 3 PR10 Hoja de Ruta SOA.md:7:SOA
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:7:tiempo
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:11:Justificación
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:arquitectura
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:arquitectura
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:arquitetura
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:articulación
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:cambios
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:cambios
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:Asegura
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:colisiones
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:conforme
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:criterios
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:dependencias
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:diagnóstico
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:diseños
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:economizar
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:el
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:el
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:el
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:estado
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:Este
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:equipos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:estables
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:este
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:evitar
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:FNA
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:FNA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:generales
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:gerencia
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:gestión
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:hoja
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:implementación
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:implementación
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:implementen
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:iniciativas
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:migración
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:migración
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:migrar
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:moverla
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:otro
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:migraciones
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:organizar
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:otros
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:portafolio
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:Procura
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:producto
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:producto
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:programa
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:propósito
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:proyectos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:proyectos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:puntos
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:recursos
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:responsable
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:ruta
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:ruta
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:revisión
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:SOA
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:SOA
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:SOA
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:una
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:tecnología
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:términos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:transformación
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:transitorias
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:12:vigilancia
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:14:Contenidos
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:15:cambio
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:15:Hoja
@@ -293,22 +393,27 @@ content/10. Fase 3 PR10 Hoja de Ruta SOA.md:17:cambios
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:17:Consideraciones
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:17:ejecución
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:17:primeros
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:21:Aceptación
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:21:Criterios
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:cambios
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:el
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:eliminados
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:FNA
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:incluídos
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:ítems
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:Lista
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:mejorar
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:nuevos
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:por
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:23:segmento
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:hacia
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:Hoja
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:mejora
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:objetivo
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:preliminar
-content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:ruta
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:18:ejecución
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:18:hoja
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:18:Puntos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:18:ruta
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:18:SOA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:22:Aceptación
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:22:Criterios
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:cambios
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:el
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:eliminados
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:FNA
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:incluídos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:ítems
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:Lista
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:mejorar
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:nuevos
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:por
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:24:segmento
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:hacia
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:Hoja
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:mejora
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:objetivo
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:preliminar
+content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:ruta
