@@ -2,7 +2,7 @@ Aceptación
 actualizar
 además
 adjudicación
-Análisis
+análisis
 apegada
 aplicables
 aplicaciones
@@ -13,7 +13,7 @@ arquittectura
 arreglo
 articulación
 Asegura
-Asegurar
+asegurar
 avistar
 brecha
 Brechas
@@ -37,12 +37,12 @@ controles
 convierte
 coordinado
 Correal
-criterios
+Criterios
 cuando
 cumplir
 cuya
 Darío
-datos
+Datos
 dcorreal
 definir
 delinear
@@ -60,10 +60,11 @@ dirigidos
 diseños
 Documentación
 economizar
+eed
 ehernandez
 ejecución
 ejercicio
-El
+el
 eliminados
 empresa
 encuentra
@@ -111,7 +112,7 @@ iniciativas
 intención
 intermedios
 ítems
-justificación
+Justificación
 Lista
 llegar
 Matriz
@@ -135,9 +136,9 @@ otro
 otros
 paquetes
 parte
-Plantea
-por
-Portafolio
+plantea
+Por
+portafolio
 posible
 preliminar
 presente
@@ -157,7 +158,7 @@ Provee
 proveedor
 proyecto
 proyectos
-puntos
+Puntos
 realización
 recursos
 rediseñar
@@ -173,7 +174,7 @@ revisión
 rollout
 rumbo
 ruta
-segmento
+Segmento
 ser
 sistemas
 situación

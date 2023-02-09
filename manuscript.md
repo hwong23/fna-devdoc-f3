@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-09" />
   <meta name="citation_publication_date" content="2023-02-09" />
   <meta property="article:published_time" content="2023-02-09" />
-  <meta name="dc.modified" content="2023-02-09T19:03:16+00:00" />
-  <meta property="article:modified_time" content="2023-02-09T19:03:16+00:00" />
+  <meta name="dc.modified" content="2023-02-09T19:32:01+00:00" />
+  <meta property="article:modified_time" content="2023-02-09T19:32:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/e218148fc2d8962d21e90ef7c46a2f032576ce7d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/e218148fc2d8962d21e90ef7c46a2f032576ce7d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/e218148fc2d8962d21e90ef7c46a2f032576ce7d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/e218148fc2d8962d21e90ef7c46a2f032576ce7d/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/))
 versión indicada a continuación, se encuentra en 
 ****
-[e218148](https://github.com/hwong23/fna-devdoc-f3/tree/e218148fc2d8962d21e90ef7c46a2f032576ce7d)
+[f0eed73](https://github.com/hwong23/fna-devdoc-f3/tree/f0eed734c661a29e73824ba2847d7d1030f55ffe)
 de February 9, 2023.
 
 
@@ -124,7 +124,7 @@ de February 9, 2023.
 
 #### PR9. Portafolio de iniciativas y brechas (Deliverable)
 
-# Fase 2: SOA Objetivo
+# Fase 3: SOA Objetivo
 # Contenido de los Productos Contractuales, 181-2020
 
 # Producto 9: PR9. Portafolio de Inciativas y Brechas SOA Objetivo
@@ -154,7 +154,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 *** 
 
 
-# Fase 2: SOA Objetivo
+# Fase 3: SOA Objetivo
 # Contenido de los Productos Contractuales, 181-2020
 
 # Producto 10: PR10. Hoja de Ruta SOA
