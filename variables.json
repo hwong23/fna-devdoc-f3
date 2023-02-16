@@ -7,14 +7,14 @@
       "gobierno"
     ],
     "lang": "en-US",
-    "date-meta": "2023-02-09",
+    "date-meta": "2023-02-16",
     "author-meta": [
       "Harry Wong, ing.",
       "Eddie Hernandez, ing.",
       "Federico Suárez, ing.",
       "Darío Correal, ing."
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta name=\"citation_title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta property=\"og:title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta property=\"twitter:title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta name=\"dc.date\" content=\"2023-02-09\" />\n<meta name=\"citation_publication_date\" content=\"2023-02-09\" />\n<meta property=\"article:published_time\" content=\"2023-02-09\" />\n<meta name=\"dc.modified\" content=\"2023-02-09T19:32:01+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-02-09T19:32:01+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Harry Wong, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Arquitecto SOA, Stefanini\" />\n<meta name=\"citation_author\" content=\"Eddie Hernandez, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Datos, Stefanini\" />\n<meta name=\"citation_author\" content=\"Federico Suárez, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Infraestructura, Stefanini\" />\n<meta name=\"citation_author\" content=\"Darío Correal, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Arquitecto TI, Stefanini\" />\n<link rel=\"canonical\" href=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta property=\"og:url\" content=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta property=\"twitter:url\" content=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta name=\"citation_pdf_url\" content=\"https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta name=\"citation_title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta property=\"og:title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta property=\"twitter:title\" content=\"Diagnóstico SOA Actual FNA\" />\n<meta name=\"dc.date\" content=\"2023-02-16\" />\n<meta name=\"citation_publication_date\" content=\"2023-02-16\" />\n<meta property=\"article:published_time\" content=\"2023-02-16\" />\n<meta name=\"dc.modified\" content=\"2023-02-16T21:53:34+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-02-16T21:53:34+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Harry Wong, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Arquitecto SOA, Stefanini\" />\n<meta name=\"citation_author\" content=\"Eddie Hernandez, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Datos, Stefanini\" />\n<meta name=\"citation_author\" content=\"Federico Suárez, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Infraestructura, Stefanini\" />\n<meta name=\"citation_author\" content=\"Darío Correal, ing.\" />\n<meta name=\"citation_author_institution\" content=\"Arquitecto TI, Stefanini\" />\n<link rel=\"canonical\" href=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta property=\"og:url\" content=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta property=\"twitter:url\" content=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://hwong23.github.io/fna-devdoc-f3/\" />\n<meta name=\"citation_pdf_url\" content=\"https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -24,10 +24,10 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "2023-02-09",
-    "date_long": "February 9, 2023",
-    "generated": "2023-02-09T19:32:01+00:00",
-    "generated_date_long": "February 9, 2023",
+    "date": "2023-02-16",
+    "date_long": "February 16, 2023",
+    "generated": "2023-02-16T21:53:34+00:00",
+    "generated_date_long": "February 16, 2023",
     "randomize_author_order": false,
     "authors": [
       {
@@ -102,19 +102,19 @@
       "repo_slug": "hwong23/fna-devdoc-f3",
       "repo_owner": "hwong23",
       "repo_name": "fna-devdoc-f3",
-      "commit": "f0eed734c661a29e73824ba2847d7d1030f55ffe",
-      "triggering_commit": "f0eed734c661a29e73824ba2847d7d1030f55ffe",
-      "build_url": "https://github.com/hwong23/fna-devdoc-f3/commit/f0eed734c661a29e73824ba2847d7d1030f55ffe/checks",
-      "job_url": "https://github.com/hwong23/fna-devdoc-f3/actions/runs/4137743898"
+      "commit": "5c025485a3480d80eaf5738e5aa78671c258b32f",
+      "triggering_commit": "5c025485a3480d80eaf5738e5aa78671c258b32f",
+      "build_url": "https://github.com/hwong23/fna-devdoc-f3/commit/5c025485a3480d80eaf5738e5aa78671c258b32f/checks",
+      "job_url": "https://github.com/hwong23/fna-devdoc-f3/actions/runs/4198498641"
     },
     "html_url": "https://hwong23.github.io/fna-devdoc-f3/",
     "pdf_url": "https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf",
-    "html_url_versioned": "https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/",
-    "pdf_url_versioned": "https://hwong23.github.io/fna-devdoc-f3/v/f0eed734c661a29e73824ba2847d7d1030f55ffe/manuscript.pdf",
+    "html_url_versioned": "https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/",
+    "pdf_url_versioned": "https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": "47b6cf6b810ca9b8bacf846dae9318fac17a09c9",
     "manuscript_stats": {
-      "word_count": 1003
+      "word_count": 1479
     }
   }
 }
