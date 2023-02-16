@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-16" />
   <meta name="citation_publication_date" content="2023-02-16" />
   <meta property="article:published_time" content="2023-02-16" />
-  <meta name="dc.modified" content="2023-02-16T21:53:34+00:00" />
-  <meta property="article:modified_time" content="2023-02-16T21:53:34+00:00" />
+  <meta name="dc.modified" content="2023-02-16T21:59:30+00:00" />
+  <meta property="article:modified_time" content="2023-02-16T21:59:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/5c025485a3480d80eaf5738e5aa78671c258b32f/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/))
 versión indicada a continuación, se encuentra en 
 ****
-[5c02548](https://github.com/hwong23/fna-devdoc-f3/tree/5c025485a3480d80eaf5738e5aa78671c258b32f)
+[84ace73](https://github.com/hwong23/fna-devdoc-f3/tree/84ace73e78d85b49198bc253b9c573e54925f57a)
 de February 16, 2023.
 
 

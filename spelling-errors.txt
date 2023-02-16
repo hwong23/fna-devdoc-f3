@@ -19,7 +19,7 @@ arquittectura
 arreglo
 articulación
 Asegura
-asegurar
+Asegurar
 Así
 atendidas
 aumentar
@@ -77,7 +77,7 @@ dependencias
 desarrollada
 desarrollo
 descriptiva
-Desde
+desde
 despliegue
 determina
 Diagneostivo
@@ -99,7 +99,7 @@ eficacia
 ehernandez
 ejecución
 ejercicio
-el
+El
 eliminados
 empresa
 encuentra
@@ -116,7 +116,7 @@ estadio
 estadios
 estado
 están
-Estas
+estas
 este
 Estimaciones
 esto
@@ -152,7 +152,7 @@ hace
 hacer
 hacia
 herramientas
-hoja
+Hoja
 hwong
 identifica
 igual
@@ -172,7 +172,7 @@ indicada
 indicadores
 índice
 información
-Infraestructura
+infraestructura
 inicial
 iniciativas
 intención
@@ -181,11 +181,11 @@ interno
 ítems
 iteración
 iteraciones
-Justificación
+justificación
 Lista
 llegar
 lograr
-madurez
+Madurez
 mantenimiento
 más
 Matriz
@@ -209,7 +209,7 @@ Niveles
 Nota
 nuevas
 nuevos
-Objetivo
+objetivo
 objetivos
 objeto
 obtuvieron
@@ -229,7 +229,7 @@ paquetes
 parte
 peligro
 perspectiva
-plantea
+Plantea
 por
 Portafolio
 posible
@@ -243,14 +243,14 @@ principalmente
 priorizadas
 problemas
 problemática
-Problemáticas
+problemáticas
 procesamiento
 proceso
 procesos
 proclive
 Procura
 procurar
-Producto
+producto
 Productos
 programa
 programación
@@ -292,7 +292,7 @@ revisión
 rollout
 rumbo
 Ruta
-Segmento
+segmento
 ser
 servicios
 siguiente
