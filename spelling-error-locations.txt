@@ -5,244 +5,299 @@ content/00. caratula.md:14:encuentra
 content/00. caratula.md:14:indicada
 content/00. caratula.md:14:versión
 content/00. caratula.md:24:Grupo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:1:brechas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:1:iniciativas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:1:Portafolio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:3:Fase
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:3:Objetivo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:3:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:4:Contenido
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:4:Contractuales
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:4:Productos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:Brechas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:Inciativas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:Objetivo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:Portafolio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:Producto
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:6:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:análisis
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:aplicables
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:arquitectura
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:arquittectura
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:avistar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:brecha
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:brechas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:brechas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cambios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cambios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:candidata
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:candidata
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cerrará
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:conducen
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:convierte
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cuando
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:cuya
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:definir
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:delinear
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:desarrollada
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:desarrollo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:desde
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:diagnóstico
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:diagnóstico
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:dichos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ejecución
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ejercicio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:El
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:entre
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:entre
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:esta
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:esta
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:está
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:estado
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:este
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:evolución
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:fase
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:Fase
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:generadores
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:identifica
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:Incluso
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:inicial
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:iniciativas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:iniciativas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ítems
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:mismas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:objetivo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:objetivo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:omitidos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:origen
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:paquetes
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:parte
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:por
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:portafolio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:portafolio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:portafolio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:posible
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:priorizadas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:producto
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:programas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyecto
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:proyectos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:reformas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:resaltar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ruta
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:ser
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:situación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:situación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:situación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:técnica
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:tiempo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:todavía
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:trabajo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:última
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:7:utilizada
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:análisis
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:aplicaciones
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:cumplir
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:dependencia
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:dirigidos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:están
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:este
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:Nota
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:objetivos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:producto
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:proveedor
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:proyecto
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:9:tiempo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:13:Justificación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:adjudicación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:apegada
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:arquitectura
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:arquitectura
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:arquitectura
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Asegurar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:cambios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:cambios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:candidata
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:capacidades
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:considere
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:continuidad
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:contratación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:cumplir
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:datos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:diagnóstico
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:diagramados
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:ejercicio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:entrada
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:entre
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:están
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:este
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:evoluciones
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Fondo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Fondo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:futuros
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:garanticen
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:impacto
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:implementación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:información
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:información
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:negocio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:objetivos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:orden
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:paquetes
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Por
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:portafolio
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:procesamiento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:procesos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:proporciona
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Provee
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:realización
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:requeridas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:Segmento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:sistemas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:soporte
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:tecnologías
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:trabajo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:14:último
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:17:Contenidos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:arquitectura
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:brechas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:candidata
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:Matriz
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:segmento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:18:SOA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:actualizar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:iniciativas
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:ítems
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:Lista
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:paquetes
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:por
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:proyectos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:rediseñar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:retener
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:retirar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:segmento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:19:trabajo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:Análisis
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:cambios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:dependencia
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:entre
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:impacto
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:20:segmento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:descriptiva
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:Ficha
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:justificación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:proyectos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:21:segmento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:25:Aceptación
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:25:Criterios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:cambios
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:el
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:eliminados
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:FNA
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:incluídos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:ítems
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:Lista
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:mejorar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:nuevos
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:por
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:27:segmento
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:28:hacia
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:28:Hoja
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:28:mejora
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:28:objetivo
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:28:preliminar
-content/09. Fase 3 PR9 Portafolio de Inciativas.md:28:ruta
+content/09a. Matriz de brechas.md:1:arquitectura
+content/09a. Matriz de brechas.md:1:brechas
+content/09a. Matriz de brechas.md:1:brechas
+content/09a. Matriz de brechas.md:1:candidata
+content/09a. Matriz de brechas.md:1:FNA
+content/09a. Matriz de brechas.md:1:iniciativas
+content/09a. Matriz de brechas.md:1:Matriz
+content/09a. Matriz de brechas.md:1:Portafolio
+content/09a. Matriz de brechas.md:1:segmento
+content/09a. Matriz de brechas.md:1:SOA
+content/09a. Matriz de brechas.md:1:Tema
+content/09a. Matriz de brechas.md:3:Análisis
+content/09a. Matriz de brechas.md:3:brecha
+content/09a. Matriz de brechas.md:3:clave
+content/09a. Matriz de brechas.md:3:Comparativa
+content/09a. Matriz de brechas.md:3:Palabras
+content/09a. Matriz de brechas.md:3:SOA
+content/09a. Matriz de brechas.md:4:Autor
+content/09a. Matriz de brechas.md:5:Fuente
+content/09a. Matriz de brechas.md:7:FNA
+content/09a. Matriz de brechas.md:7:Segmento
+content/09a. Matriz de brechas.md:7:SOA
+content/09a. Matriz de brechas.md:7:Vínculos
+content/09a. Matriz de brechas.md:11:arquitectura
+content/09a. Matriz de brechas.md:11:brechas
+content/09a. Matriz de brechas.md:11:candidata
+content/09a. Matriz de brechas.md:11:FNA
+content/09a. Matriz de brechas.md:11:Matriz
+content/09a. Matriz de brechas.md:11:segmento
+content/09a. Matriz de brechas.md:11:SOA
+content/09b. Lista de iniciativas y proyectos.md:1:brechas
+content/09b. Lista de iniciativas y proyectos.md:1:iniciativas
+content/09b. Lista de iniciativas y proyectos.md:1:iniciativas
+content/09b. Lista de iniciativas y proyectos.md:1:Lista
+content/09b. Lista de iniciativas y proyectos.md:1:Portafolio
+content/09b. Lista de iniciativas y proyectos.md:1:proyectos
+content/09b. Lista de iniciativas y proyectos.md:1:SOA
+content/09b. Lista de iniciativas y proyectos.md:1:Tema
+content/09b. Lista de iniciativas y proyectos.md:3:Análisis
+content/09b. Lista de iniciativas y proyectos.md:3:brecha
+content/09b. Lista de iniciativas y proyectos.md:3:clave
+content/09b. Lista de iniciativas y proyectos.md:3:Comparativa
+content/09b. Lista de iniciativas y proyectos.md:3:Palabras
+content/09b. Lista de iniciativas y proyectos.md:3:SOA
+content/09b. Lista de iniciativas y proyectos.md:4:Autor
+content/09b. Lista de iniciativas y proyectos.md:5:Fuente
+content/09b. Lista de iniciativas y proyectos.md:7:FNA
+content/09b. Lista de iniciativas y proyectos.md:7:Segmento
+content/09b. Lista de iniciativas y proyectos.md:7:SOA
+content/09b. Lista de iniciativas y proyectos.md:7:Vínculos
+content/09b. Lista de iniciativas y proyectos.md:11:Brecha
+content/09b. Lista de iniciativas y proyectos.md:11:Cierre
+content/09b. Lista de iniciativas y proyectos.md:11:iniciativas
+content/09b. Lista de iniciativas y proyectos.md:11:Lista
+content/09b. Lista de iniciativas y proyectos.md:11:Proyectos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:brechas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:iniciativas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:Portafolio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:3:Fase
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:3:Objetivo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:3:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:4:Contenido
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:4:Contractuales
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:4:Productos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:6:Brechas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:6:Inciativas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:6:Objetivo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:6:Portafolio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:6:Producto
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:6:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:análisis
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:aplicables
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:arquitectura
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:arquittectura
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:avistar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:brecha
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:brechas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:brechas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:cambios
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:cambios
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:candidata
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:candidata
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:cerrará
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:conducen
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:convierte
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:cuando
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:cuya
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:definir
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:delinear
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:desarrollada
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:desarrollo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:desde
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:diagnóstico
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:diagnóstico
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:dichos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:ejecución
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:ejercicio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:El
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:entre
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:entre
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:esta
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:esta
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:está
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:estado
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:este
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:evolución
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:fase
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:fase
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:fase
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:fase
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:Fase
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:generadores
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:identifica
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:Incluso
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:inicial
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:iniciativas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:iniciativas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:ítems
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:mismas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:objetivo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:objetivo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:omitidos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:origen
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:paquetes
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:parte
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:por
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:portafolio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:portafolio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:portafolio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:posible
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:priorizadas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:producto
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:programas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:proyecto
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:proyectos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:proyectos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:proyectos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:proyectos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:reformas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:resaltar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:ruta
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:ser
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:situación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:situación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:situación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:técnica
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:tiempo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:todavía
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:trabajo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:última
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:7:utilizada
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:análisis
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:aplicaciones
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:cumplir
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:dependencia
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:dirigidos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:están
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:este
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:Nota
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:objetivos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:producto
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:proveedor
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:proyecto
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:9:tiempo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:13:Justificación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:adjudicación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:apegada
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:arquitectura
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:arquitectura
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:arquitectura
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:Asegurar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:cambios
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:cambios
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:candidata
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:capacidades
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:considere
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:continuidad
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:contratación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:cumplir
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:datos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:diagnóstico
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:diagramados
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:ejercicio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:entrada
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:entre
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:están
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:este
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:evoluciones
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:Fondo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:Fondo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:futuros
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:garanticen
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:impacto
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:implementación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:información
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:información
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:negocio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:objetivos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:orden
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:paquetes
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:Por
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:portafolio
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:procesamiento
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:procesos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:proporciona
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:Provee
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:realización
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:requeridas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:Segmento
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:sistemas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:soporte
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:tecnologías
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:trabajo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:14:último
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:17:Contenidos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:18:arquitectura
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:18:brechas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:18:candidata
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:18:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:18:Matriz
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:18:segmento
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:18:SOA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:actualizar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:iniciativas
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:ítems
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:Lista
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:paquetes
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:por
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:proyectos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:rediseñar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:retener
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:retirar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:segmento
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:19:trabajo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:Análisis
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:cambios
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:dependencia
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:entre
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:impacto
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:20:segmento
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:21:descriptiva
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:21:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:21:Ficha
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:21:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:21:justificación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:21:proyectos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:21:segmento
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:25:Aceptación
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:25:Criterios
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:cambios
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:el
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:eliminados
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:FNA
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:incluídos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:ítems
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:Lista
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:mejorar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:nuevos
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:por
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:27:segmento
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:28:hacia
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:28:Hoja
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:28:mejora
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:28:objetivo
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:28:preliminar
+content/09. Fase 3 PR9 Portafolio de Iniciativas.md:28:ruta
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:1:Fase
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:1:Objetivo
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:1:SOA

@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-16'
+date-meta: '2023-02-18'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-16" />
-  <meta name="citation_publication_date" content="2023-02-16" />
-  <meta property="article:published_time" content="2023-02-16" />
-  <meta name="dc.modified" content="2023-02-16T21:59:30+00:00" />
-  <meta property="article:modified_time" content="2023-02-16T21:59:30+00:00" />
+  <meta name="dc.date" content="2023-02-18" />
+  <meta name="citation_publication_date" content="2023-02-18" />
+  <meta property="article:published_time" content="2023-02-18" />
+  <meta name="dc.modified" content="2023-02-18T13:26:50+00:00" />
+  <meta property="article:modified_time" content="2023-02-18T13:26:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/84ace73e78d85b49198bc253b9c573e54925f57a/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/))
 versión indicada a continuación, se encuentra en 
 ****
-[84ace73](https://github.com/hwong23/fna-devdoc-f3/tree/84ace73e78d85b49198bc253b9c573e54925f57a)
-de February 16, 2023.
+[51ac7c0](https://github.com/hwong23/fna-devdoc-f3/tree/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7)
+de February 18, 2023.
 
 
 
@@ -122,7 +122,7 @@ de February 16, 2023.
 ***
 
 
-#### PR9. Portafolio de iniciativas y brechas (Deliverable)
+#### PR9. Portafolio de iniciativas y brechas
 
 # Fase 3: SOA Objetivo
 # Contenido de los Productos Contractuales, 181-2020
@@ -152,6 +152,32 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 * Hoja de ruta preliminar hacia un objetivo de mejora
 
 *** 
+
+
+|Tema            |Portafolio de iniciativas y brechas (Deliverable): **Matriz de brechas de arquitectura SOA candidata del segmento FNA**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
+|Autor           |                                                       |
+|Fuente          |                                                       |
+|Version|51ac7c0 del 18 Feb 2023                                  |
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Matriz de brechas de arquitectura SOA candidata del segmento FNA
+
+
+|Tema            |Portafolio de iniciativas y brechas (Deliverable): **Lista de iniciativas y proyectos SOA**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
+|Autor           |                                                       |
+|Fuente          |                                                       |
+|Version|51ac7c0 del 18 Feb 2023                                  |
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Lista de iniciativas y Proyectos de Cierre de Brecha
 
 
 # Fase 3: SOA Objetivo

@@ -7,7 +7,7 @@ adopción
 algunas
 algunos
 alineación
-Análisis
+análisis
 apegada
 aplicables
 aplicaciones
@@ -19,11 +19,12 @@ arquittectura
 arreglo
 articulación
 Asegura
-Asegurar
+asegurar
 Así
 atendidas
 aumentar
 aumento
+Autor
 avistar
 Baja
 bajo
@@ -39,7 +40,10 @@ caso
 causados
 cerrará
 ciclo
+Cierre
+clave
 colisiones
+Comparativa
 común
 conducen
 conforme
@@ -65,7 +69,7 @@ cumplir
 cuya
 Darío
 dato
-Datos
+datos
 dcorreal
 debe
 deben
@@ -99,7 +103,7 @@ eficacia
 ehernandez
 ejecución
 ejercicio
-El
+el
 eliminados
 empresa
 encuentra
@@ -136,6 +140,7 @@ flexibilidad
 FNA
 Fondo
 fsuarez
+Fuente
 funcionales
 futuro
 futuros
@@ -145,7 +150,7 @@ generales
 gerencia
 gestión
 gestionar
-gobierno
+Gobierno
 grado
 Grupo
 hace
@@ -172,7 +177,7 @@ indicada
 indicadores
 índice
 información
-infraestructura
+Infraestructura
 inicial
 iniciativas
 intención
@@ -185,7 +190,7 @@ justificación
 Lista
 llegar
 lograr
-Madurez
+madurez
 mantenimiento
 más
 Matriz
@@ -225,13 +230,14 @@ origen
 OSIMM
 otro
 otros
+Palabras
 paquetes
 parte
 peligro
 perspectiva
-Plantea
+plantea
 por
-Portafolio
+portafolio
 posible
 preliminar
 presente
@@ -243,14 +249,14 @@ principalmente
 priorizadas
 problemas
 problemática
-problemáticas
+Problemáticas
 procesamiento
 proceso
 procesos
 proclive
 Procura
 procurar
-producto
+Producto
 Productos
 programa
 programación
@@ -264,7 +270,7 @@ proveedor
 proveedores
 próximo
 proyecto
-proyectos
+Proyectos
 puntaje
 puntos
 reactiva
@@ -308,6 +314,7 @@ tanto
 técnica
 Tecnología
 tecnologías
+Tema
 términos
 tiempo
 tiempos
@@ -326,3 +333,4 @@ versión
 vicepresidencia
 vida
 vigilancia
+Vínculos
