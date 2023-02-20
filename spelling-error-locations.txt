@@ -729,266 +729,787 @@ content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:mejora
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:objetivo
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:preliminar
 content/10. Fase 3 PR10 Hoja de Ruta SOA.md:25:ruta
-content/11. Problematicas diagnostico madurez.md:1:Diagneostivo
-content/11. Problematicas diagnostico madurez.md:1:FNA
-content/11. Problematicas diagnostico madurez.md:1:Madurez
-content/11. Problematicas diagnostico madurez.md:1:Problemáticas
-content/11. Problematicas diagnostico madurez.md:1:Resumen
-content/11. Problematicas diagnostico madurez.md:1:SOA
-content/11. Problematicas diagnostico madurez.md:3:áreas
-content/11. Problematicas diagnostico madurez.md:3:creación
-content/11. Problematicas diagnostico madurez.md:3:Crédito
-content/11. Problematicas diagnostico madurez.md:3:datos
-content/11. Problematicas diagnostico madurez.md:3:datos
-content/11. Problematicas diagnostico madurez.md:3:diagnóstico
-content/11. Problematicas diagnostico madurez.md:3:distribución
-content/11. Problematicas diagnostico madurez.md:3:El
-content/11. Problematicas diagnostico madurez.md:3:empresa
-content/11. Problematicas diagnostico madurez.md:3:este
-content/11. Problematicas diagnostico madurez.md:3:esto
-content/11. Problematicas diagnostico madurez.md:3:explotación
-content/11. Problematicas diagnostico madurez.md:3:FNA
-content/11. Problematicas diagnostico madurez.md:3:funcionales
-content/11. Problematicas diagnostico madurez.md:3:gestión
-content/11. Problematicas diagnostico madurez.md:3:hace
-content/11. Problematicas diagnostico madurez.md:3:herramientas
-content/11. Problematicas diagnostico madurez.md:3:información
-content/11. Problematicas diagnostico madurez.md:3:mantenimiento
-content/11. Problematicas diagnostico madurez.md:3:medida
-content/11. Problematicas diagnostico madurez.md:3:mejora
-content/11. Problematicas diagnostico madurez.md:3:necesidades
-content/11. Problematicas diagnostico madurez.md:3:objeto
-content/11. Problematicas diagnostico madurez.md:3:operación
-content/11. Problematicas diagnostico madurez.md:3:Operaciones
-content/11. Problematicas diagnostico madurez.md:3:peligro
-content/11. Problematicas diagnostico madurez.md:3:proclive
-content/11. Problematicas diagnostico madurez.md:3:proliferación
-content/11. Problematicas diagnostico madurez.md:3:realiza
-content/11. Problematicas diagnostico madurez.md:3:requerimientos
-content/11. Problematicas diagnostico madurez.md:3:responder
-content/11. Problematicas diagnostico madurez.md:3:segmento
-content/11. Problematicas diagnostico madurez.md:3:servicios
-content/11. Problematicas diagnostico madurez.md:3:SOA
-content/11. Problematicas diagnostico madurez.md:3:soluciones
-content/11. Problematicas diagnostico madurez.md:3:vicepresidencia
-content/11. Problematicas diagnostico madurez.md:5:algunas
-content/11. Problematicas diagnostico madurez.md:5:algunos
-content/11. Problematicas diagnostico madurez.md:5:análisis
-content/11. Problematicas diagnostico madurez.md:5:aplicaciones
-content/11. Problematicas diagnostico madurez.md:5:Así
-content/11. Problematicas diagnostico madurez.md:5:canónico
-content/11. Problematicas diagnostico madurez.md:5:ciclo
-content/11. Problematicas diagnostico madurez.md:5:común
-content/11. Problematicas diagnostico madurez.md:5:dato
-content/11. Problematicas diagnostico madurez.md:5:datos
-content/11. Problematicas diagnostico madurez.md:5:datos
-content/11. Problematicas diagnostico madurez.md:5:datos
-content/11. Problematicas diagnostico madurez.md:5:debido
-content/11. Problematicas diagnostico madurez.md:5:dependencias
-content/11. Problematicas diagnostico madurez.md:5:diferentes
-content/11. Problematicas diagnostico madurez.md:5:El
-content/11. Problematicas diagnostico madurez.md:5:entidades
-content/11. Problematicas diagnostico madurez.md:5:evidencia
-content/11. Problematicas diagnostico madurez.md:5:existe
-content/11. Problematicas diagnostico madurez.md:5:existen
-content/11. Problematicas diagnostico madurez.md:5:existen
-content/11. Problematicas diagnostico madurez.md:5:existen
-content/11. Problematicas diagnostico madurez.md:5:FNA
-content/11. Problematicas diagnostico madurez.md:5:gestión
-content/11. Problematicas diagnostico madurez.md:5:incluir
-content/11. Problematicas diagnostico madurez.md:5:inconvenientes
-content/11. Problematicas diagnostico madurez.md:5:independientes
-content/11. Problematicas diagnostico madurez.md:5:mismo
-content/11. Problematicas diagnostico madurez.md:5:modelo
-content/11. Problematicas diagnostico madurez.md:5:modelos
-content/11. Problematicas diagnostico madurez.md:5:negocio
-content/11. Problematicas diagnostico madurez.md:5:nuevas
-content/11. Problematicas diagnostico madurez.md:5:Por
-content/11. Problematicas diagnostico madurez.md:5:proveedores
-content/11. Problematicas diagnostico madurez.md:5:reglas
-content/11. Problematicas diagnostico madurez.md:5:repositorio
-content/11. Problematicas diagnostico madurez.md:5:SOA
-content/11. Problematicas diagnostico madurez.md:5:tanto
-content/11. Problematicas diagnostico madurez.md:5:vida
-content/11. Problematicas diagnostico madurez.md:7:además
-content/11. Problematicas diagnostico madurez.md:7:aplicaciones
-content/11. Problematicas diagnostico madurez.md:7:consistente
-content/11. Problematicas diagnostico madurez.md:7:Desde
-content/11. Problematicas diagnostico madurez.md:7:determina
-content/11. Problematicas diagnostico madurez.md:7:diagnosticadas
-content/11. Problematicas diagnostico madurez.md:7:dimensiones
-content/11. Problematicas diagnostico madurez.md:7:el
-content/11. Problematicas diagnostico madurez.md:7:empresa
-content/11. Problematicas diagnostico madurez.md:7:evaluación
-content/11. Problematicas diagnostico madurez.md:7:FNA
-content/11. Problematicas diagnostico madurez.md:7:gobierno
-content/11. Problematicas diagnostico madurez.md:7:iteración
-content/11. Problematicas diagnostico madurez.md:7:madurez
-content/11. Problematicas diagnostico madurez.md:7:madurez
-content/11. Problematicas diagnostico madurez.md:7:negocio
-content/11. Problematicas diagnostico madurez.md:7:OSIMM
-content/11. Problematicas diagnostico madurez.md:7:perspectiva
-content/11. Problematicas diagnostico madurez.md:7:primera
-content/11. Problematicas diagnostico madurez.md:7:proceso
-content/11. Problematicas diagnostico madurez.md:7:resultado
-content/11. Problematicas diagnostico madurez.md:7:SOA
-content/11. Problematicas diagnostico madurez.md:7:SOA
-content/11. Problematicas diagnostico madurez.md:7:todas
-content/11. Problematicas diagnostico madurez.md:7:una
-content/11. Problematicas diagnostico madurez.md:9:abajo
-content/11. Problematicas diagnostico madurez.md:9:aplicaciones
-content/11. Problematicas diagnostico madurez.md:9:arquitectura
-content/11. Problematicas diagnostico madurez.md:9:atendidas
-content/11. Problematicas diagnostico madurez.md:9:Baja
-content/11. Problematicas diagnostico madurez.md:9:bajo
-content/11. Problematicas diagnostico madurez.md:9:bajos
-content/11. Problematicas diagnostico madurez.md:9:cambios
-content/11. Problematicas diagnostico madurez.md:9:causados
-content/11. Problematicas diagnostico madurez.md:9:deben
-content/11. Problematicas diagnostico madurez.md:9:desde
-content/11. Problematicas diagnostico madurez.md:9:diseño
-content/11. Problematicas diagnostico madurez.md:9:eficacia
-content/11. Problematicas diagnostico madurez.md:9:el
-content/11. Problematicas diagnostico madurez.md:9:el
-content/11. Problematicas diagnostico madurez.md:9:El
-content/11. Problematicas diagnostico madurez.md:9:entrega
-content/11. Problematicas diagnostico madurez.md:9:Estas
-content/11. Problematicas diagnostico madurez.md:9:flexibilidad
-content/11. Problematicas diagnostico madurez.md:9:flexibilidad
-content/11. Problematicas diagnostico madurez.md:9:Fondo
-content/11. Problematicas diagnostico madurez.md:9:futuro
-content/11. Problematicas diagnostico madurez.md:9:gestión
-content/11. Problematicas diagnostico madurez.md:9:gestionar
-content/11. Problematicas diagnostico madurez.md:9:gobierno
-content/11. Problematicas diagnostico madurez.md:9:grado
-content/11. Problematicas diagnostico madurez.md:9:imagen
-content/11. Problematicas diagnostico madurez.md:9:independencia
-content/11. Problematicas diagnostico madurez.md:9:indicadores
-content/11. Problematicas diagnostico madurez.md:9:información
-content/11. Problematicas diagnostico madurez.md:9:infraestructura
-content/11. Problematicas diagnostico madurez.md:9:madurez
-content/11. Problematicas diagnostico madurez.md:9:mejorar
-content/11. Problematicas diagnostico madurez.md:9:Mejorar
-content/11. Problematicas diagnostico madurez.md:9:negocio
-content/11. Problematicas diagnostico madurez.md:9:Niveles
-content/11. Problematicas diagnostico madurez.md:9:Nota
-content/11. Problematicas diagnostico madurez.md:9:por
-content/11. Problematicas diagnostico madurez.md:9:primeras
-content/11. Problematicas diagnostico madurez.md:9:principalmente
-content/11. Problematicas diagnostico madurez.md:9:problemas
-content/11. Problematicas diagnostico madurez.md:9:problemáticas
-content/11. Problematicas diagnostico madurez.md:9:proveedor
-content/11. Problematicas diagnostico madurez.md:9:puntos
-content/11. Problematicas diagnostico madurez.md:9:ser
-content/11. Problematicas diagnostico madurez.md:9:ser
-content/11. Problematicas diagnostico madurez.md:9:servicios
-content/11. Problematicas diagnostico madurez.md:9:SOA
-content/11. Problematicas diagnostico madurez.md:9:SOA
-content/11. Problematicas diagnostico madurez.md:9:soluciones
-content/11. Problematicas diagnostico madurez.md:9:soporte
-content/11. Problematicas diagnostico madurez.md:9:tiempos
-content/11. Problematicas diagnostico madurez.md:9:ver
-content/11. Problematicas diagnostico madurez.md:11:adopción
-content/11. Problematicas diagnostico madurez.md:11:conjunto
-content/11. Problematicas diagnostico madurez.md:11:debe
-content/11. Problematicas diagnostico madurez.md:11:Dirección
-content/11. Problematicas diagnostico madurez.md:11:ejecución
-content/11. Problematicas diagnostico madurez.md:11:el
-content/11. Problematicas diagnostico madurez.md:11:el
-content/11. Problematicas diagnostico madurez.md:11:El
-content/11. Problematicas diagnostico madurez.md:11:estadio
-content/11. Problematicas diagnostico madurez.md:11:estas
-content/11. Problematicas diagnostico madurez.md:11:estratégico
-content/11. Problematicas diagnostico madurez.md:11:febrero
-content/11. Problematicas diagnostico madurez.md:11:FNA
-content/11. Problematicas diagnostico madurez.md:11:Fondo
-content/11. Problematicas diagnostico madurez.md:11:futuro
-content/11. Problematicas diagnostico madurez.md:11:gobierno
-content/11. Problematicas diagnostico madurez.md:11:iteraciones
-content/11. Problematicas diagnostico madurez.md:11:madurez
-content/11. Problematicas diagnostico madurez.md:11:necesarios
-content/11. Problematicas diagnostico madurez.md:11:objeto
-content/11. Problematicas diagnostico madurez.md:11:por
-content/11. Problematicas diagnostico madurez.md:11:procurar
-content/11. Problematicas diagnostico madurez.md:11:próximo
-content/11. Problematicas diagnostico madurez.md:11:puntos
-content/11. Problematicas diagnostico madurez.md:11:realización
-content/11. Problematicas diagnostico madurez.md:11:recursos
-content/11. Problematicas diagnostico madurez.md:11:siguiente
-content/11. Problematicas diagnostico madurez.md:11:SOA
-content/11. Problematicas diagnostico madurez.md:11:SOA
-content/11. Problematicas diagnostico madurez.md:11:SOA
-content/11. Problematicas diagnostico madurez.md:11:Tecnología
-content/11. Problematicas diagnostico madurez.md:11:tienen
-content/11. Problematicas diagnostico madurez.md:13:alineación
-content/11. Problematicas diagnostico madurez.md:13:análisis
-content/11. Problematicas diagnostico madurez.md:13:arquitectura
-content/11. Problematicas diagnostico madurez.md:13:arquitectura
-content/11. Problematicas diagnostico madurez.md:13:arquitectura
-content/11. Problematicas diagnostico madurez.md:13:aumentar
-content/11. Problematicas diagnostico madurez.md:13:aumento
-content/11. Problematicas diagnostico madurez.md:13:capacidades
-content/11. Problematicas diagnostico madurez.md:13:capacidades
-content/11. Problematicas diagnostico madurez.md:13:capacidades
-content/11. Problematicas diagnostico madurez.md:13:capacidades
-content/11. Problematicas diagnostico madurez.md:13:caso
-content/11. Problematicas diagnostico madurez.md:13:debe
-content/11. Problematicas diagnostico madurez.md:13:Dirección
-content/11. Problematicas diagnostico madurez.md:13:el
-content/11. Problematicas diagnostico madurez.md:13:esta
-content/11. Problematicas diagnostico madurez.md:13:estratégico
-content/11. Problematicas diagnostico madurez.md:13:febrero
-content/11. Problematicas diagnostico madurez.md:13:FNA
-content/11. Problematicas diagnostico madurez.md:13:hacer
-content/11. Problematicas diagnostico madurez.md:13:igual
-content/11. Problematicas diagnostico madurez.md:13:importancia
-content/11. Problematicas diagnostico madurez.md:13:necesario
-content/11. Problematicas diagnostico madurez.md:13:negocio
-content/11. Problematicas diagnostico madurez.md:13:negocio
-content/11. Problematicas diagnostico madurez.md:13:nivel
-content/11. Problematicas diagnostico madurez.md:13:parte
-content/11. Problematicas diagnostico madurez.md:13:problemática
-content/11. Problematicas diagnostico madurez.md:13:próximo
-content/11. Problematicas diagnostico madurez.md:13:realizar
-content/11. Problematicas diagnostico madurez.md:13:responda
-content/11. Problematicas diagnostico madurez.md:13:Tecnología
-content/11. Problematicas diagnostico madurez.md:15:abajo
-content/11. Problematicas diagnostico madurez.md:15:análisis
-content/11. Problematicas diagnostico madurez.md:15:análisis
-content/11. Problematicas diagnostico madurez.md:15:aumentar
-content/11. Problematicas diagnostico madurez.md:15:bajo
-content/11. Problematicas diagnostico madurez.md:15:debe
-content/11. Problematicas diagnostico madurez.md:15:dimensión
-content/11. Problematicas diagnostico madurez.md:15:dimensión
-content/11. Problematicas diagnostico madurez.md:15:el
-content/11. Problematicas diagnostico madurez.md:15:el
-content/11. Problematicas diagnostico madurez.md:15:el
-content/11. Problematicas diagnostico madurez.md:15:El
-content/11. Problematicas diagnostico madurez.md:15:enfoque
-content/11. Problematicas diagnostico madurez.md:15:esta
-content/11. Problematicas diagnostico madurez.md:15:este
-content/11. Problematicas diagnostico madurez.md:15:este
-content/11. Problematicas diagnostico madurez.md:15:flexibilidad
-content/11. Problematicas diagnostico madurez.md:15:Fondo
-content/11. Problematicas diagnostico madurez.md:15:futuro
-content/11. Problematicas diagnostico madurez.md:15:gobierno
-content/11. Problematicas diagnostico madurez.md:15:Gobierno
-content/11. Problematicas diagnostico madurez.md:15:imagen
-content/11. Problematicas diagnostico madurez.md:15:independencia
-content/11. Problematicas diagnostico madurez.md:15:índice
-content/11. Problematicas diagnostico madurez.md:15:interno
-content/11. Problematicas diagnostico madurez.md:15:lograr
-content/11. Problematicas diagnostico madurez.md:15:más
-content/11. Problematicas diagnostico madurez.md:15:misma
-content/11. Problematicas diagnostico madurez.md:15:obtuvieron
-content/11. Problematicas diagnostico madurez.md:15:obtuvo
-content/11. Problematicas diagnostico madurez.md:15:otros
-content/11. Problematicas diagnostico madurez.md:15:primordialmente
-content/11. Problematicas diagnostico madurez.md:15:promedio
-content/11. Problematicas diagnostico madurez.md:15:proveedor
-content/11. Problematicas diagnostico madurez.md:15:puntaje
-content/11. Problematicas diagnostico madurez.md:15:puntos
-content/11. Problematicas diagnostico madurez.md:15:resultado
-content/11. Problematicas diagnostico madurez.md:15:SOA
-content/11. Problematicas diagnostico madurez.md:15:SOA
-content/11. Problematicas diagnostico madurez.md:15:ver
+content/11a. Problematicas diagnostico madurez.md:1:Diagneostivo
+content/11a. Problematicas diagnostico madurez.md:1:FNA
+content/11a. Problematicas diagnostico madurez.md:1:Madurez
+content/11a. Problematicas diagnostico madurez.md:1:Problemáticas
+content/11a. Problematicas diagnostico madurez.md:1:Resumen
+content/11a. Problematicas diagnostico madurez.md:1:SOA
+content/11a. Problematicas diagnostico madurez.md:3:áreas
+content/11a. Problematicas diagnostico madurez.md:3:creación
+content/11a. Problematicas diagnostico madurez.md:3:Crédito
+content/11a. Problematicas diagnostico madurez.md:3:datos
+content/11a. Problematicas diagnostico madurez.md:3:datos
+content/11a. Problematicas diagnostico madurez.md:3:diagnóstico
+content/11a. Problematicas diagnostico madurez.md:3:distribución
+content/11a. Problematicas diagnostico madurez.md:3:El
+content/11a. Problematicas diagnostico madurez.md:3:empresa
+content/11a. Problematicas diagnostico madurez.md:3:este
+content/11a. Problematicas diagnostico madurez.md:3:esto
+content/11a. Problematicas diagnostico madurez.md:3:explotación
+content/11a. Problematicas diagnostico madurez.md:3:FNA
+content/11a. Problematicas diagnostico madurez.md:3:funcionales
+content/11a. Problematicas diagnostico madurez.md:3:gestión
+content/11a. Problematicas diagnostico madurez.md:3:hace
+content/11a. Problematicas diagnostico madurez.md:3:herramientas
+content/11a. Problematicas diagnostico madurez.md:3:información
+content/11a. Problematicas diagnostico madurez.md:3:mantenimiento
+content/11a. Problematicas diagnostico madurez.md:3:medida
+content/11a. Problematicas diagnostico madurez.md:3:mejora
+content/11a. Problematicas diagnostico madurez.md:3:necesidades
+content/11a. Problematicas diagnostico madurez.md:3:objeto
+content/11a. Problematicas diagnostico madurez.md:3:operación
+content/11a. Problematicas diagnostico madurez.md:3:Operaciones
+content/11a. Problematicas diagnostico madurez.md:3:peligro
+content/11a. Problematicas diagnostico madurez.md:3:proclive
+content/11a. Problematicas diagnostico madurez.md:3:proliferación
+content/11a. Problematicas diagnostico madurez.md:3:realiza
+content/11a. Problematicas diagnostico madurez.md:3:requerimientos
+content/11a. Problematicas diagnostico madurez.md:3:responder
+content/11a. Problematicas diagnostico madurez.md:3:segmento
+content/11a. Problematicas diagnostico madurez.md:3:servicios
+content/11a. Problematicas diagnostico madurez.md:3:SOA
+content/11a. Problematicas diagnostico madurez.md:3:soluciones
+content/11a. Problematicas diagnostico madurez.md:3:vicepresidencia
+content/11a. Problematicas diagnostico madurez.md:5:algunas
+content/11a. Problematicas diagnostico madurez.md:5:algunos
+content/11a. Problematicas diagnostico madurez.md:5:análisis
+content/11a. Problematicas diagnostico madurez.md:5:aplicaciones
+content/11a. Problematicas diagnostico madurez.md:5:Así
+content/11a. Problematicas diagnostico madurez.md:5:canónico
+content/11a. Problematicas diagnostico madurez.md:5:ciclo
+content/11a. Problematicas diagnostico madurez.md:5:común
+content/11a. Problematicas diagnostico madurez.md:5:dato
+content/11a. Problematicas diagnostico madurez.md:5:datos
+content/11a. Problematicas diagnostico madurez.md:5:datos
+content/11a. Problematicas diagnostico madurez.md:5:datos
+content/11a. Problematicas diagnostico madurez.md:5:debido
+content/11a. Problematicas diagnostico madurez.md:5:dependencias
+content/11a. Problematicas diagnostico madurez.md:5:diferentes
+content/11a. Problematicas diagnostico madurez.md:5:El
+content/11a. Problematicas diagnostico madurez.md:5:entidades
+content/11a. Problematicas diagnostico madurez.md:5:evidencia
+content/11a. Problematicas diagnostico madurez.md:5:existe
+content/11a. Problematicas diagnostico madurez.md:5:existen
+content/11a. Problematicas diagnostico madurez.md:5:existen
+content/11a. Problematicas diagnostico madurez.md:5:existen
+content/11a. Problematicas diagnostico madurez.md:5:FNA
+content/11a. Problematicas diagnostico madurez.md:5:gestión
+content/11a. Problematicas diagnostico madurez.md:5:incluir
+content/11a. Problematicas diagnostico madurez.md:5:inconvenientes
+content/11a. Problematicas diagnostico madurez.md:5:independientes
+content/11a. Problematicas diagnostico madurez.md:5:mismo
+content/11a. Problematicas diagnostico madurez.md:5:modelo
+content/11a. Problematicas diagnostico madurez.md:5:modelos
+content/11a. Problematicas diagnostico madurez.md:5:negocio
+content/11a. Problematicas diagnostico madurez.md:5:nuevas
+content/11a. Problematicas diagnostico madurez.md:5:Por
+content/11a. Problematicas diagnostico madurez.md:5:proveedores
+content/11a. Problematicas diagnostico madurez.md:5:reglas
+content/11a. Problematicas diagnostico madurez.md:5:repositorio
+content/11a. Problematicas diagnostico madurez.md:5:SOA
+content/11a. Problematicas diagnostico madurez.md:5:tanto
+content/11a. Problematicas diagnostico madurez.md:5:vida
+content/11a. Problematicas diagnostico madurez.md:7:además
+content/11a. Problematicas diagnostico madurez.md:7:aplicaciones
+content/11a. Problematicas diagnostico madurez.md:7:consistente
+content/11a. Problematicas diagnostico madurez.md:7:Desde
+content/11a. Problematicas diagnostico madurez.md:7:determina
+content/11a. Problematicas diagnostico madurez.md:7:diagnosticadas
+content/11a. Problematicas diagnostico madurez.md:7:dimensiones
+content/11a. Problematicas diagnostico madurez.md:7:el
+content/11a. Problematicas diagnostico madurez.md:7:empresa
+content/11a. Problematicas diagnostico madurez.md:7:evaluación
+content/11a. Problematicas diagnostico madurez.md:7:FNA
+content/11a. Problematicas diagnostico madurez.md:7:gobierno
+content/11a. Problematicas diagnostico madurez.md:7:iteración
+content/11a. Problematicas diagnostico madurez.md:7:madurez
+content/11a. Problematicas diagnostico madurez.md:7:madurez
+content/11a. Problematicas diagnostico madurez.md:7:negocio
+content/11a. Problematicas diagnostico madurez.md:7:OSIMM
+content/11a. Problematicas diagnostico madurez.md:7:perspectiva
+content/11a. Problematicas diagnostico madurez.md:7:primera
+content/11a. Problematicas diagnostico madurez.md:7:proceso
+content/11a. Problematicas diagnostico madurez.md:7:resultado
+content/11a. Problematicas diagnostico madurez.md:7:SOA
+content/11a. Problematicas diagnostico madurez.md:7:SOA
+content/11a. Problematicas diagnostico madurez.md:7:todas
+content/11a. Problematicas diagnostico madurez.md:7:una
+content/11a. Problematicas diagnostico madurez.md:9:abajo
+content/11a. Problematicas diagnostico madurez.md:9:aplicaciones
+content/11a. Problematicas diagnostico madurez.md:9:arquitectura
+content/11a. Problematicas diagnostico madurez.md:9:atendidas
+content/11a. Problematicas diagnostico madurez.md:9:Baja
+content/11a. Problematicas diagnostico madurez.md:9:bajo
+content/11a. Problematicas diagnostico madurez.md:9:bajos
+content/11a. Problematicas diagnostico madurez.md:9:cambios
+content/11a. Problematicas diagnostico madurez.md:9:causados
+content/11a. Problematicas diagnostico madurez.md:9:deben
+content/11a. Problematicas diagnostico madurez.md:9:desde
+content/11a. Problematicas diagnostico madurez.md:9:diseño
+content/11a. Problematicas diagnostico madurez.md:9:eficacia
+content/11a. Problematicas diagnostico madurez.md:9:el
+content/11a. Problematicas diagnostico madurez.md:9:el
+content/11a. Problematicas diagnostico madurez.md:9:El
+content/11a. Problematicas diagnostico madurez.md:9:entrega
+content/11a. Problematicas diagnostico madurez.md:9:Estas
+content/11a. Problematicas diagnostico madurez.md:9:flexibilidad
+content/11a. Problematicas diagnostico madurez.md:9:flexibilidad
+content/11a. Problematicas diagnostico madurez.md:9:Fondo
+content/11a. Problematicas diagnostico madurez.md:9:futuro
+content/11a. Problematicas diagnostico madurez.md:9:gestión
+content/11a. Problematicas diagnostico madurez.md:9:gestionar
+content/11a. Problematicas diagnostico madurez.md:9:gobierno
+content/11a. Problematicas diagnostico madurez.md:9:grado
+content/11a. Problematicas diagnostico madurez.md:9:imagen
+content/11a. Problematicas diagnostico madurez.md:9:independencia
+content/11a. Problematicas diagnostico madurez.md:9:indicadores
+content/11a. Problematicas diagnostico madurez.md:9:información
+content/11a. Problematicas diagnostico madurez.md:9:infraestructura
+content/11a. Problematicas diagnostico madurez.md:9:madurez
+content/11a. Problematicas diagnostico madurez.md:9:mejorar
+content/11a. Problematicas diagnostico madurez.md:9:Mejorar
+content/11a. Problematicas diagnostico madurez.md:9:negocio
+content/11a. Problematicas diagnostico madurez.md:9:Niveles
+content/11a. Problematicas diagnostico madurez.md:9:Nota
+content/11a. Problematicas diagnostico madurez.md:9:por
+content/11a. Problematicas diagnostico madurez.md:9:primeras
+content/11a. Problematicas diagnostico madurez.md:9:principalmente
+content/11a. Problematicas diagnostico madurez.md:9:problemas
+content/11a. Problematicas diagnostico madurez.md:9:problemáticas
+content/11a. Problematicas diagnostico madurez.md:9:proveedor
+content/11a. Problematicas diagnostico madurez.md:9:puntos
+content/11a. Problematicas diagnostico madurez.md:9:ser
+content/11a. Problematicas diagnostico madurez.md:9:ser
+content/11a. Problematicas diagnostico madurez.md:9:servicios
+content/11a. Problematicas diagnostico madurez.md:9:SOA
+content/11a. Problematicas diagnostico madurez.md:9:SOA
+content/11a. Problematicas diagnostico madurez.md:9:soluciones
+content/11a. Problematicas diagnostico madurez.md:9:soporte
+content/11a. Problematicas diagnostico madurez.md:9:tiempos
+content/11a. Problematicas diagnostico madurez.md:9:ver
+content/11a. Problematicas diagnostico madurez.md:11:adopción
+content/11a. Problematicas diagnostico madurez.md:11:conjunto
+content/11a. Problematicas diagnostico madurez.md:11:debe
+content/11a. Problematicas diagnostico madurez.md:11:Dirección
+content/11a. Problematicas diagnostico madurez.md:11:ejecución
+content/11a. Problematicas diagnostico madurez.md:11:el
+content/11a. Problematicas diagnostico madurez.md:11:el
+content/11a. Problematicas diagnostico madurez.md:11:El
+content/11a. Problematicas diagnostico madurez.md:11:estadio
+content/11a. Problematicas diagnostico madurez.md:11:estas
+content/11a. Problematicas diagnostico madurez.md:11:estratégico
+content/11a. Problematicas diagnostico madurez.md:11:febrero
+content/11a. Problematicas diagnostico madurez.md:11:FNA
+content/11a. Problematicas diagnostico madurez.md:11:Fondo
+content/11a. Problematicas diagnostico madurez.md:11:futuro
+content/11a. Problematicas diagnostico madurez.md:11:gobierno
+content/11a. Problematicas diagnostico madurez.md:11:iteraciones
+content/11a. Problematicas diagnostico madurez.md:11:madurez
+content/11a. Problematicas diagnostico madurez.md:11:necesarios
+content/11a. Problematicas diagnostico madurez.md:11:objeto
+content/11a. Problematicas diagnostico madurez.md:11:por
+content/11a. Problematicas diagnostico madurez.md:11:procurar
+content/11a. Problematicas diagnostico madurez.md:11:próximo
+content/11a. Problematicas diagnostico madurez.md:11:puntos
+content/11a. Problematicas diagnostico madurez.md:11:realización
+content/11a. Problematicas diagnostico madurez.md:11:recursos
+content/11a. Problematicas diagnostico madurez.md:11:siguiente
+content/11a. Problematicas diagnostico madurez.md:11:SOA
+content/11a. Problematicas diagnostico madurez.md:11:SOA
+content/11a. Problematicas diagnostico madurez.md:11:SOA
+content/11a. Problematicas diagnostico madurez.md:11:Tecnología
+content/11a. Problematicas diagnostico madurez.md:11:tienen
+content/11a. Problematicas diagnostico madurez.md:13:alineación
+content/11a. Problematicas diagnostico madurez.md:13:análisis
+content/11a. Problematicas diagnostico madurez.md:13:arquitectura
+content/11a. Problematicas diagnostico madurez.md:13:arquitectura
+content/11a. Problematicas diagnostico madurez.md:13:arquitectura
+content/11a. Problematicas diagnostico madurez.md:13:aumentar
+content/11a. Problematicas diagnostico madurez.md:13:aumento
+content/11a. Problematicas diagnostico madurez.md:13:capacidades
+content/11a. Problematicas diagnostico madurez.md:13:capacidades
+content/11a. Problematicas diagnostico madurez.md:13:capacidades
+content/11a. Problematicas diagnostico madurez.md:13:capacidades
+content/11a. Problematicas diagnostico madurez.md:13:caso
+content/11a. Problematicas diagnostico madurez.md:13:debe
+content/11a. Problematicas diagnostico madurez.md:13:Dirección
+content/11a. Problematicas diagnostico madurez.md:13:el
+content/11a. Problematicas diagnostico madurez.md:13:esta
+content/11a. Problematicas diagnostico madurez.md:13:estratégico
+content/11a. Problematicas diagnostico madurez.md:13:febrero
+content/11a. Problematicas diagnostico madurez.md:13:FNA
+content/11a. Problematicas diagnostico madurez.md:13:hacer
+content/11a. Problematicas diagnostico madurez.md:13:igual
+content/11a. Problematicas diagnostico madurez.md:13:importancia
+content/11a. Problematicas diagnostico madurez.md:13:necesario
+content/11a. Problematicas diagnostico madurez.md:13:negocio
+content/11a. Problematicas diagnostico madurez.md:13:negocio
+content/11a. Problematicas diagnostico madurez.md:13:nivel
+content/11a. Problematicas diagnostico madurez.md:13:parte
+content/11a. Problematicas diagnostico madurez.md:13:problemática
+content/11a. Problematicas diagnostico madurez.md:13:próximo
+content/11a. Problematicas diagnostico madurez.md:13:realizar
+content/11a. Problematicas diagnostico madurez.md:13:responda
+content/11a. Problematicas diagnostico madurez.md:13:Tecnología
+content/11a. Problematicas diagnostico madurez.md:15:abajo
+content/11a. Problematicas diagnostico madurez.md:15:análisis
+content/11a. Problematicas diagnostico madurez.md:15:análisis
+content/11a. Problematicas diagnostico madurez.md:15:aumentar
+content/11a. Problematicas diagnostico madurez.md:15:bajo
+content/11a. Problematicas diagnostico madurez.md:15:debe
+content/11a. Problematicas diagnostico madurez.md:15:dimensión
+content/11a. Problematicas diagnostico madurez.md:15:dimensión
+content/11a. Problematicas diagnostico madurez.md:15:el
+content/11a. Problematicas diagnostico madurez.md:15:el
+content/11a. Problematicas diagnostico madurez.md:15:el
+content/11a. Problematicas diagnostico madurez.md:15:El
+content/11a. Problematicas diagnostico madurez.md:15:enfoque
+content/11a. Problematicas diagnostico madurez.md:15:esta
+content/11a. Problematicas diagnostico madurez.md:15:este
+content/11a. Problematicas diagnostico madurez.md:15:este
+content/11a. Problematicas diagnostico madurez.md:15:flexibilidad
+content/11a. Problematicas diagnostico madurez.md:15:Fondo
+content/11a. Problematicas diagnostico madurez.md:15:futuro
+content/11a. Problematicas diagnostico madurez.md:15:gobierno
+content/11a. Problematicas diagnostico madurez.md:15:Gobierno
+content/11a. Problematicas diagnostico madurez.md:15:imagen
+content/11a. Problematicas diagnostico madurez.md:15:independencia
+content/11a. Problematicas diagnostico madurez.md:15:índice
+content/11a. Problematicas diagnostico madurez.md:15:interno
+content/11a. Problematicas diagnostico madurez.md:15:lograr
+content/11a. Problematicas diagnostico madurez.md:15:más
+content/11a. Problematicas diagnostico madurez.md:15:misma
+content/11a. Problematicas diagnostico madurez.md:15:obtuvieron
+content/11a. Problematicas diagnostico madurez.md:15:obtuvo
+content/11a. Problematicas diagnostico madurez.md:15:otros
+content/11a. Problematicas diagnostico madurez.md:15:primordialmente
+content/11a. Problematicas diagnostico madurez.md:15:promedio
+content/11a. Problematicas diagnostico madurez.md:15:proveedor
+content/11a. Problematicas diagnostico madurez.md:15:puntaje
+content/11a. Problematicas diagnostico madurez.md:15:puntos
+content/11a. Problematicas diagnostico madurez.md:15:resultado
+content/11a. Problematicas diagnostico madurez.md:15:SOA
+content/11a. Problematicas diagnostico madurez.md:15:SOA
+content/11a. Problematicas diagnostico madurez.md:15:ver
+content/11b. Problemáticas SOA del FNA.md:1:Análisis
+content/11b. Problemáticas SOA del FNA.md:1:FNA
+content/11b. Problemáticas SOA del FNA.md:1:Fortalezas
+content/11b. Problemáticas SOA del FNA.md:1:SOA
+content/11b. Problemáticas SOA del FNA.md:3:acoplamiento
+content/11b. Problemáticas SOA del FNA.md:3:bajo
+content/11b. Problemáticas SOA del FNA.md:3:capacidades
+content/11b. Problemáticas SOA del FNA.md:3:Cobis
+content/11b. Problemáticas SOA del FNA.md:3:dependencia
+content/11b. Problemáticas SOA del FNA.md:3:evidenció
+content/11b. Problemáticas SOA del FNA.md:3:FNA
+content/11b. Problemáticas SOA del FNA.md:3:FNA
+content/11b. Problemáticas SOA del FNA.md:3:fortalezas
+content/11b. Problemáticas SOA del FNA.md:3:grados
+content/11b. Problemáticas SOA del FNA.md:3:mantener
+content/11b. Problemáticas SOA del FNA.md:3:mejorar
+content/11b. Problemáticas SOA del FNA.md:3:necesario
+content/11b. Problemáticas SOA del FNA.md:3:negocio
+content/11b. Problemáticas SOA del FNA.md:3:portafolio
+content/11b. Problemáticas SOA del FNA.md:3:problemas
+content/11b. Problemáticas SOA del FNA.md:3:proveedor
+content/11b. Problemáticas SOA del FNA.md:3:revisión
+content/11b. Problemáticas SOA del FNA.md:3:servicios
+content/11b. Problemáticas SOA del FNA.md:3:servicios
+content/11b. Problemáticas SOA del FNA.md:3:SOA
+content/11b. Problemáticas SOA del FNA.md:3:SOA
+content/11b. Problemáticas SOA del FNA.md:3:SOA
+content/11b. Problemáticas SOA del FNA.md:3:subsanar
+content/11b. Problemáticas SOA del FNA.md:5:acoplamiento
+content/11b. Problemáticas SOA del FNA.md:5:acoplamiento
+content/11b. Problemáticas SOA del FNA.md:5:Acoplamiento
+content/11b. Problemáticas SOA del FNA.md:5:afecta
+content/11b. Problemáticas SOA del FNA.md:5:capacidades
+content/11b. Problemáticas SOA del FNA.md:5:capacidades
+content/11b. Problemáticas SOA del FNA.md:5:caso
+content/11b. Problemáticas SOA del FNA.md:5:Catálogo
+content/11b. Problemáticas SOA del FNA.md:5:Catálogo
+content/11b. Problemáticas SOA del FNA.md:5:causa
+content/11b. Problemáticas SOA del FNA.md:5:causa
+content/11b. Problemáticas SOA del FNA.md:5:Cobis
+content/11b. Problemáticas SOA del FNA.md:5:Cobis
+content/11b. Problemáticas SOA del FNA.md:5:el
+content/11b. Problemáticas SOA del FNA.md:5:el
+content/11b. Problemáticas SOA del FNA.md:5:entre
+content/11b. Problemáticas SOA del FNA.md:5:esta
+content/11b. Problemáticas SOA del FNA.md:5:Esta
+content/11b. Problemáticas SOA del FNA.md:5:este
+content/11b. Problemáticas SOA del FNA.md:5:flexibilidad
+content/11b. Problemáticas SOA del FNA.md:5:flexibilidad
+content/11b. Problemáticas SOA del FNA.md:5:FNA
+content/11b. Problemáticas SOA del FNA.md:5:FNA
+content/11b. Problemáticas SOA del FNA.md:5:FNA
+content/11b. Problemáticas SOA del FNA.md:5:FNA
+content/11b. Problemáticas SOA del FNA.md:5:grado
+content/11b. Problemáticas SOA del FNA.md:5:herramientas
+content/11b. Problemáticas SOA del FNA.md:5:más
+content/11b. Problemáticas SOA del FNA.md:5:negocio
+content/11b. Problemáticas SOA del FNA.md:5:negocio
+content/11b. Problemáticas SOA del FNA.md:5:negocio
+content/11b. Problemáticas SOA del FNA.md:5:negocio
+content/11b. Problemáticas SOA del FNA.md:5:problemas
+content/11b. Problemáticas SOA del FNA.md:5:problemática
+content/11b. Problemáticas SOA del FNA.md:5:proveedor
+content/11b. Problemáticas SOA del FNA.md:5:rigidez
+content/11b. Problemáticas SOA del FNA.md:5:rigidez
+content/11b. Problemáticas SOA del FNA.md:5:rigidez
+content/11b. Problemáticas SOA del FNA.md:5:Servicios
+content/11b. Problemáticas SOA del FNA.md:5:Servicios
+content/11b. Problemáticas SOA del FNA.md:5:tiempo
+content/11b. Problemáticas SOA del FNA.md:5:tiempo
+content/11b. Problemáticas SOA del FNA.md:5:tiene
+content/11b. Problemáticas SOA del FNA.md:5:Todo
+content/11b. Problemáticas SOA del FNA.md:5:Todo
+content/11b. Problemáticas SOA del FNA.md:5:una
+content/11b. Problemáticas SOA del FNA.md:5:ver
+content/11b. Problemáticas SOA del FNA.md:7:acrecienten
+content/11b. Problemáticas SOA del FNA.md:7:anexo
+content/11b. Problemáticas SOA del FNA.md:7:aplicación
+content/11b. Problemáticas SOA del FNA.md:7:aplicaciones
+content/11b. Problemáticas SOA del FNA.md:7:aplicaciones
+content/11b. Problemáticas SOA del FNA.md:7:asegurar
+content/11b. Problemáticas SOA del FNA.md:7:aumento
+content/11b. Problemáticas SOA del FNA.md:7:aumento
+content/11b. Problemáticas SOA del FNA.md:7:calidad
+content/11b. Problemáticas SOA del FNA.md:7:cambio
+content/11b. Problemáticas SOA del FNA.md:7:cambio
+content/11b. Problemáticas SOA del FNA.md:7:cambios
+content/11b. Problemáticas SOA del FNA.md:7:Cartera
+content/11b. Problemáticas SOA del FNA.md:7:Catálogo
+content/11b. Problemáticas SOA del FNA.md:7:causa
+content/11b. Problemáticas SOA del FNA.md:7:Clientes
+content/11b. Problemáticas SOA del FNA.md:7:Cobis
+content/11b. Problemáticas SOA del FNA.md:7:Cobis
+content/11b. Problemáticas SOA del FNA.md:7:Cobis
+content/11b. Problemáticas SOA del FNA.md:7:complejidad
+content/11b. Problemáticas SOA del FNA.md:7:controle
+content/11b. Problemáticas SOA del FNA.md:7:datos
+content/11b. Problemáticas SOA del FNA.md:7:dependencia
+content/11b. Problemáticas SOA del FNA.md:7:dependencia
+content/11b. Problemáticas SOA del FNA.md:7:efectando
+content/11b. Problemáticas SOA del FNA.md:7:el
+content/11b. Problemáticas SOA del FNA.md:7:el
+content/11b. Problemáticas SOA del FNA.md:7:El
+content/11b. Problemáticas SOA del FNA.md:7:El
+content/11b. Problemáticas SOA del FNA.md:7:entre
+content/11b. Problemáticas SOA del FNA.md:7:esfuerzos
+content/11b. Problemáticas SOA del FNA.md:7:esta
+content/11b. Problemáticas SOA del FNA.md:7:Esto
+content/11b. Problemáticas SOA del FNA.md:7:evolutivos
+content/11b. Problemáticas SOA del FNA.md:7:FNA
+content/11b. Problemáticas SOA del FNA.md:7:Fondo
+content/11b. Problemáticas SOA del FNA.md:7:gobierno
+content/11b. Problemáticas SOA del FNA.md:7:grado
+content/11b. Problemáticas SOA del FNA.md:7:grado
+content/11b. Problemáticas SOA del FNA.md:7:grupo
+content/11b. Problemáticas SOA del FNA.md:7:implica
+content/11b. Problemáticas SOA del FNA.md:7:índices
+content/11b. Problemáticas SOA del FNA.md:7:intervención
+content/11b. Problemáticas SOA del FNA.md:7:mantenimiento
+content/11b. Problemáticas SOA del FNA.md:7:mantenimiento
+content/11b. Problemáticas SOA del FNA.md:7:más
+content/11b. Problemáticas SOA del FNA.md:7:más
+content/11b. Problemáticas SOA del FNA.md:7:mismo
+content/11b. Problemáticas SOA del FNA.md:7:ocurre
+content/11b. Problemáticas SOA del FNA.md:7:optimización
+content/11b. Problemáticas SOA del FNA.md:7:otros
+content/11b. Problemáticas SOA del FNA.md:7:portafolio
+content/11b. Problemáticas SOA del FNA.md:7:portafolio
+content/11b. Problemáticas SOA del FNA.md:7:portafolio
+content/11b. Problemáticas SOA del FNA.md:7:portafolio
+content/11b. Problemáticas SOA del FNA.md:7:prevenga
+content/11b. Problemáticas SOA del FNA.md:7:problemas
+content/11b. Problemáticas SOA del FNA.md:7:proliferadción
+content/11b. Problemáticas SOA del FNA.md:7:proveedoras
+content/11b. Problemáticas SOA del FNA.md:7:realizar
+content/11b. Problemáticas SOA del FNA.md:7:relación
+content/11b. Problemáticas SOA del FNA.md:7:relaciones
+content/11b. Problemáticas SOA del FNA.md:7:relaciones
+content/11b. Problemáticas SOA del FNA.md:7:relaciones
+content/11b. Problemáticas SOA del FNA.md:7:relaciones
+content/11b. Problemáticas SOA del FNA.md:7:requiere
+content/11b. Problemáticas SOA del FNA.md:7:requiere
+content/11b. Problemáticas SOA del FNA.md:7:rigidez
+content/11b. Problemáticas SOA del FNA.md:7:servicios
+content/11b. Problemáticas SOA del FNA.md:7:servicios
+content/11b. Problemáticas SOA del FNA.md:7:servicios
+content/11b. Problemáticas SOA del FNA.md:7:servicios
+content/11b. Problemáticas SOA del FNA.md:7:Servicios
+content/11b. Problemáticas SOA del FNA.md:7:SOA
+content/11b. Problemáticas SOA del FNA.md:7:SOA
+content/11b. Problemáticas SOA del FNA.md:7:SOA
+content/11b. Problemáticas SOA del FNA.md:7:su
+content/11b. Problemáticas SOA del FNA.md:7:suma
+content/11b. Problemáticas SOA del FNA.md:7:suman
+content/11b. Problemáticas SOA del FNA.md:7:tenga
+content/11b. Problemáticas SOA del FNA.md:7:termina
+content/11b. Problemáticas SOA del FNA.md:7:tiempo
+content/11b. Problemáticas SOA del FNA.md:7:una
+content/11b. Problemáticas SOA del FNA.md:7:una
+content/11b. Problemáticas SOA del FNA.md:7:ver
+content/11b. Problemáticas SOA del FNA.md:7:Ver
+content/11b. Problemáticas SOA del FNA.md:9:administrar
+content/11b. Problemáticas SOA del FNA.md:9:afecta
+content/11b. Problemáticas SOA del FNA.md:9:aplicaciones
+content/11b. Problemáticas SOA del FNA.md:9:áreas
+content/11b. Problemáticas SOA del FNA.md:9:áreas
+content/11b. Problemáticas SOA del FNA.md:9:baja
+content/11b. Problemáticas SOA del FNA.md:9:cantidad
+content/11b. Problemáticas SOA del FNA.md:9:Catálogo
+content/11b. Problemáticas SOA del FNA.md:9:complica
+content/11b. Problemáticas SOA del FNA.md:9:consumiento
+content/11b. Problemáticas SOA del FNA.md:9:contrario
+content/11b. Problemáticas SOA del FNA.md:9:creciente
+content/11b. Problemáticas SOA del FNA.md:9:Crédito
+content/11b. Problemáticas SOA del FNA.md:9:demanda
+content/11b. Problemáticas SOA del FNA.md:9:eficacia
+content/11b. Problemáticas SOA del FNA.md:9:empieza
+content/11b. Problemáticas SOA del FNA.md:9:FNA
+content/11b. Problemáticas SOA del FNA.md:9:gestión
+content/11b. Problemáticas SOA del FNA.md:9:intermediarios
+content/11b. Problemáticas SOA del FNA.md:9:llenarse
+content/11b. Problemáticas SOA del FNA.md:9:más
+content/11b. Problemáticas SOA del FNA.md:9:mayores
+content/11b. Problemáticas SOA del FNA.md:9:negocio
+content/11b. Problemáticas SOA del FNA.md:9:negocio
+content/11b. Problemáticas SOA del FNA.md:9:nivel
+content/11b. Problemáticas SOA del FNA.md:9:Operaciones
+content/11b. Problemáticas SOA del FNA.md:9:por
+content/11b. Problemáticas SOA del FNA.md:9:portafolio
+content/11b. Problemáticas SOA del FNA.md:9:recursos
+content/11b. Problemáticas SOA del FNA.md:9:relación
+content/11b. Problemáticas SOA del FNA.md:9:relación
+content/11b. Problemáticas SOA del FNA.md:9:relaciones
+content/11b. Problemáticas SOA del FNA.md:9:relaciones
+content/11b. Problemáticas SOA del FNA.md:9:requerimientos
+content/11b. Problemáticas SOA del FNA.md:9:requerimientos
+content/11b. Problemáticas SOA del FNA.md:9:responden
+content/11b. Problemáticas SOA del FNA.md:9:servicios
+content/11b. Problemáticas SOA del FNA.md:9:servicios
+content/11b. Problemáticas SOA del FNA.md:9:servicios
+content/11b. Problemáticas SOA del FNA.md:9:servicios
+content/11b. Problemáticas SOA del FNA.md:9:servicios
+content/11b. Problemáticas SOA del FNA.md:9:servicios
+content/11b. Problemáticas SOA del FNA.md:9:servicios
+content/11b. Problemáticas SOA del FNA.md:9:Servicios
+content/11b. Problemáticas SOA del FNA.md:9:sus
+content/11b. Problemáticas SOA del FNA.md:9:terminan
+content/11b. Problemáticas SOA del FNA.md:9:términos
+content/11b. Problemáticas SOA del FNA.md:9:tipo
+content/11b. Problemáticas SOA del FNA.md:9:utilitarios
+content/11b. Problemáticas SOA del FNA.md:9:ver
+content/11b. Problemáticas SOA del FNA.md:9:vicepresidencia
+content/11b. Problemáticas SOA del FNA.md:9:vicepresidencias
+content/11b. Problemáticas SOA del FNA.md:11:agrava
+content/11b. Problemáticas SOA del FNA.md:11:Algunos
+content/11b. Problemáticas SOA del FNA.md:11:análisis
+content/11b. Problemáticas SOA del FNA.md:11:anteriores
+content/11b. Problemáticas SOA del FNA.md:11:arquitectura
+content/11b. Problemáticas SOA del FNA.md:11:arquitectura
+content/11b. Problemáticas SOA del FNA.md:11:arquitectura
+content/11b. Problemáticas SOA del FNA.md:11:arquitectura
+content/11b. Problemáticas SOA del FNA.md:11:arquitectura
+content/11b. Problemáticas SOA del FNA.md:11:causa
+content/11b. Problemáticas SOA del FNA.md:11:complica
+content/11b. Problemáticas SOA del FNA.md:11:conceptos
+content/11b. Problemáticas SOA del FNA.md:11:debilita
+content/11b. Problemáticas SOA del FNA.md:11:desactualizaciones
+content/11b. Problemáticas SOA del FNA.md:11:dificultad
+content/11b. Problemáticas SOA del FNA.md:11:el
+content/11b. Problemáticas SOA del FNA.md:11:entendimiento
+content/11b. Problemáticas SOA del FNA.md:11:equipo
+content/11b. Problemáticas SOA del FNA.md:11:esto
+content/11b. Problemáticas SOA del FNA.md:11:FNA
+content/11b. Problemáticas SOA del FNA.md:11:FNA
+content/11b. Problemáticas SOA del FNA.md:11:Fondo
+content/11b. Problemáticas SOA del FNA.md:11:función
+content/11b. Problemáticas SOA del FNA.md:11:gobierno
+content/11b. Problemáticas SOA del FNA.md:11:gobierno
+content/11b. Problemáticas SOA del FNA.md:11:mantener
+content/11b. Problemáticas SOA del FNA.md:11:modelos
+content/11b. Problemáticas SOA del FNA.md:11:por
+content/11b. Problemáticas SOA del FNA.md:11:presenta
+content/11b. Problemáticas SOA del FNA.md:11:problemas
+content/11b. Problemáticas SOA del FNA.md:11:problemática
+content/11b. Problemáticas SOA del FNA.md:11:redundancias
+content/11b. Problemáticas SOA del FNA.md:11:relevancia
+content/11b. Problemáticas SOA del FNA.md:11:repositorio
+content/11b. Problemáticas SOA del FNA.md:11:repositorio
+content/11b. Problemáticas SOA del FNA.md:11:SOA
+content/11b. Problemáticas SOA del FNA.md:11:sobresfuerzo
+content/11b. Problemáticas SOA del FNA.md:11:tipo
+content/11b. Problemáticas SOA del FNA.md:11:todas
+content/11b. Problemáticas SOA del FNA.md:11:último
+content/11c. Oportunidades SOA.md:1:FNA
+content/11c. Oportunidades SOA.md:1:Oportunidades
+content/11c. Oportunidades SOA.md:1:SOA
+content/11c. Oportunidades SOA.md:3:acoplamiento
+content/11c. Oportunidades SOA.md:3:algunas
+content/11c. Oportunidades SOA.md:3:anteriores
+content/11c. Oportunidades SOA.md:3:ascendente
+content/11c. Oportunidades SOA.md:3:así
+content/11c. Oportunidades SOA.md:3:aspectos
+content/11c. Oportunidades SOA.md:3:bajo
+content/11c. Oportunidades SOA.md:3:cambio
+content/11c. Oportunidades SOA.md:3:cambio
+content/11c. Oportunidades SOA.md:3:capacidades
+content/11c. Oportunidades SOA.md:3:capitalizar
+content/11c. Oportunidades SOA.md:3:carácter
+content/11c. Oportunidades SOA.md:3:continuación
+content/11c. Oportunidades SOA.md:3:decisiones
+content/11c. Oportunidades SOA.md:3:dejan
+content/11c. Oportunidades SOA.md:3:desde
+content/11c. Oportunidades SOA.md:3:Diagnóstico
+content/11c. Oportunidades SOA.md:3:Diagnóstico
+content/11c. Oportunidades SOA.md:3:diagnósticos
+content/11c. Oportunidades SOA.md:3:diagnósticos
+content/11c. Oportunidades SOA.md:3:el
+content/11c. Oportunidades SOA.md:3:el
+content/11c. Oportunidades SOA.md:3:el
+content/11c. Oportunidades SOA.md:3:el
+content/11c. Oportunidades SOA.md:3:enfoque
+content/11c. Oportunidades SOA.md:3:entendida
+content/11c. Oportunidades SOA.md:3:entregar
+content/11c. Oportunidades SOA.md:3:estas
+content/11c. Oportunidades SOA.md:3:esto
+content/11c. Oportunidades SOA.md:3:evidenciada
+content/11c. Oportunidades SOA.md:3:FNA
+content/11c. Oportunidades SOA.md:3:funcionalidad
+content/11c. Oportunidades SOA.md:3:gestión
+content/11c. Oportunidades SOA.md:3:hacia
+content/11c. Oportunidades SOA.md:3:mejora
+content/11c. Oportunidades SOA.md:3:modernas
+content/11c. Oportunidades SOA.md:3:necesario
+content/11c. Oportunidades SOA.md:3:negocio
+content/11c. Oportunidades SOA.md:3:negocio
+content/11c. Oportunidades SOA.md:3:negocio
+content/11c. Oportunidades SOA.md:3:oportunidades
+content/11c. Oportunidades SOA.md:3:oportunidades
+content/11c. Oportunidades SOA.md:3:otras
+content/11c. Oportunidades SOA.md:3:portafolio
+content/11c. Oportunidades SOA.md:3:prevalencia
+content/11c. Oportunidades SOA.md:3:problemática
+content/11c. Oportunidades SOA.md:3:producción
+content/11c. Oportunidades SOA.md:3:provedor
+content/11c. Oportunidades SOA.md:3:proveedor
+content/11c. Oportunidades SOA.md:3:pueden
+content/11c. Oportunidades SOA.md:3:reglas
+content/11c. Oportunidades SOA.md:3:Resultado
+content/11c. Oportunidades SOA.md:3:Resultado
+content/11c. Oportunidades SOA.md:3:retos
+content/11c. Oportunidades SOA.md:3:rigidez
+content/11c. Oportunidades SOA.md:3:servicios
+content/11c. Oportunidades SOA.md:3:Situación
+content/11c. Oportunidades SOA.md:3:Situación
+content/11c. Oportunidades SOA.md:3:soluciones
+content/11c. Oportunidades SOA.md:3:tecnología
+content/11c. Oportunidades SOA.md:3:tiempo
+content/11c. Oportunidades SOA.md:3:tiempo
+content/11c. Oportunidades SOA.md:3:tipos
+content/11c. Oportunidades SOA.md:3:toma
+content/11c. Oportunidades SOA.md:3:una
+content/11c. Oportunidades SOA.md:3:veremos
+content/11c. Oportunidades SOA.md:7:Arquitectura
+content/11c. Oportunidades SOA.md:7:Desarrollo
+content/11c. Oportunidades SOA.md:7:FNA
+content/11c. Oportunidades SOA.md:7:Guiada
+content/11c. Oportunidades SOA.md:7:Oportunidad
+content/11c. Oportunidades SOA.md:7:por
+content/11c. Oportunidades SOA.md:7:Referencia
+content/11c. Oportunidades SOA.md:7:Servicios
+content/11c. Oportunidades SOA.md:8:alineación
+content/11c. Oportunidades SOA.md:8:análisis
+content/11c. Oportunidades SOA.md:8:aplicaciones
+content/11c. Oportunidades SOA.md:8:arquitectura
+content/11c. Oportunidades SOA.md:8:Crédito
+content/11c. Oportunidades SOA.md:8:descendente
+content/11c. Oportunidades SOA.md:8:desde
+content/11c. Oportunidades SOA.md:8:Diagnóstico
+content/11c. Oportunidades SOA.md:8:el
+content/11c. Oportunidades SOA.md:8:el
+content/11c. Oportunidades SOA.md:8:el
+content/11c. Oportunidades SOA.md:8:enfoque
+content/11c. Oportunidades SOA.md:8:FNA
+content/11c. Oportunidades SOA.md:8:Fondo
+content/11c. Oportunidades SOA.md:8:más
+content/11c. Oportunidades SOA.md:8:muestra
+content/11c. Oportunidades SOA.md:8:Operaciones
+content/11c. Oportunidades SOA.md:8:oportunidad
+content/11c. Oportunidades SOA.md:8:portafolio
+content/11c. Oportunidades SOA.md:8:predominante
+content/11c. Oportunidades SOA.md:8:proveedores
+content/11c. Oportunidades SOA.md:8:provienen
+content/11c. Oportunidades SOA.md:8:referencia
+content/11c. Oportunidades SOA.md:8:reforzar
+content/11c. Oportunidades SOA.md:8:Resultado
+content/11c. Oportunidades SOA.md:8:servicios
+content/11c. Oportunidades SOA.md:8:Situación
+content/11c. Oportunidades SOA.md:8:SOA
+content/11c. Oportunidades SOA.md:8:SOA
+content/11c. Oportunidades SOA.md:8:tenemos
+content/11c. Oportunidades SOA.md:8:ver
+content/11c. Oportunidades SOA.md:8:vicepresidencia
+content/11c. Oportunidades SOA.md:12:Arquitectura
+content/11c. Oportunidades SOA.md:12:desarrollo
+content/11c. Oportunidades SOA.md:12:el
+content/11c. Oportunidades SOA.md:12:guía
+content/11c. Oportunidades SOA.md:12:Imagen
+content/11c. Oportunidades SOA.md:12:portafolio
+content/11c. Oportunidades SOA.md:12:referencia
+content/11c. Oportunidades SOA.md:12:SOA
+content/11c. Oportunidades SOA.md:14:elaboración
+content/11c. Oportunidades SOA.md:14:propia
+content/11c. Oportunidades SOA.md:18:eficacia
+content/11c. Oportunidades SOA.md:18:FNA
+content/11c. Oportunidades SOA.md:18:índices
+content/11c. Oportunidades SOA.md:18:Monitoreo
+content/11c. Oportunidades SOA.md:18:Oportunidad
+content/11c. Oportunidades SOA.md:18:Servicios
+content/11c. Oportunidades SOA.md:19:alineación
+content/11c. Oportunidades SOA.md:19:arquitectura
+content/11c. Oportunidades SOA.md:19:asegura
+content/11c. Oportunidades SOA.md:19:correctivos
+content/11c. Oportunidades SOA.md:19:desarrollo
+content/11c. Oportunidades SOA.md:19:día
+content/11c. Oportunidades SOA.md:19:día
+content/11c. Oportunidades SOA.md:19:el
+content/11c. Oportunidades SOA.md:19:el
+content/11c. Oportunidades SOA.md:19:esfuerzos
+content/11c. Oportunidades SOA.md:19:evolutivos
+content/11c. Oportunidades SOA.md:19:focalización
+content/11c. Oportunidades SOA.md:19:inversión
+content/11c. Oportunidades SOA.md:19:mediano
+content/11c. Oportunidades SOA.md:19:mejora
+content/11c. Oportunidades SOA.md:19:monitorear
+content/11c. Oportunidades SOA.md:19:negocio
+content/11c. Oportunidades SOA.md:19:operativos
+content/11c. Oportunidades SOA.md:19:oportunidad
+content/11c. Oportunidades SOA.md:19:plazo
+content/11c. Oportunidades SOA.md:19:referencia
+content/11c. Oportunidades SOA.md:19:SOA
+content/11c. Oportunidades SOA.md:19:tecnología
+content/11c. Oportunidades SOA.md:19:una
+content/11c. Oportunidades SOA.md:23:FNA
+content/11c. Oportunidades SOA.md:23:Oportunidad
+content/11c. Oportunidades SOA.md:23:SOA
+content/11c. Oportunidades SOA.md:23:Tecnología
+content/11c. Oportunidades SOA.md:23:Utilización
+content/11c. Oportunidades SOA.md:24:análisis
+content/11c. Oportunidades SOA.md:24:cada
+content/11c. Oportunidades SOA.md:24:campo
+content/11c. Oportunidades SOA.md:24:características
+content/11c. Oportunidades SOA.md:24:determinar
+content/11c. Oportunidades SOA.md:24:diagnóstico
+content/11c. Oportunidades SOA.md:24:el
+content/11c. Oportunidades SOA.md:24:el
+content/11c. Oportunidades SOA.md:24:este
+content/11c. Oportunidades SOA.md:24:exactitud
+content/11c. Oportunidades SOA.md:24:FNA
+content/11c. Oportunidades SOA.md:24:FNA
+content/11c. Oportunidades SOA.md:24:Fondo
+content/11c. Oportunidades SOA.md:24:grande
+content/11c. Oportunidades SOA.md:24:inicial
+content/11c. Oportunidades SOA.md:24:invierte
+content/11c. Oportunidades SOA.md:24:nivel
+content/11c. Oportunidades SOA.md:24:plataformas
+content/11c. Oportunidades SOA.md:24:productos
+content/11c. Oportunidades SOA.md:24:proveedor
+content/11c. Oportunidades SOA.md:24:señalamos
+content/11c. Oportunidades SOA.md:24:SOA
+content/11c. Oportunidades SOA.md:24:soluciones
+content/11c. Oportunidades SOA.md:24:trata
+content/11c. Oportunidades SOA.md:24:uno
+content/11c. Oportunidades SOA.md:24:utilización
+content/11c. Oportunidades SOA.md:26:el
+content/11c. Oportunidades SOA.md:26:FNA
+content/11c. Oportunidades SOA.md:26:información
+content/11c. Oportunidades SOA.md:26:momento
+content/11c. Oportunidades SOA.md:26:repositorio
+content/11c. Oportunidades SOA.md:26:tal
+content/11c. Oportunidades SOA.md:30:Arquitectura
+content/11c. Oportunidades SOA.md:30:figura
+content/11c. Oportunidades SOA.md:30:Gobierno
+content/11c. Oportunidades SOA.md:30:Impulsar
+content/11c. Oportunidades SOA.md:30:Oportunidad
+content/11c. Oportunidades SOA.md:30:SOA
+content/11c. Oportunidades SOA.md:31:arquitectura
+content/11c. Oportunidades SOA.md:31:basado
+content/11c. Oportunidades SOA.md:31:clasificación
+content/11c. Oportunidades SOA.md:31:contiene
+content/11c. Oportunidades SOA.md:31:el
+content/11c. Oportunidades SOA.md:31:este
+content/11c. Oportunidades SOA.md:31:Existe
+content/11c. Oportunidades SOA.md:31:FNA
+content/11c. Oportunidades SOA.md:31:Fondo
+content/11c. Oportunidades SOA.md:31:función
+content/11c. Oportunidades SOA.md:31:gobierno
+content/11c. Oportunidades SOA.md:31:impulsar
+content/11c. Oportunidades SOA.md:31:información
+content/11c. Oportunidades SOA.md:31:información
+content/11c. Oportunidades SOA.md:31:inicial
+content/11c. Oportunidades SOA.md:31:objetivo
+content/11c. Oportunidades SOA.md:31:oportunidad
+content/11c. Oportunidades SOA.md:31:repositorio
+content/11c. Oportunidades SOA.md:31:repositorio
+content/11c. Oportunidades SOA.md:31:siguiente
+content/11c. Oportunidades SOA.md:31:SOA
+content/11c. Oportunidades SOA.md:31:ver
+content/11c. Oportunidades SOA.md:33:Contenidos
+content/11c. Oportunidades SOA.md:33:FNA
+content/11c. Oportunidades SOA.md:35:Servicios
+content/11c. Oportunidades SOA.md:36:Arquitectura
+content/11c. Oportunidades SOA.md:37:Información
+content/11c. Oportunidades SOA.md:38:Aplicación
+content/11c. Oportunidades SOA.md:39:Funcional
+content/11c. Oportunidades SOA.md:40:Contenidos
+content/11c. Oportunidades SOA.md:40:FNA
+content/11c. Oportunidades SOA.md:40:revisados
+content/11c. Oportunidades SOA.md:42:Clasificación
+content/11c. Oportunidades SOA.md:42:FNA
+content/11c. Oportunidades SOA.md:42:información
+content/11c. Oportunidades SOA.md:42:repositorio
+content/11c. Oportunidades SOA.md:44:elaboración
+content/11c. Oportunidades SOA.md:44:propia
+content/11c. Oportunidades SOA.md:48:conceptos
+content/11c. Oportunidades SOA.md:48:encontradas
+content/11c. Oportunidades SOA.md:48:este
+content/11c. Oportunidades SOA.md:48:información
+content/11c. Oportunidades SOA.md:48:modelos
+content/11c. Oportunidades SOA.md:48:paso
+content/11c. Oportunidades SOA.md:48:problemática
+content/11c. Oportunidades SOA.md:48:repositorio
+content/11c. Oportunidades SOA.md:48:sentido
+content/11c. Oportunidades SOA.md:48:subsanar
+content/11c. Oportunidades SOA.md:50:atraso
+content/11c. Oportunidades SOA.md:50:conceptos
+content/11c. Oportunidades SOA.md:50:el
+content/11c. Oportunidades SOA.md:50:información
+content/11c. Oportunidades SOA.md:50:modelos
+content/11c. Oportunidades SOA.md:50:Redundancias
+content/11c. Oportunidades SOA.md:51:capacidades
+content/11c. Oportunidades SOA.md:51:conceptos
+content/11c. Oportunidades SOA.md:51:el
+content/11c. Oportunidades SOA.md:51:FNA
+content/11c. Oportunidades SOA.md:51:Incompletitud
+content/11c. Oportunidades SOA.md:51:modelamiento
+content/11c. Oportunidades SOA.md:51:negocio
+content/11c. Oportunidades SOA.md:51:negocio
+content/11c. Oportunidades SOA.md:51:procesos
+content/11c. Oportunidades SOA.md:52:conceptos
+content/11c. Oportunidades SOA.md:52:el
+content/11c. Oportunidades SOA.md:52:entre
+content/11c. Oportunidades SOA.md:52:estandarizar
+content/11c. Oportunidades SOA.md:52:Falta
+content/11c. Oportunidades SOA.md:52:formas
+content/11c. Oportunidades SOA.md:52:Inconsistencia
+content/11c. Oportunidades SOA.md:52:lenguaje
+content/11c. Oportunidades SOA.md:52:mismo
+content/11c. Oportunidades SOA.md:52:modelado
+content/11c. Oportunidades SOA.md:52:modelos
+content/11c. Oportunidades SOA.md:52:nombres
+content/11c. Oportunidades SOA.md:52:representación
