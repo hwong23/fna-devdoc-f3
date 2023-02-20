@@ -5,61 +5,318 @@ content/00. caratula.md:14:encuentra
 content/00. caratula.md:14:indicada
 content/00. caratula.md:14:versión
 content/00. caratula.md:24:Grupo
-content/09a. Matriz de brechas.md:1:arquitectura
-content/09a. Matriz de brechas.md:1:brechas
-content/09a. Matriz de brechas.md:1:brechas
-content/09a. Matriz de brechas.md:1:candidata
-content/09a. Matriz de brechas.md:1:FNA
-content/09a. Matriz de brechas.md:1:iniciativas
-content/09a. Matriz de brechas.md:1:Matriz
-content/09a. Matriz de brechas.md:1:Portafolio
-content/09a. Matriz de brechas.md:1:segmento
-content/09a. Matriz de brechas.md:1:SOA
-content/09a. Matriz de brechas.md:1:Tema
-content/09a. Matriz de brechas.md:3:Análisis
-content/09a. Matriz de brechas.md:3:brecha
-content/09a. Matriz de brechas.md:3:clave
-content/09a. Matriz de brechas.md:3:Comparativa
-content/09a. Matriz de brechas.md:3:Palabras
-content/09a. Matriz de brechas.md:3:SOA
-content/09a. Matriz de brechas.md:4:Autor
-content/09a. Matriz de brechas.md:5:Fuente
-content/09a. Matriz de brechas.md:7:FNA
-content/09a. Matriz de brechas.md:7:Segmento
-content/09a. Matriz de brechas.md:7:SOA
-content/09a. Matriz de brechas.md:7:Vínculos
-content/09a. Matriz de brechas.md:11:arquitectura
-content/09a. Matriz de brechas.md:11:brechas
-content/09a. Matriz de brechas.md:11:candidata
-content/09a. Matriz de brechas.md:11:FNA
-content/09a. Matriz de brechas.md:11:Matriz
-content/09a. Matriz de brechas.md:11:segmento
-content/09a. Matriz de brechas.md:11:SOA
-content/09b. Lista de iniciativas y proyectos.md:1:brechas
-content/09b. Lista de iniciativas y proyectos.md:1:iniciativas
-content/09b. Lista de iniciativas y proyectos.md:1:iniciativas
-content/09b. Lista de iniciativas y proyectos.md:1:Lista
-content/09b. Lista de iniciativas y proyectos.md:1:Portafolio
-content/09b. Lista de iniciativas y proyectos.md:1:proyectos
-content/09b. Lista de iniciativas y proyectos.md:1:SOA
-content/09b. Lista de iniciativas y proyectos.md:1:Tema
-content/09b. Lista de iniciativas y proyectos.md:3:Análisis
-content/09b. Lista de iniciativas y proyectos.md:3:brecha
-content/09b. Lista de iniciativas y proyectos.md:3:clave
-content/09b. Lista de iniciativas y proyectos.md:3:Comparativa
-content/09b. Lista de iniciativas y proyectos.md:3:Palabras
-content/09b. Lista de iniciativas y proyectos.md:3:SOA
-content/09b. Lista de iniciativas y proyectos.md:4:Autor
-content/09b. Lista de iniciativas y proyectos.md:5:Fuente
-content/09b. Lista de iniciativas y proyectos.md:7:FNA
-content/09b. Lista de iniciativas y proyectos.md:7:Segmento
-content/09b. Lista de iniciativas y proyectos.md:7:SOA
-content/09b. Lista de iniciativas y proyectos.md:7:Vínculos
-content/09b. Lista de iniciativas y proyectos.md:11:Brecha
-content/09b. Lista de iniciativas y proyectos.md:11:Cierre
-content/09b. Lista de iniciativas y proyectos.md:11:iniciativas
-content/09b. Lista de iniciativas y proyectos.md:11:Lista
-content/09b. Lista de iniciativas y proyectos.md:11:Proyectos
+content/09a. Método análisis brecha.md:1:análisis
+content/09a. Método análisis brecha.md:1:brecha
+content/09a. Método análisis brecha.md:1:brechas
+content/09a. Método análisis brecha.md:1:FNA
+content/09a. Método análisis brecha.md:1:iniciativas
+content/09a. Método análisis brecha.md:1:Método
+content/09a. Método análisis brecha.md:1:Portafolio
+content/09a. Método análisis brecha.md:1:Tema
+content/09a. Método análisis brecha.md:3:Análisis
+content/09a. Método análisis brecha.md:3:brecha
+content/09a. Método análisis brecha.md:3:clave
+content/09a. Método análisis brecha.md:3:Comparativa
+content/09a. Método análisis brecha.md:3:Palabras
+content/09a. Método análisis brecha.md:3:SOA
+content/09a. Método análisis brecha.md:4:Autor
+content/09a. Método análisis brecha.md:5:Fuente
+content/09a. Método análisis brecha.md:7:FNA
+content/09a. Método análisis brecha.md:7:Segmento
+content/09a. Método análisis brecha.md:7:SOA
+content/09a. Método análisis brecha.md:7:Vínculos
+content/09a. Método análisis brecha.md:11:Análisis
+content/09a. Método análisis brecha.md:11:Brecha
+content/09a. Método análisis brecha.md:11:FNA
+content/09a. Método análisis brecha.md:11:Método
+content/09a. Método análisis brecha.md:12:adaptado
+content/09a. Método análisis brecha.md:12:análisis
+content/09a. Método análisis brecha.md:12:análisis
+content/09a. Método análisis brecha.md:12:anteriores
+content/09a. Método análisis brecha.md:12:brecha
+content/09a. Método análisis brecha.md:12:brecha
+content/09a. Método análisis brecha.md:12:brechas
+content/09a. Método análisis brecha.md:12:busca
+content/09a. Método análisis brecha.md:12:concretos
+content/09a. Método análisis brecha.md:12:cuanto
+content/09a. Método análisis brecha.md:12:ejercicio
+content/09a. Método análisis brecha.md:12:el
+content/09a. Método análisis brecha.md:12:El
+content/09a. Método análisis brecha.md:12:esperados
+content/09a. Método análisis brecha.md:12:está
+content/09a. Método análisis brecha.md:12:Este
+content/09a. Método análisis brecha.md:12:Fase
+content/09a. Método análisis brecha.md:12:fases
+content/09a. Método análisis brecha.md:12:FNA
+content/09a. Método análisis brecha.md:12:foco
+content/09a. Método análisis brecha.md:12:hacer
+content/09a. Método análisis brecha.md:12:método
+content/09a. Método análisis brecha.md:12:onjetivos
+content/09a. Método análisis brecha.md:12:presente
+content/09a. Método análisis brecha.md:12:resultados
+content/09a. Método análisis brecha.md:12:resultados
+content/09a. Método análisis brecha.md:12:Resumen
+content/09a. Método análisis brecha.md:12:SOA
+content/09a. Método análisis brecha.md:12:usar
+content/09a. Método análisis brecha.md:12:ver
+content/09a. Método análisis brecha.md:16:Análisis
+content/09a. Método análisis brecha.md:16:Brecha
+content/09a. Método análisis brecha.md:16:FNA
+content/09a. Método análisis brecha.md:16:Objetivos
+content/09a. Método análisis brecha.md:17:activos
+content/09a. Método análisis brecha.md:17:análisis
+content/09a. Método análisis brecha.md:17:brechas
+content/09a. Método análisis brecha.md:17:brechas
+content/09a. Método análisis brecha.md:17:busca
+content/09a. Método análisis brecha.md:17:concretos
+content/09a. Método análisis brecha.md:17:conecten
+content/09a. Método análisis brecha.md:17:diagnóstico
+content/09a. Método análisis brecha.md:17:El
+content/09a. Método análisis brecha.md:17:encontradas
+content/09a. Método análisis brecha.md:17:encontrar
+content/09a. Método análisis brecha.md:17:encontrar
+content/09a. Método análisis brecha.md:17:este
+content/09a. Método análisis brecha.md:17:Este
+content/09a. Método análisis brecha.md:17:fases
+content/09a. Método análisis brecha.md:17:FNA
+content/09a. Método análisis brecha.md:17:mejor
+content/09a. Método análisis brecha.md:17:objetivo
+content/09a. Método análisis brecha.md:17:objtivos
+content/09a. Método análisis brecha.md:17:problemáticas
+content/09a. Método análisis brecha.md:17:reutilicen
+content/09a. Método análisis brecha.md:17:SOA
+content/09a. Método análisis brecha.md:19:acrquitectura
+content/09a. Método análisis brecha.md:19:activos
+content/09a. Método análisis brecha.md:19:activos
+content/09a. Método análisis brecha.md:19:ajustes
+content/09a. Método análisis brecha.md:19:brechas
+content/09a. Método análisis brecha.md:19:candidata
+content/09a. Método análisis brecha.md:19:deben
+content/09a. Método análisis brecha.md:19:delinear
+content/09a. Método análisis brecha.md:19:diagnóstico
+content/09a. Método análisis brecha.md:19:disponibles
+content/09a. Método análisis brecha.md:19:el
+content/09a. Método análisis brecha.md:19:encuentren
+content/09a. Método análisis brecha.md:19:entrará
+content/09a. Método análisis brecha.md:19:entregada
+content/09a. Método análisis brecha.md:19:equiparados
+content/09a. Método análisis brecha.md:19:este
+content/09a. Método análisis brecha.md:19:Este
+content/09a. Método análisis brecha.md:19:estrategias
+content/09a. Método análisis brecha.md:19:fase
+content/09a. Método análisis brecha.md:19:FNA
+content/09a. Método análisis brecha.md:19:FNA
+content/09a. Método análisis brecha.md:19:funcional
+content/09a. Método análisis brecha.md:19:futuras
+content/09a. Método análisis brecha.md:19:implementación
+content/09a. Método análisis brecha.md:19:objeitvo
+content/09a. Método análisis brecha.md:19:por
+content/09a. Método análisis brecha.md:19:por
+content/09a. Método análisis brecha.md:19:requeridos
+content/09a. Método análisis brecha.md:19:Reutilizar
+content/09a. Método análisis brecha.md:19:ser
+content/09a. Método análisis brecha.md:19:soluciones
+content/09a. Método análisis brecha.md:19:tecnológicamente
+content/09a. Método análisis brecha.md:19:Todos
+content/09a. Método análisis brecha.md:19:versión
+content/09a. Método análisis brecha.md:21:anteriores
+content/09a. Método análisis brecha.md:21:aporten
+content/09a. Método análisis brecha.md:21:brechas
+content/09a. Método análisis brecha.md:21:brechas
+content/09a. Método análisis brecha.md:21:Brechas
+content/09a. Método análisis brecha.md:21:Cada
+content/09a. Método análisis brecha.md:21:conecten
+content/09a. Método análisis brecha.md:21:conocimiento
+content/09a. Método análisis brecha.md:21:conocimiento
+content/09a. Método análisis brecha.md:21:considerados
+content/09a. Método análisis brecha.md:21:consultoría
+content/09a. Método análisis brecha.md:21:contribuye
+content/09a. Método análisis brecha.md:21:cumplirlo
+content/09a. Método análisis brecha.md:21:desarrolladas
+content/09a. Método análisis brecha.md:21:diagnóstico
+content/09a. Método análisis brecha.md:21:ejemplo
+content/09a. Método análisis brecha.md:21:el
+content/09a. Método análisis brecha.md:21:el
+content/09a. Método análisis brecha.md:21:encontrar
+content/09a. Método análisis brecha.md:21:esta
+content/09a. Método análisis brecha.md:21:este
+content/09a. Método análisis brecha.md:21:Este
+content/09a. Método análisis brecha.md:21:estos
+content/09a. Método análisis brecha.md:21:fases
+content/09a. Método análisis brecha.md:21:flexibilidad
+content/09a. Método análisis brecha.md:21:FNA
+content/09a. Método análisis brecha.md:21:Fondo
+content/09a. Método análisis brecha.md:21:fueron
+content/09a. Método análisis brecha.md:21:identificación
+content/09a. Método análisis brecha.md:21:importantes
+content/09a. Método análisis brecha.md:21:ítems
+content/09a. Método análisis brecha.md:21:método
+content/09a. Método análisis brecha.md:21:objetivos
+content/09a. Método análisis brecha.md:21:oportunidades
+content/09a. Método análisis brecha.md:21:parte
+content/09a. Método análisis brecha.md:21:partimos
+content/09a. Método análisis brecha.md:21:Por
+content/09a. Método análisis brecha.md:21:previo
+content/09a. Método análisis brecha.md:21:problemáticas
+content/09a. Método análisis brecha.md:21:problemáticas
+content/09a. Método análisis brecha.md:21:proyecto
+content/09a. Método análisis brecha.md:21:relevantes
+content/09a. Método análisis brecha.md:21:riesgos
+content/09a. Método análisis brecha.md:21:selección
+content/09a. Método análisis brecha.md:21:SOA
+content/09a. Método análisis brecha.md:21:uno
+content/09a. Método análisis brecha.md:21:uno
+content/09a. Método análisis brecha.md:21:vamos
+content/09a. Método análisis brecha.md:25:Análisis
+content/09a. Método análisis brecha.md:25:Brecha
+content/09a. Método análisis brecha.md:25:Entradas
+content/09a. Método análisis brecha.md:25:FNA
+content/09a. Método análisis brecha.md:25:Método
+content/09a. Método análisis brecha.md:25:Salidas
+content/09a. Método análisis brecha.md:26:arriba
+content/09a. Método análisis brecha.md:26:descritos
+content/09a. Método análisis brecha.md:26:entradas
+content/09a. Método análisis brecha.md:26:este
+content/09a. Método análisis brecha.md:26:garantizar
+content/09a. Método análisis brecha.md:26:imagen
+content/09a. Método análisis brecha.md:26:método
+content/09a. Método análisis brecha.md:26:necesarias
+content/09a. Método análisis brecha.md:26:objetivos
+content/09a. Método análisis brecha.md:26:presentamos
+content/09a. Método análisis brecha.md:26:propone
+content/09a. Método análisis brecha.md:26:salidas
+content/09a. Método análisis brecha.md:26:siguiente
+content/09a. Método análisis brecha.md:26:tanto
+content/09a. Método análisis brecha.md:30:análisis
+content/09a. Método análisis brecha.md:30:anteriores
+content/09a. Método análisis brecha.md:30:brechas
+content/09a. Método análisis brecha.md:30:contractuales
+content/09a. Método análisis brecha.md:30:Entradas
+content/09a. Método análisis brecha.md:30:esta
+content/09a. Método análisis brecha.md:30:expectativas
+content/09a. Método análisis brecha.md:30:fase
+content/09a. Método análisis brecha.md:30:fases
+content/09a. Método análisis brecha.md:30:FNA
+content/09a. Método análisis brecha.md:30:Imagen
+content/09a. Método análisis brecha.md:30:método
+content/09a. Método análisis brecha.md:30:productos
+content/09a. Método análisis brecha.md:30:Relación
+content/09a. Método análisis brecha.md:30:salidas
+content/09a. Método análisis brecha.md:30:última
+content/09a. Método análisis brecha.md:32:elaboración
+content/09a. Método análisis brecha.md:32:propia
+content/09a. Método análisis brecha.md:36:arquitecturas
+content/09a. Método análisis brecha.md:36:diagnóstico
+content/09a. Método análisis brecha.md:36:elaborada
+content/09a. Método análisis brecha.md:36:elaborada
+content/09a. Método análisis brecha.md:36:entradas
+content/09a. Método análisis brecha.md:36:este
+content/09a. Método análisis brecha.md:36:este
+content/09a. Método análisis brecha.md:36:fase
+content/09a. Método análisis brecha.md:36:fase
+content/09a. Método análisis brecha.md:36:importantes
+content/09a. Método análisis brecha.md:36:más
+content/09a. Método análisis brecha.md:36:método
+content/09a. Método análisis brecha.md:36:realización
+content/09a. Método análisis brecha.md:36:referencias
+content/09a. Método análisis brecha.md:36:sigiuente
+content/09a. Método análisis brecha.md:36:versión
+content/09a. Método análisis brecha.md:36:versión
+content/09a. Método análisis brecha.md:38:aplicación
+content/09a. Método análisis brecha.md:38:brechas
+content/09a. Método análisis brecha.md:38:brechas
+content/09a. Método análisis brecha.md:38:brechas
+content/09a. Método análisis brecha.md:38:complementa
+content/09a. Método análisis brecha.md:38:conecta
+content/09a. Método análisis brecha.md:38:consideramos
+content/09a. Método análisis brecha.md:38:convierte
+content/09a. Método análisis brecha.md:38:desarrollanrán
+content/09a. Método análisis brecha.md:38:el
+content/09a. Método análisis brecha.md:38:el
+content/09a. Método análisis brecha.md:38:el
+content/09a. Método análisis brecha.md:38:entre
+content/09a. Método análisis brecha.md:38:esta
+content/09a. Método análisis brecha.md:38:Esta
+content/09a. Método análisis brecha.md:38:Estas
+content/09a. Método análisis brecha.md:38:este
+content/09a. Método análisis brecha.md:38:este
+content/09a. Método análisis brecha.md:38:estrategias
+content/09a. Método análisis brecha.md:38:expectativas
+content/09a. Método análisis brecha.md:38:fase
+content/09a. Método análisis brecha.md:38:implementación
+content/09a. Método análisis brecha.md:38:importantes
+content/09a. Método análisis brecha.md:38:iniciativas
+content/09a. Método análisis brecha.md:38:más
+content/09a. Método análisis brecha.md:38:más
+content/09a. Método análisis brecha.md:38:matriz
+content/09a. Método análisis brecha.md:38:método
+content/09a. Método análisis brecha.md:38:métrodo
+content/09a. Método análisis brecha.md:38:otra
+content/09a. Método análisis brecha.md:38:portafolio
+content/09a. Método análisis brecha.md:38:preliminares
+content/09a. Método análisis brecha.md:38:presente
+content/09a. Método análisis brecha.md:38:producto
+content/09a. Método análisis brecha.md:38:proyecto
+content/09a. Método análisis brecha.md:38:salida
+content/09a. Método análisis brecha.md:38:salidas
+content/09a. Método análisis brecha.md:38:salidas
+content/09a. Método análisis brecha.md:38:última
+content/09a. Método análisis brecha.md:38:vez
+content/09b. Matriz de brechas.md:1:arquitectura
+content/09b. Matriz de brechas.md:1:brechas
+content/09b. Matriz de brechas.md:1:brechas
+content/09b. Matriz de brechas.md:1:candidata
+content/09b. Matriz de brechas.md:1:FNA
+content/09b. Matriz de brechas.md:1:iniciativas
+content/09b. Matriz de brechas.md:1:Matriz
+content/09b. Matriz de brechas.md:1:Portafolio
+content/09b. Matriz de brechas.md:1:segmento
+content/09b. Matriz de brechas.md:1:SOA
+content/09b. Matriz de brechas.md:1:Tema
+content/09b. Matriz de brechas.md:3:Análisis
+content/09b. Matriz de brechas.md:3:brecha
+content/09b. Matriz de brechas.md:3:clave
+content/09b. Matriz de brechas.md:3:Comparativa
+content/09b. Matriz de brechas.md:3:Palabras
+content/09b. Matriz de brechas.md:3:SOA
+content/09b. Matriz de brechas.md:4:Autor
+content/09b. Matriz de brechas.md:5:Fuente
+content/09b. Matriz de brechas.md:7:FNA
+content/09b. Matriz de brechas.md:7:Segmento
+content/09b. Matriz de brechas.md:7:SOA
+content/09b. Matriz de brechas.md:7:Vínculos
+content/09b. Matriz de brechas.md:11:arquitectura
+content/09b. Matriz de brechas.md:11:brechas
+content/09b. Matriz de brechas.md:11:candidata
+content/09b. Matriz de brechas.md:11:FNA
+content/09b. Matriz de brechas.md:11:Matriz
+content/09b. Matriz de brechas.md:11:segmento
+content/09b. Matriz de brechas.md:11:SOA
+content/09c. Lista de iniciativas y proyectos.md:1:brechas
+content/09c. Lista de iniciativas y proyectos.md:1:iniciativas
+content/09c. Lista de iniciativas y proyectos.md:1:iniciativas
+content/09c. Lista de iniciativas y proyectos.md:1:Lista
+content/09c. Lista de iniciativas y proyectos.md:1:Portafolio
+content/09c. Lista de iniciativas y proyectos.md:1:proyectos
+content/09c. Lista de iniciativas y proyectos.md:1:SOA
+content/09c. Lista de iniciativas y proyectos.md:1:Tema
+content/09c. Lista de iniciativas y proyectos.md:3:Análisis
+content/09c. Lista de iniciativas y proyectos.md:3:brecha
+content/09c. Lista de iniciativas y proyectos.md:3:clave
+content/09c. Lista de iniciativas y proyectos.md:3:Comparativa
+content/09c. Lista de iniciativas y proyectos.md:3:Palabras
+content/09c. Lista de iniciativas y proyectos.md:3:SOA
+content/09c. Lista de iniciativas y proyectos.md:4:Autor
+content/09c. Lista de iniciativas y proyectos.md:5:Fuente
+content/09c. Lista de iniciativas y proyectos.md:7:FNA
+content/09c. Lista de iniciativas y proyectos.md:7:Segmento
+content/09c. Lista de iniciativas y proyectos.md:7:SOA
+content/09c. Lista de iniciativas y proyectos.md:7:Vínculos
+content/09c. Lista de iniciativas y proyectos.md:11:Brecha
+content/09c. Lista de iniciativas y proyectos.md:11:Cierre
+content/09c. Lista de iniciativas y proyectos.md:11:iniciativas
+content/09c. Lista de iniciativas y proyectos.md:11:Lista
+content/09c. Lista de iniciativas y proyectos.md:11:Proyectos
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:brechas
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:iniciativas
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:Portafolio

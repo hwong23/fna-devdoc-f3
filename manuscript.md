@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-18'
+date-meta: '2023-02-20'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-18" />
-  <meta name="citation_publication_date" content="2023-02-18" />
-  <meta property="article:published_time" content="2023-02-18" />
-  <meta name="dc.modified" content="2023-02-18T13:26:50+00:00" />
-  <meta property="article:modified_time" content="2023-02-18T13:26:50+00:00" />
+  <meta name="dc.date" content="2023-02-20" />
+  <meta name="citation_publication_date" content="2023-02-20" />
+  <meta property="article:published_time" content="2023-02-20" />
+  <meta name="dc.modified" content="2023-02-20T04:40:48+00:00" />
+  <meta property="article:modified_time" content="2023-02-20T04:40:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/b9d9472885bf91249712c3fd76551d2883d5d73f/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/b9d9472885bf91249712c3fd76551d2883d5d73f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/b9d9472885bf91249712c3fd76551d2883d5d73f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/b9d9472885bf91249712c3fd76551d2883d5d73f/))
 versión indicada a continuación, se encuentra en 
 ****
-[51ac7c0](https://github.com/hwong23/fna-devdoc-f3/tree/51ac7c0b3bca15adbec4e1ee21cc1a5f4e2632e7)
-de February 18, 2023.
+[b9d9472](https://github.com/hwong23/fna-devdoc-f3/tree/b9d9472885bf91249712c3fd76551d2883d5d73f)
+de February 20, 2023.
 
 
 
@@ -154,12 +154,52 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 *** 
 
 
+|Tema            |Portafolio de iniciativas y brechas: **Método de análisis de brecha FNA**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|b9d9472 del 20 Feb 2023                              |
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Método de Análisis de Brecha FNA
+El método de análisis de brecha para el FNA está adaptado en cuanto a hacer foco en los resultados esperados de las brechas y en usar los resultados de las fases anteriores del presente ejercicio SOA (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)). Este análisis de brecha busca dos onjetivos concretos.
+
+<br>
+
+### Objetivos del Análisis de Brecha FNA
+Este análisis busca dos objtivos concretos: encontrar brechas que reutilicen los activos de software y TI del FNA. El segundo objetivo es encontrar los brechas que mejor conecten con las problemáticas encontradas en las fases de este diagnóstico SOA. 
+
+1. Reutilizar los activos de software y TI del FNA. Todos los activos de software y TI disponibles en el FNA deben ser equiparados, funcional y tecnológicamente, con los ajustes requeridos por la acrquitectura candidata versión 2.0 entregada por la fase 2 de este diagnóstico. Este objeitvo entrará a delinear las estrategias de implementación de las brechas (soluciones futuras) que se encuentren.
+
+1. Brechas que conecten con las problemáticas y conocimiento previo. Este método parte de la selección de los ítems y conocimiento considerados relevantes, como problemáticas, riesgos y oportunidades, que fueron desarrolladas en las fases anteriores de este proyecto de diagnóstico SOA del FNA. Cada uno de estos contribuye a la identificación de brechas importantes para el Fondo. Por ejemplo, si partimos de uno de los objetivos de esta consultoría, el de flexibilidad, vamos a encontrar brechas que aporten a cumplirlo.
+
+<br>
+
+### Entradas y Salidas del Método Análisis de Brecha FNA
+En la siguiente imagen presentamos las entradas necesarias para garantizar tanto las salidas como los objetivos que este método se propone (descritos arriba).
+
+![](images/brecha1.png)
+
+[Imagen 1.]() Entradas y salidas del método de análisis de brechas FNA. Relación de las fases anteriores con las expectativas y productos contractuales de esta última fase.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Las entradas más importantes para la realización de este método son las arquitecturas de referencias, la versión 1.0, elaborada en la fase 1 de este diagnóstico, y la versión sigiuente, la 2.0, elaborada en la fase 2.
+
+De las salidas de este método, la que más conecta con las expectativas es el de la matriz de brechas, que a la vez, se convierte en el portafolio de iniciativas y brechas, producto 9 (PR9), que es el principal de esta última fase del presente proyecto. Esta salida se complementa con otra: la de las estrategias preliminares de implementación de las brechas. Estas dos salidas las consideramos entre las más importantes que se desarrollanrán con la aplicación de este métrodo.
+
+
 |Tema            |Portafolio de iniciativas y brechas (Deliverable): **Matriz de brechas de arquitectura SOA candidata del segmento FNA**|
 |----------------|---------------------------------------------------|
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|51ac7c0 del 18 Feb 2023                                  |
+|Version|b9d9472 del 20 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -172,7 +212,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|51ac7c0 del 18 Feb 2023                                  |
+|Version|b9d9472 del 20 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
