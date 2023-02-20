@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-20" />
   <meta name="citation_publication_date" content="2023-02-20" />
   <meta property="article:published_time" content="2023-02-20" />
-  <meta name="dc.modified" content="2023-02-20T19:23:45+00:00" />
-  <meta property="article:modified_time" content="2023-02-20T19:23:45+00:00" />
+  <meta name="dc.modified" content="2023-02-20T19:56:48+00:00" />
+  <meta property="article:modified_time" content="2023-02-20T19:56:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/cc376ce21f19768fa3aae527348cba449bf352cd/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/cc376ce21f19768fa3aae527348cba449bf352cd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/cc376ce21f19768fa3aae527348cba449bf352cd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/cc376ce21f19768fa3aae527348cba449bf352cd/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/))
 versión indicada a continuación, se encuentra en 
 ****
-[cc376ce](https://github.com/hwong23/fna-devdoc-f3/tree/cc376ce21f19768fa3aae527348cba449bf352cd)
+[2ea838e](https://github.com/hwong23/fna-devdoc-f3/tree/2ea838e26d9e7554f6e9a1334138445db59bbf11)
 de February 20, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|cc376ce del 20 Feb 2023                              |
+|Version|2ea838e del 20 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -195,8 +195,13 @@ De las salidas de este método, la que más conecta con las expectativas es el d
 
 <br>
 
-### Procedimiento para la Gestión de las Brechas FNA
-...
+### Pasos del Método de Anålisis de Brechas FNA
+Este método inicia por la matrix de brechas, sea por dominio o perspectiva de arquitectura. La matriz presenta una comparación y las diferencias entre las arquitecturas SOA del FNA, versión 1 y 2 respectivamente desde un dominio o perspectiva particular, por ejemplo, negocio, aplicaciones, datos, Crédito, Cartera, flexibilidad, etc. Los ítems de esa perspectiva son contrastados entre ambas versiones para obtener elementos de cierre a los que llamaremos brechas.
+
+El siguiente paso es hacer una lista de las iniciativas y proyectos de cierre de brechas y  documentarlas en el repositorio SOA del FNA. Esta lista de cambios a la arquitectura es por un lado, una arquitectura de transición en sí misma, y es también una herramienta para agrupar y priorizar los impactos de cambios en el Fondo. 
+
+Este último es precisamente el tercer paso: agrupar y priorizar las brechas en tareas y proyectos.
+
 
 
 |Tema            |Portafolio de iniciativas y brechas (Deliverable): **Matriz de brechas de arquitectura SOA candidata del segmento FNA**|
@@ -204,7 +209,7 @@ De las salidas de este método, la que más conecta con las expectativas es el d
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|cc376ce del 20 Feb 2023                                  |
+|Version|2ea838e del 20 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -217,7 +222,7 @@ De las salidas de este método, la que más conecta con las expectativas es el d
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|cc376ce del 20 Feb 2023                                  |
+|Version|2ea838e del 20 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
