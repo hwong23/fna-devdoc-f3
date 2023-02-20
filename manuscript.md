@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-20" />
   <meta name="citation_publication_date" content="2023-02-20" />
   <meta property="article:published_time" content="2023-02-20" />
-  <meta name="dc.modified" content="2023-02-20T13:57:31+00:00" />
-  <meta property="article:modified_time" content="2023-02-20T13:57:31+00:00" />
+  <meta name="dc.modified" content="2023-02-20T13:57:49+00:00" />
+  <meta property="article:modified_time" content="2023-02-20T13:57:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/d17f3dbdc80364bb98d5a6a0343548ac907302f0/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d17f3dbdc80364bb98d5a6a0343548ac907302f0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d17f3dbdc80364bb98d5a6a0343548ac907302f0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/27c8f99e110fec14b4c24a7654a8b115306ede7a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/27c8f99e110fec14b4c24a7654a8b115306ede7a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/27c8f99e110fec14b4c24a7654a8b115306ede7a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/d17f3dbdc80364bb98d5a6a0343548ac907302f0/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/27c8f99e110fec14b4c24a7654a8b115306ede7a/))
 versión indicada a continuación, se encuentra en 
 ****
-[d17f3db](https://github.com/hwong23/fna-devdoc-f3/tree/d17f3dbdc80364bb98d5a6a0343548ac907302f0)
+[27c8f99](https://github.com/hwong23/fna-devdoc-f3/tree/27c8f99e110fec14b4c24a7654a8b115306ede7a)
 de February 20, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|d17f3db del 20 Feb 2023                              |
+|Version|27c8f99 del 20 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -199,7 +199,7 @@ De las salidas de este método, la que más conecta con las expectativas es el d
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|d17f3db del 20 Feb 2023                                  |
+|Version|27c8f99 del 20 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -212,7 +212,7 @@ De las salidas de este método, la que más conecta con las expectativas es el d
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|d17f3db del 20 Feb 2023                                  |
+|Version|27c8f99 del 20 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -268,7 +268,6 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 
 
 ## Análisis de las Fortalezas SOA del FNA
-
 1. Para mejorar las fortalezas SOA es necesario subsanar los problemas de acoplamiento del proveedor Cobis a las capacidades de negocio del FNA, y mantener bajo control los grados de dependencia de los servicios SOA que evidenció la revisión del portafolio de servicios SOA del FNA. 
 
 1. Acoplamiento de las capacidades de negocio del FNA a Cobis. _Existen más de 96 relaciones_ entre las capacidades de negocio y las herramientas de software de Cobis (ver [N003e. Catálogo de Servicios FNA-1](N003e.CatálogodeServiciosFNA-1.md), y [N003e. Catálogo de Servicios FNA-2](N003e.CatálogodeServiciosFNA-2.md)). Todo acoplamiento, que en este caso es con el proveedor, produce rigidez. Esta  rigidez es causa de una problemática que afecta, en primer grado a la flexibilidad de negocio, y segundo, al tiempo de mercado. Todo acoplamiento produce rigidez y esta es la causa de los problemas que el FNA tiene en flexibilidad de negocio y tiempo de mercado.
