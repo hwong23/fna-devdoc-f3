@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-22" />
   <meta name="citation_publication_date" content="2023-02-22" />
   <meta property="article:published_time" content="2023-02-22" />
-  <meta name="dc.modified" content="2023-02-22T11:01:10+00:00" />
-  <meta property="article:modified_time" content="2023-02-22T11:01:10+00:00" />
+  <meta name="dc.modified" content="2023-02-22T11:02:23+00:00" />
+  <meta property="article:modified_time" content="2023-02-22T11:02:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/9bb87b41effe45ff471c2059c0e8c56fc3ef4604/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/9bb87b41effe45ff471c2059c0e8c56fc3ef4604/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/9bb87b41effe45ff471c2059c0e8c56fc3ef4604/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/a48d2e57e91f512b5904bdc719d93693fda35e99/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/a48d2e57e91f512b5904bdc719d93693fda35e99/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/a48d2e57e91f512b5904bdc719d93693fda35e99/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/9bb87b41effe45ff471c2059c0e8c56fc3ef4604/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/a48d2e57e91f512b5904bdc719d93693fda35e99/))
 versión indicada a continuación, se encuentra en 
 ****
-[9bb87b4](https://github.com/hwong23/fna-devdoc-f3/tree/9bb87b41effe45ff471c2059c0e8c56fc3ef4604)
+[a48d2e5](https://github.com/hwong23/fna-devdoc-f3/tree/a48d2e57e91f512b5904bdc719d93693fda35e99)
 de February 22, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|9bb87b4 del 22 Feb 2023                              |
+|Version|a48d2e5 del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -209,7 +209,7 @@ Este último es precisamente el tercer paso: agrupar y priorizar las brechas en 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|9bb87b4 del 22 Feb 2023                              |
+|Version|a48d2e5 del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -253,7 +253,7 @@ Las partes impactadas por el análisis de brecha en el contexto de flexibilidad 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|9bb87b4 del 22 Feb 2023                                  |
+|Version|a48d2e5 del 22 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
