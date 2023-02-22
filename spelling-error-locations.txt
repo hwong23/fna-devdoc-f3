@@ -549,7 +549,6 @@ content/09c. Lista de iniciativas y proyectos.md:14:siguientes
 content/09c. Lista de iniciativas y proyectos.md:18:Objetivo
 content/09c. Lista de iniciativas y proyectos.md:18:Proyecto
 content/09c. Lista de iniciativas y proyectos.md:18:Tipo
-content/09c. Lista de iniciativas y proyectos.md:20:actualizacion
 content/09c. Lista de iniciativas y proyectos.md:20:Actualizar
 content/09c. Lista de iniciativas y proyectos.md:20:Crédito
 content/09c. Lista de iniciativas y proyectos.md:20:ejecución
@@ -564,7 +563,7 @@ content/09c. Lista de iniciativas y proyectos.md:21:llamadas
 content/09c. Lista de iniciativas y proyectos.md:21:particulares
 content/09c. Lista de iniciativas y proyectos.md:21:por
 content/09c. Lista de iniciativas y proyectos.md:21:Reemplazarlos
-content/09c. Lista de iniciativas y proyectos.md:21:sustitución
+content/09c. Lista de iniciativas y proyectos.md:21:regresivo
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:brechas
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:iniciativas
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:Portafolio
