@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-22" />
   <meta name="citation_publication_date" content="2023-02-22" />
   <meta property="article:published_time" content="2023-02-22" />
-  <meta name="dc.modified" content="2023-02-22T12:58:03+00:00" />
-  <meta property="article:modified_time" content="2023-02-22T12:58:03+00:00" />
+  <meta name="dc.modified" content="2023-02-22T18:10:13+00:00" />
+  <meta property="article:modified_time" content="2023-02-22T18:10:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/))
 versión indicada a continuación, se encuentra en 
 ****
-[5fb6db0](https://github.com/hwong23/fna-devdoc-f3/tree/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6)
+[080986b](https://github.com/hwong23/fna-devdoc-f3/tree/080986b6e561d4ef355ea06cc0cb1e844bdcc05a)
 de February 22, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5fb6db0 del 22 Feb 2023                              |
+|Version|080986b del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -170,7 +170,7 @@ El método de análisis de brecha para el FNA está adaptado en cuanto a hacer f
 <br>
 
 ### Objetivos del Análisis de Brecha FNA
-Este análisis busca dos objtivos concretos: encontrar brechas que reutilicen los activos de software y TI del FNA. El segundo objetivo es encontrar los brechas que mejor conecten con las problemáticas encontradas en las fases de este diagnóstico SOA. 
+Este análisis busca dos objtivos concretos: encontrar brechas que reutilicen los activos de software y de TI del FNA. El segundo objetivo es encontrar los brechas que mejor conecten con las oportunidades y problemáticas encontradas en primeras dos fases de este diagnóstico SOA.
 
 1. Reutilizar los activos de software y TI del FNA. Todos los activos de software y TI disponibles en el FNA deben ser equiparados, funcional y tecnológicamente, con los ajustes requeridos por la acrquitectura candidata versión 2.0 entregada por la fase 2 de este diagnóstico. Este objeitvo entrará a delinear las estrategias de implementación de las brechas (soluciones futuras) que se encuentren.
 
@@ -189,9 +189,9 @@ _Fuente: elaboración propia._
 
 <br>
 
-Las entradas más importantes para la realización de este método son las arquitecturas de referencias, la versión 1.0, elaborada en la fase 1 de este diagnóstico, y la versión sigiuente, la 2.0, elaborada en la fase 2.
+Las entradas más importantes para la realización de este método son las arquitecturas de referencias actual y objetivo. Esto es, la arquitectura versión 1.0, analizada en la fase 1 de este diagnóstico, y la versión 2.0, elaborada por en la fase 2 de este proyecto de diagnóstico.
 
-De las salidas de este método, la que más conecta con las expectativas es el de la matriz de brechas, que a la vez, se convierte en el portafolio de iniciativas y brechas, producto 9 (PR9), que es el principal de esta última fase del presente proyecto. Esta salida se complementa con otra: la de las estrategias preliminares de implementación de las brechas. Estas dos salidas las consideramos entre las más importantes que se desarrollanrán con la aplicación de este métrodo.
+De las salidas de este método, la que más conecta con las expectativas es la matriz de brechas SOA por contexto, la cual es de importancia porque alimenta al portafolio de iniciativas y brechas (producto 9, PR9), que es finalmente el principal producto de esta última fase del presente proyecto. De la matriz de brechas se obtiene la lista de proyectos de cierre de brecha, la cual se complementa al agregarle a cada proyectos las estrategias de implementación. Estas dos salidas, la matriz de brechas y la lista de proyectos, las consideramos entre las más importantes que se desarrollanrán con la aplicación de este métrodo.
 
 <br>
 
@@ -202,9 +202,12 @@ El siguiente paso es hacer una lista de las iniciativas y proyectos de cierre de
 
 Este último es precisamente el tercer paso: agrupar y priorizar las brechas en tareas y proyectos.
 
+<br>
+
 En resumen, los pasos para la aplicación de este metodo son
 1. Matriz de brechas por contexto. Escoja el contexto. Arquitectura actual en las filas, arquitectura objetivo en columnas.
 1. (por cada brecha de la matriz) Listar los elementos del cambio.
+1. (a cada proyecto de cierre de brecha) Agregar estrategia de implementación.
 1. Agrupar y priorizar la lista de cambios (brechas, paso 2) en proyectos ejecutables.
 
 
@@ -213,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5fb6db0 del 22 Feb 2023                              |
+|Version|080986b del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -257,7 +260,7 @@ Las partes impactadas por el análisis de brecha en el contexto de flexibilidad 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5fb6db0 del 22 Feb 2023                              |
+|Version|080986b del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
