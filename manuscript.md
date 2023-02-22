@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-20'
+date-meta: '2023-02-22'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-20" />
-  <meta name="citation_publication_date" content="2023-02-20" />
-  <meta property="article:published_time" content="2023-02-20" />
-  <meta name="dc.modified" content="2023-02-20T19:56:48+00:00" />
-  <meta property="article:modified_time" content="2023-02-20T19:56:48+00:00" />
+  <meta name="dc.date" content="2023-02-22" />
+  <meta name="citation_publication_date" content="2023-02-22" />
+  <meta property="article:published_time" content="2023-02-22" />
+  <meta name="dc.modified" content="2023-02-22T04:19:08+00:00" />
+  <meta property="article:modified_time" content="2023-02-22T04:19:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/f16b3253a0bff79c848fb24c339b255eb4f29e19/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/f16b3253a0bff79c848fb24c339b255eb4f29e19/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/f16b3253a0bff79c848fb24c339b255eb4f29e19/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/2ea838e26d9e7554f6e9a1334138445db59bbf11/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/f16b3253a0bff79c848fb24c339b255eb4f29e19/))
 versión indicada a continuación, se encuentra en 
 ****
-[2ea838e](https://github.com/hwong23/fna-devdoc-f3/tree/2ea838e26d9e7554f6e9a1334138445db59bbf11)
-de February 20, 2023.
+[f16b325](https://github.com/hwong23/fna-devdoc-f3/tree/f16b3253a0bff79c848fb24c339b255eb4f29e19)
+de February 22, 2023.
 
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2ea838e del 20 Feb 2023                              |
+|Version|f16b325 del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -204,17 +204,48 @@ Este último es precisamente el tercer paso: agrupar y priorizar las brechas en 
 
 
 
-|Tema            |Portafolio de iniciativas y brechas (Deliverable): **Matriz de brechas de arquitectura SOA candidata del segmento FNA**|
+|Tema            |Portafolio de iniciativas y brechas: **Matriz de brechas de arquitectura SOA candidata del segmento FNA**|
 |----------------|---------------------------------------------------|
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
-|Autor           |                                                       |
-|Fuente          |                                                       |
-|Version|2ea838e del 20 Feb 2023                                  |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|f16b325 del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ## Matriz de brechas de arquitectura SOA candidata del segmento FNA
+Los análisis siguientes corresponden a cambios de cierre de brechas respecto al contexto de flexibilidad de negocio. Es decir, los cambios analizados abajo están asociados al contexto de flexibilidad de negocio, y por tanto, aportan a este. Dicho de otra manera, las brechas descritos a continuación son necesarios para mejorar la flexibilidad de negocio.
+
+<br>
+
+## Análisis de Brecha Crédito Constructor. Contexto Flexibilidad de Negocio
+
+![](images/brechaCreditoCostructor.jpg)
+
+[Imagen 1.]() Partes de la arquitectura de Crédito Constructor impactados por el análisis de brecha en el contexto de flexibilidad de negocio.
+
+_Fuente: ae_fna_as_is.archimate._
+
+<br>
+
+Las partes impactadas por el análisis de brecha en el contexto de flexibilidad de negocio que deben ser sustituidas por API indicadas en la arquitectura de SOA 2.0 del FNA, o arquiotectura de candidata  2.0 son los indicados con actualización en la siguiente tabla. 
+
+| **nombre**                                | **tipo**                  | **brecha**    |
+|-----------------------------------------|---------------------------|---------------|
+| ESB-IBM                                 | application-component     |               |
+| Adaptador Integración Cobis             | application-component     | sustitución   |
+| FrameWork ESB                           | application-collaboration |               |
+| Adaptador Tecnologia SOAP               | application-component     | sustitución   |
+| Adaptador Integración Bizagi IBM (java) | application-component     | sustitución   |
+| Adaptador Integración Cuadro de ventas  | application-component     | sustitución   |
+| Cobis                                   | application-component     | actualizacion |
+| Servicios Cobis                         | application-service       |               |
+| Cuadro Ventas CCP                       | application-component     | actualizacion |
+| Servicios Cuadro de Ventas CCP          | application-service       |               |
+| Bizagi IBM (java)                       | application-component     | actualizacion |
+| Servicios CapaSoa Bizagi                | application-service       |
+
 
 
 |Tema            |Portafolio de iniciativas y brechas (Deliverable): **Lista de iniciativas y proyectos SOA**|
@@ -222,7 +253,7 @@ Este último es precisamente el tercer paso: agrupar y priorizar las brechas en 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|2ea838e del 20 Feb 2023                                  |
+|Version|f16b325 del 22 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
