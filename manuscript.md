@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-22" />
   <meta name="citation_publication_date" content="2023-02-22" />
   <meta property="article:published_time" content="2023-02-22" />
-  <meta name="dc.modified" content="2023-02-22T11:12:24+00:00" />
-  <meta property="article:modified_time" content="2023-02-22T11:12:24+00:00" />
+  <meta name="dc.modified" content="2023-02-22T12:58:03+00:00" />
+  <meta property="article:modified_time" content="2023-02-22T12:58:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/13ba6bf2b809f8a8bda2486e3a30156da689a86a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/13ba6bf2b809f8a8bda2486e3a30156da689a86a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/13ba6bf2b809f8a8bda2486e3a30156da689a86a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/13ba6bf2b809f8a8bda2486e3a30156da689a86a/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6/))
 versión indicada a continuación, se encuentra en 
 ****
-[13ba6bf](https://github.com/hwong23/fna-devdoc-f3/tree/13ba6bf2b809f8a8bda2486e3a30156da689a86a)
+[5fb6db0](https://github.com/hwong23/fna-devdoc-f3/tree/5fb6db0f228ef167a06b3a3fb661fd6b8402bcd6)
 de February 22, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|13ba6bf del 22 Feb 2023                              |
+|Version|5fb6db0 del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -213,7 +213,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|13ba6bf del 22 Feb 2023                              |
+|Version|5fb6db0 del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -255,9 +255,9 @@ Las partes impactadas por el análisis de brecha en el contexto de flexibilidad 
 |Tema            |Portafolio de iniciativas y brechas: **Lista de iniciativas y proyectos SOA**|
 |----------------|---------------------------------------------------|
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
-|Autor           |                                                       |
-|Fuente          |                                                       |
-|Version|13ba6bf del 22 Feb 2023                                  |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|5fb6db0 del 22 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -271,9 +271,39 @@ Los siguientes proyectos son requeridos para cerrar las brechas en la flexibiliz
 
 |**id** | **Proyecto**                            | **Tipo**      | **Objetivo** |
 |-------|-----------------------------------------|---------------|--------------|
-|BR01   | API Crédito Constructor                 | incremental   | Actualizar las interfases de ejecución y exposición de funcionalidades|
+|BR01   | API Crédito Constructor                 | incremental   | Actualizar las interfaces de ejecución y exposición de funcionalidades|
 |BR02   | Estandarización de Integración          | regresivo     | Disminuir los adaptadores particulares. Reemplazarlos por llamadas a API|
 
+<br>
+
+### BR01. API Crédito Constructor
+#### Objetivo
+Actualizar las interfaces de ejecución y exposición de funcionalidades (API) de Crédito Constructor.
+
+#### Oportunidades / Retos
+- Convertir al producto Crédito Constructor en funcionalidades granulares, reutilizables y expuestas (privadas, protegidas y públicas)
+- Comercializar el API de C. Constructor
+- Estandarizar el modelo de integración e intercambio de datos
+
+#### Alcance
+- Estructurar e implementar funcionalidades del producto en forma de operaciones y datos expuestos (API)
+- Establecer los nuevos consumidores de las API del producto
+- Actualizar y modificar a los consumidores actuales (redirección)
+
+#### Impacto / Beneficio
+- Proteger de impacto por cambios en C. Constructor a los consumidores y aplicaciones clientes del producto
+- Flexibilidad de modificación de las funcionalidades principales de C. Constructor
+- Modernización de tecnología del producto C. Constructor
+
+#### Actores
+- Unidades de negocio
+- Oficina de Arquitectura
+- Proveedores del FNA (Cobis, IBM, Oracle)
+- Consultores / fabricantes de apoyo
+
+#### Tecnologias
+- Portafolio de API
+- Herramientas de diseño de API
 
 
 # Fase 3: SOA Objetivo
