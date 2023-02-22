@@ -1,6 +1,6 @@
 abajo
 Aceptación
-acoplamiento
+Acoplamiento
 acrecienten
 acrquitectura
 activos
@@ -46,9 +46,9 @@ arreglo
 arriba
 articulación
 ascendente
-Asegura
+asegura
 Asegurar
-Así
+así
 asociados
 aspectos
 atendidas
@@ -57,7 +57,7 @@ aumentar
 aumento
 Autor
 avistar
-baja
+Baja
 bajo
 bajos
 basado
@@ -88,7 +88,7 @@ cerrar
 cerrará
 ciclo
 Cierre
-Clasificación
+clasificación
 clave
 Clientes
 Cobis
@@ -120,7 +120,7 @@ contexto
 contiene
 continuación
 continuidad
-Contractuales
+contractuales
 contrario
 contrastados
 contratación
@@ -135,7 +135,7 @@ corresponden
 creación
 creciente
 Crédito
-Criterios
+criterios
 Cuadro
 cuando
 cuanto
@@ -167,7 +167,7 @@ descendente
 descriptiva
 descrito
 descritos
-desde
+Desde
 despliegue
 determina
 determinar
@@ -217,7 +217,7 @@ entendida
 entendimiento
 entidades
 entrada
-entradas
+Entradas
 entrará
 entre
 entrega
@@ -239,7 +239,7 @@ estado
 están
 Estandarización
 estandarizar
-Estas
+estas
 este
 Estimaciones
 Esto
@@ -256,7 +256,7 @@ evoluciones
 evolutivos
 exactitud
 Existe
-existen
+Existen
 expectativas
 explotación
 exposición
@@ -310,7 +310,7 @@ hwong
 identifica
 identificación
 igual
-Imagen
+imagen
 impactadas
 impactados
 impacto
@@ -320,7 +320,7 @@ implementen
 implica
 importancia
 importantes
-Impulsar
+impulsar
 Inciativas
 incluídos
 incluir
@@ -340,7 +340,7 @@ información
 infraestructura
 inicia
 inicial
-iniciativas
+Iniciativas
 Integración
 intención
 interfases
@@ -362,19 +362,19 @@ llamaremos
 llegar
 llenarse
 llevarla
-Madurez
+madurez
 manera
 mantener
 mantenimiento
 más
-Matriz
+matriz
 mayores
 mediano
 medida
 mejor
 mejora
 mejorar
-Método
+método
 métrodo
 migración
 migraciones
@@ -405,7 +405,7 @@ nuevas
 nuevos
 objeitvo
 Objetivo
-objetivos
+Objetivos
 objeto
 objtivos
 obtener
@@ -418,7 +418,7 @@ onjetivos
 operación
 Operaciones
 operativos
-Oportunidad
+oportunidad
 oportunidades
 optimización
 orden
@@ -465,7 +465,7 @@ priorizadas
 priorizar
 problemas
 problemática
-Problemáticas
+problemáticas
 procesamiento
 proceso
 procesos
@@ -473,7 +473,7 @@ proclive
 Procura
 procurar
 producción
-producto
+Producto
 Productos
 profundizar
 programa
@@ -493,11 +493,11 @@ proveedoras
 proveedores
 provienen
 próximo
-proyecto
-Proyectos
+Proyecto
+proyectos
 pueden
 puntaje
-Puntos
+puntos
 reactiva
 realiza
 realización
@@ -506,7 +506,7 @@ recursos
 rediseñar
 Redundancias
 Reemplazarlos
-referencia
+Referencia
 referencias
 reformas
 reforzar
@@ -544,9 +544,9 @@ riesgos
 rigidez
 rollout
 rumbo
-Ruta
+ruta
 salida
-Salidas
+salidas
 segmento
 selección
 señalamos
@@ -558,7 +558,7 @@ sigiuente
 siguiente
 siguientes
 sistemas
-Situación
+situación
 SOA
 sobresfuerzo
 soluciones
