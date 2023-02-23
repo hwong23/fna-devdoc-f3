@@ -37,8 +37,8 @@
   <meta name="dc.date" content="2023-02-23" />
   <meta name="citation_publication_date" content="2023-02-23" />
   <meta property="article:published_time" content="2023-02-23" />
-  <meta name="dc.modified" content="2023-02-23T16:57:22+00:00" />
-  <meta property="article:modified_time" content="2023-02-23T16:57:22+00:00" />
+  <meta name="dc.modified" content="2023-02-23T18:06:10+00:00" />
+  <meta property="article:modified_time" content="2023-02-23T18:06:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -59,9 +59,9 @@
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -77,10 +77,10 @@
 <h1 class="title">Diagnóstico SOA Actual FNA</h1>
 </header>
 <p>Documentación del proyecto 181-2020, E-Service,
-(<a href="https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/">permalink</a>)
+(<a href="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/">permalink</a>)
 versión indicada a continuación, se encuentra en
 ****
-<a href="https://github.com/hwong23/fna-devdoc-f3/tree/425b978b6ae97c007b827534042fdc86cb7a2371">425b978</a>
+<a href="https://github.com/hwong23/fna-devdoc-f3/tree/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a">2f97c6c</a>
 de February 23, 2023.</p>
 <h2 id="grupo-e-service">Grupo E-Service</h2>
 <ul>
@@ -167,7 +167,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>425b978 del 23 Feb 2023</td>
+<td>2f97c6c del 23 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -233,7 +233,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>425b978 del 23 Feb 2023</td>
+<td>2f97c6c del 23 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -252,7 +252,7 @@ Arquitecto TI, Stefanini
 <p><a href="">Imagen 1.</a> Partes de la arquitectura de Crédito Constructor impactados por el análisis de brecha en el contexto de flexibilidad de negocio.</p>
 <p><em>Fuente: ae_fna_as_is.archimate.</em></p>
 <p><br></p>
-<p>Las partes impactadas por el análisis de brecha en el contexto de flexibilidad de negocio que deben ser sustituidas por API indicadas en la arquitectura de SOA 2.0 del FNA para el caso de Crédito Constructor son los indicados con actualización en la siguiente tabla.</p>
+<p>Las partes impactadas por el análisis de brecha de la arquitectura de Crédito Constructor en el contexto de flexibilidad de negocio, y que por razón de este deben ser sustituidas por API indicadas en la arquitectura de SOA 2.0 del FNA son los indicados con actualización en la siguiente tabla.</p>
 <table>
 <colgroup>
 <col style="width: 49%" />
@@ -329,6 +329,153 @@ Arquitecto TI, Stefanini
 </tr>
 </tbody>
 </table>
+<p><br></p>
+<h2 id="análisis-de-brecha-bus-de-datos-empresarial.-contexto-flexibilidad-de-negocio">Análisis de Brecha Bus de Datos Empresarial. Contexto Flexibilidad de Negocio</h2>
+<p>Siguiendo la misma intención de introducir las API (arquitectura candidata SOA, 2.0 del FNA) para aumentar la flexibilidad de negocio, esta vez, en el bus de datos de la empresa, este debe transicionar de adaptadores particulares a API estándares de nivel funcional. Nota: el cambio de adaptadores por API implica, y puede que con mayor profundidad, a los consumidores de estos adaptadores.</p>
+<figure>
+<img src="images/brechaESBFNA.jpg" />
+</figure>
+<p><a href="">Imagen 1.</a> Partes de la arquitectura del bus de datos del FNA (ESB IBM) impactados por el análisis de brecha en el contexto de flexibilidad de negocio.</p>
+<p><em>Fuente: ae_fna_as_is.archimate.</em></p>
+<p><br></p>
+<p>Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, quereridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna ‘brecha’.</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 53%" />
+<col style="width: 29%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>nombre</strong></th>
+<th><strong>tipo</strong></th>
+<th><strong>brecha</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ESB-IBM</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>MQ ESB IBM Entrada Request</td>
+<td>application-interaction</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Service Gateway</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Adaptadores IntegraciÛn int</td>
+<td>application-interface</td>
+<td>sustitución</td>
+</tr>
+<tr class="odd">
+<td>Archivo ConfiguraciÛn Enrutamiento</td>
+<td>data-object</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Service Componnet</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Homologaciones</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tabla HomologaciÛn</td>
+<td>data-object</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Capa Servicios ESB</td>
+<td>application-collaboration</td>
+<td>actualización</td>
+</tr>
+<tr class="even">
+<td>Adaptadores TecnologÌa int</td>
+<td>application-interface</td>
+<td>sustitución</td>
+</tr>
+<tr class="odd">
+<td>Utilitarias Framework ESB</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Manejo Logs</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Manejo Errorres</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Auditor Servicios</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>MQ ESB IBM Salida Request</td>
+<td>application-interaction</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>MQ ESB IBM Entrada Response</td>
+<td>application-interaction</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>MQ ESB IBM Salida Responce</td>
+<td>application-interaction</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aplicaciones Proveedoras Internas del FNA</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aplicaciones Consumidoras Internas del FNA</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>ESB-DMZ</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Adaptadores IntegraciÛn Ext</td>
+<td>application-interface</td>
+<td>sustitución</td>
+</tr>
+<tr class="even">
+<td>Adaptadores TecnologÌa Ext</td>
+<td>application-interface</td>
+<td>sustitución</td>
+</tr>
+<tr class="odd">
+<td>Aplicaciones Consumidoras Externas al FNA</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aplicaciones Proveedoras Externas al FNA (copy)</td>
+<td>application-component</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
 <table>
 <colgroup>
 <col style="width: 23%" />
@@ -355,7 +502,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>425b978 del 23 Feb 2023</td>
+<td>2f97c6c del 23 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -404,7 +551,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>425b978 del 23 Feb 2023</td>
+<td>2f97c6c del 23 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
