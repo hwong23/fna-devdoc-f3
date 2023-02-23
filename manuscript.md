@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-23" />
   <meta name="citation_publication_date" content="2023-02-23" />
   <meta property="article:published_time" content="2023-02-23" />
-  <meta name="dc.modified" content="2023-02-23T15:46:57+00:00" />
-  <meta property="article:modified_time" content="2023-02-23T15:46:57+00:00" />
+  <meta name="dc.modified" content="2023-02-23T15:51:18+00:00" />
+  <meta property="article:modified_time" content="2023-02-23T15:51:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/cd0acc9f6d924a647fc910b214617199f7f4d9a8/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/cd0acc9f6d924a647fc910b214617199f7f4d9a8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/cd0acc9f6d924a647fc910b214617199f7f4d9a8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/cd0acc9f6d924a647fc910b214617199f7f4d9a8/))
 versión indicada a continuación, se encuentra en 
 ****
-[775bdd4](https://github.com/hwong23/fna-devdoc-f3/tree/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5)
+[cd0acc9](https://github.com/hwong23/fna-devdoc-f3/tree/cd0acc9f6d924a647fc910b214617199f7f4d9a8)
 de February 23, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|775bdd4 del 23 Feb 2023                              |
+|Version|cd0acc9 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|775bdd4 del 23 Feb 2023                              |
+|Version|cd0acc9 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -260,7 +260,7 @@ Las partes impactadas por el análisis de brecha en el contexto de flexibilidad 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|775bdd4 del 23 Feb 2023                              |
+|Version|cd0acc9 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -282,6 +282,8 @@ Proyectos de cierre de brecha Crédito Constructor FNA.
 |BR02   | Estandarización de Integración          |Disminuir los adaptadores particulares. Reemplazarlos por llamadas a API| regresivo   | sustitución |  
 
 _Impl._: estrategia de implementación
+
+_El tipo de proyeto_ indica el riesgo técnico que causará en la operación de la solución, en este caso, Crédito Constructor. _Las estrategias de implementación_ indican el tipo de trabajo que debe realizarse para minimizar el impacto que el proyecto causará en el este segmento de la empresa del FNA.
 
 <br>
 
