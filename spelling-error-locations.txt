@@ -887,8 +887,10 @@ content/09c. Lista de iniciativas y proyectos.md:40:Proyecto
 content/09c. Lista de iniciativas y proyectos.md:40:Tipo
 content/09c. Lista de iniciativas y proyectos.md:42:adaptadores
 content/09c. Lista de iniciativas y proyectos.md:42:Disminuir
+content/09c. Lista de iniciativas y proyectos.md:42:ESB
 content/09c. Lista de iniciativas y proyectos.md:42:Estandarización
 content/09c. Lista de iniciativas y proyectos.md:42:exposición
+content/09c. Lista de iniciativas y proyectos.md:42:FNA
 content/09c. Lista de iniciativas y proyectos.md:42:gestión
 content/09c. Lista de iniciativas y proyectos.md:42:Integración
 content/09c. Lista de iniciativas y proyectos.md:42:particulares
@@ -1041,20 +1043,19 @@ content/09d. Ficha de proyectos.md:25:modificar
 content/09d. Ficha de proyectos.md:25:redirección
 content/09d. Ficha de proyectos.md:27:Beneficio
 content/09d. Ficha de proyectos.md:27:Impacto
-content/09d. Ficha de proyectos.md:28:aplicaciones
 content/09d. Ficha de proyectos.md:28:cambios
-content/09d. Ficha de proyectos.md:28:clientes
 content/09d. Ficha de proyectos.md:28:consumidores
+content/09d. Ficha de proyectos.md:28:extremos
 content/09d. Ficha de proyectos.md:28:impacto
+content/09d. Ficha de proyectos.md:28:integración
 content/09d. Ficha de proyectos.md:28:por
-content/09d. Ficha de proyectos.md:28:producto
 content/09d. Ficha de proyectos.md:28:Proteger
 content/09d. Ficha de proyectos.md:29:Flexibilidad
-content/09d. Ficha de proyectos.md:29:funcionalidades
+content/09d. Ficha de proyectos.md:29:integraciones
 content/09d. Ficha de proyectos.md:29:modificación
-content/09d. Ficha de proyectos.md:29:principales
+content/09d. Ficha de proyectos.md:30:integración
+content/09d. Ficha de proyectos.md:30:modelo
 content/09d. Ficha de proyectos.md:30:Modernización
-content/09d. Ficha de proyectos.md:30:producto
 content/09d. Ficha de proyectos.md:30:tecnología
 content/09d. Ficha de proyectos.md:32:Actores
 content/09d. Ficha de proyectos.md:33:negocio
@@ -1071,6 +1072,110 @@ content/09d. Ficha de proyectos.md:38:Tecnologias
 content/09d. Ficha de proyectos.md:39:Portafolio
 content/09d. Ficha de proyectos.md:40:diseño
 content/09d. Ficha de proyectos.md:40:Herramientas
+content/09d. Ficha de proyectos.md:44:ESB
+content/09d. Ficha de proyectos.md:44:Estandarización
+content/09d. Ficha de proyectos.md:44:FNA
+content/09d. Ficha de proyectos.md:44:Integración
+content/09d. Ficha de proyectos.md:45:Objetivo
+content/09d. Ficha de proyectos.md:46:Actualizar
+content/09d. Ficha de proyectos.md:46:comunicación
+content/09d. Ficha de proyectos.md:46:datos
+content/09d. Ficha de proyectos.md:46:el
+content/09d. Ficha de proyectos.md:46:empresarial
+content/09d. Ficha de proyectos.md:46:entre
+content/09d. Ficha de proyectos.md:46:ESB
+content/09d. Ficha de proyectos.md:46:FNA
+content/09d. Ficha de proyectos.md:46:gestionados
+content/09d. Ficha de proyectos.md:46:integración
+content/09d. Ficha de proyectos.md:46:por
+content/09d. Ficha de proyectos.md:46:servicios
+content/09d. Ficha de proyectos.md:48:Oportunidades
+content/09d. Ficha de proyectos.md:48:Retos
+content/09d. Ficha de proyectos.md:49:cercanas
+content/09d. Ficha de proyectos.md:49:exposición
+content/09d. Ficha de proyectos.md:49:flexibles
+content/09d. Ficha de proyectos.md:49:formas
+content/09d. Ficha de proyectos.md:49:funcional
+content/09d. Ficha de proyectos.md:49:granulares
+content/09d. Ficha de proyectos.md:49:Incluir
+content/09d. Ficha de proyectos.md:49:integración
+content/09d. Ficha de proyectos.md:49:más
+content/09d. Ficha de proyectos.md:49:mediadas
+content/09d. Ficha de proyectos.md:49:niveles
+content/09d. Ficha de proyectos.md:49:por
+content/09d. Ficha de proyectos.md:49:privadas
+content/09d. Ficha de proyectos.md:49:protegidas
+content/09d. Ficha de proyectos.md:49:públicas
+content/09d. Ficha de proyectos.md:49:reutilizables
+content/09d. Ficha de proyectos.md:49:vía
+content/09d. Ficha de proyectos.md:50:aplicación
+content/09d. Ficha de proyectos.md:50:aplicaciones
+content/09d. Ficha de proyectos.md:50:entre
+content/09d. Ficha de proyectos.md:50:exposición
+content/09d. Ficha de proyectos.md:50:funcionalidades
+content/09d. Ficha de proyectos.md:50:hacia
+content/09d. Ficha de proyectos.md:50:independientes
+content/09d. Ficha de proyectos.md:50:integración
+content/09d. Ficha de proyectos.md:50:Migrar
+content/09d. Ficha de proyectos.md:51:datos
+content/09d. Ficha de proyectos.md:51:el
+content/09d. Ficha de proyectos.md:51:Estandarizar
+content/09d. Ficha de proyectos.md:51:integración
+content/09d. Ficha de proyectos.md:51:intercambio
+content/09d. Ficha de proyectos.md:51:modelo
+content/09d. Ficha de proyectos.md:53:Alcance
+content/09d. Ficha de proyectos.md:54:datos
+content/09d. Ficha de proyectos.md:54:Estructurar
+content/09d. Ficha de proyectos.md:54:expuestos
+content/09d. Ficha de proyectos.md:54:forma
+content/09d. Ficha de proyectos.md:54:funcionalidades
+content/09d. Ficha de proyectos.md:54:implementar
+content/09d. Ficha de proyectos.md:54:operaciones
+content/09d. Ficha de proyectos.md:54:producto
+content/09d. Ficha de proyectos.md:55:consumidores
+content/09d. Ficha de proyectos.md:55:Establecer
+content/09d. Ficha de proyectos.md:55:nuevos
+content/09d. Ficha de proyectos.md:55:producto
+content/09d. Ficha de proyectos.md:56:actuales
+content/09d. Ficha de proyectos.md:56:Actualizar
+content/09d. Ficha de proyectos.md:56:consumidores
+content/09d. Ficha de proyectos.md:56:modificar
+content/09d. Ficha de proyectos.md:56:redirección
+content/09d. Ficha de proyectos.md:58:Beneficio
+content/09d. Ficha de proyectos.md:58:Impacto
+content/09d. Ficha de proyectos.md:59:aplicaciones
+content/09d. Ficha de proyectos.md:59:cambios
+content/09d. Ficha de proyectos.md:59:clientes
+content/09d. Ficha de proyectos.md:59:consumidores
+content/09d. Ficha de proyectos.md:59:impacto
+content/09d. Ficha de proyectos.md:59:por
+content/09d. Ficha de proyectos.md:59:producto
+content/09d. Ficha de proyectos.md:59:Proteger
+content/09d. Ficha de proyectos.md:60:Flexibilidad
+content/09d. Ficha de proyectos.md:60:funcionalidades
+content/09d. Ficha de proyectos.md:60:modificación
+content/09d. Ficha de proyectos.md:60:principales
+content/09d. Ficha de proyectos.md:61:Aumentar
+content/09d. Ficha de proyectos.md:61:capacidades
+content/09d. Ficha de proyectos.md:61:el
+content/09d. Ficha de proyectos.md:61:ESB
+content/09d. Ficha de proyectos.md:61:nivel
+content/09d. Ficha de proyectos.md:61:tecnologías
+content/09d. Ficha de proyectos.md:63:Actores
+content/09d. Ficha de proyectos.md:64:negocio
+content/09d. Ficha de proyectos.md:64:Unidades
+content/09d. Ficha de proyectos.md:65:Arquitectura
+content/09d. Ficha de proyectos.md:65:Oficina
+content/09d. Ficha de proyectos.md:66:Cobis
+content/09d. Ficha de proyectos.md:66:FNA
+content/09d. Ficha de proyectos.md:66:Proveedores
+content/09d. Ficha de proyectos.md:67:apoyo
+content/09d. Ficha de proyectos.md:67:Consultores
+content/09d. Ficha de proyectos.md:67:fabricantes
+content/09d. Ficha de proyectos.md:69:Tecnologias
+content/09d. Ficha de proyectos.md:70:Portafolio
+content/09d. Ficha de proyectos.md:71:diseño
+content/09d. Ficha de proyectos.md:71:Herramientas
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:brechas
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:iniciativas
 content/09. Fase 3 PR9 Portafolio de Iniciativas.md:1:Portafolio
