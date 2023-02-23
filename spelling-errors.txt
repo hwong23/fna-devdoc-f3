@@ -8,7 +8,7 @@ Actores
 actuales
 actualizacion
 actualización
-actualizar
+Actualizar
 adaptado
 Adaptador
 adaptadores
@@ -21,7 +21,7 @@ afecta
 agrava
 Agregar
 agregarle
-Agrupar
+agrupar
 ajustes
 Alcance
 algunas
@@ -29,7 +29,7 @@ Algunos
 alimenta
 alineación
 ambas
-análisis
+Análisis
 Anålisis
 analizada
 analizados
@@ -37,7 +37,7 @@ anexo
 anteriores
 apegada
 aplicables
-aplicación
+Aplicación
 aplicaciones
 aportan
 aporten
@@ -47,7 +47,7 @@ Archivo
 área
 áreas
 Arquitecto
-Arquitectura
+arquitectura
 arquitecturas
 arquitetura
 arquittectura
@@ -55,8 +55,8 @@ arreglo
 arriba
 articulación
 ascendente
-Asegura
-asegurar
+asegura
+Asegurar
 Así
 asociados
 aspectos
@@ -72,7 +72,7 @@ bajos
 basado
 Beneficio
 Bizagi
-brecha
+Brecha
 brechas
 busca
 Cada
@@ -83,7 +83,7 @@ campo
 candidata
 canónico
 cantidad
-Capa
+capa
 capacidades
 CapaSoa
 capitalizar
@@ -99,8 +99,8 @@ CCP
 cerrar
 cerrará
 ciclo
-Cierre
-Clasificación
+cierre
+clasificación
 clave
 Clientes
 Cobis
@@ -114,6 +114,7 @@ complejidad
 complementa
 complica
 Componnet
+composiciones
 común
 conceptos
 concretos
@@ -166,7 +167,7 @@ cumplirlo
 cuya
 Darío
 dato
-Datos
+datos
 dcorreal
 debe
 deben
@@ -184,13 +185,14 @@ desactualizaciones
 desarrollada
 desarrolladas
 desarrollanrán
-Desarrollo
+desarrollo
 descendente
 descripción
-descriptiva
+Descriptiva
 descrito
 descritos
 Desde
+desempeño
 despliegue
 determina
 determinar
@@ -218,6 +220,7 @@ Documentación
 documentarlas
 dominio
 economizar
+ee
 efectando
 eficacia
 ehernandez
@@ -225,7 +228,7 @@ ejecución
 ejecutables
 ejemplo
 ejercicio
-El
+el
 elaboración
 elaborada
 elementos
@@ -274,7 +277,7 @@ Estas
 este
 Estimaciones
 esto
-Estos
+estos
 estrategia
 estrategias
 estratégico
@@ -296,9 +299,10 @@ exposición
 expuestas
 expuestos
 Externas
+extiende
 fabricantes
 Falta
-fase
+Fase
 fases
 febrero
 Ficha
@@ -307,6 +311,7 @@ filas
 finalmente
 flexibilidad
 flexibilización
+flujo
 FNA
 focalización
 foco
@@ -346,8 +351,8 @@ hacer
 hacia
 hasta
 herramienta
-Herramientas
-Hoja
+herramientas
+hoja
 Homologaciones
 HomologaciÛn
 hwong
@@ -385,10 +390,11 @@ indican
 índice
 índices
 información
-infraestructura
+Infraestructura
 inicia
 inicial
-Iniciativas
+iniciar
+iniciativas
 Integración
 IntegraciÛn
 intención
@@ -421,7 +427,7 @@ manera
 mantener
 mantenimiento
 más
-matriz
+Matriz
 mayores
 mediano
 medida
@@ -430,7 +436,7 @@ mejora
 Mejorar
 mejoras
 metodo
-método
+Método
 métrodo
 migración
 migraciones
@@ -456,7 +462,7 @@ necesarias
 necesario
 necesarios
 necesidades
-negocio
+Negocio
 nivel
 Niveles
 nombre
@@ -466,7 +472,7 @@ nuevas
 nuevos
 objeitvo
 Objetivo
-objetivos
+Objetivos
 objeto
 objtivos
 obtener
@@ -505,7 +511,7 @@ perspectiva
 Plantea
 plataformas
 plazo
-por
+Por
 porque
 portafolio
 posible
@@ -529,7 +535,7 @@ priorizar
 privadas
 problemas
 problemática
-problemáticas
+Problemáticas
 procesamiento
 proceso
 procesos
@@ -567,7 +573,7 @@ públicas
 puede
 pueden
 puntaje
-Puntos
+puntos
 quereridas
 razón
 reactiva
@@ -577,13 +583,16 @@ realización
 realizan
 realizar
 realizarse
+recomposición
 recursos
 redirección
 rediseñar
+Rediseño
 redundancias
 Reemplazarlos
-Referencia
+referencia
 referencias
+reflejen
 reformas
 reforzar
 reglas
@@ -626,12 +635,13 @@ rumbo
 ruta
 Salida
 salidas
-segmento
+Segmento
+según
 selección
 señalamos
 sentido
 ser
-Servicios
+servicios
 sí
 Siguiendo
 siguiente
@@ -661,7 +671,7 @@ tareas
 técnica
 técnico
 Tecnologia
-tecnología
+Tecnología
 TecnologÌa
 Tecnologias
 tecnologías
@@ -677,7 +687,7 @@ tiempo
 tiempos
 tiene
 tienen
-tipo
+Tipo
 tipos
 todas
 todavía
@@ -685,6 +695,7 @@ Todo
 Todos
 toma
 trabajo
+transacciones
 transformación
 transición
 transicionar
@@ -701,8 +712,8 @@ utilitarios
 utilización
 utilizada
 vamos
-Ventas
-ver
+ventas
+Ver
 veremos
 versión
 versiones

@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-23" />
   <meta name="citation_publication_date" content="2023-02-23" />
   <meta property="article:published_time" content="2023-02-23" />
-  <meta name="dc.modified" content="2023-02-23T18:06:10+00:00" />
-  <meta property="article:modified_time" content="2023-02-23T18:06:10+00:00" />
+  <meta name="dc.modified" content="2023-02-23T18:24:13+00:00" />
+  <meta property="article:modified_time" content="2023-02-23T18:24:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/3267ee01b641d16b30e500ced8502227824daa1a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/3267ee01b641d16b30e500ced8502227824daa1a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/3267ee01b641d16b30e500ced8502227824daa1a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/3267ee01b641d16b30e500ced8502227824daa1a/))
 versión indicada a continuación, se encuentra en 
 ****
-[2f97c6c](https://github.com/hwong23/fna-devdoc-f3/tree/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a)
+[3267ee0](https://github.com/hwong23/fna-devdoc-f3/tree/3267ee01b641d16b30e500ced8502227824daa1a)
 de February 23, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2f97c6c del 23 Feb 2023                              |
+|Version|3267ee0 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2f97c6c del 23 Feb 2023                              |
+|Version|3267ee0 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -304,7 +304,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2f97c6c del 23 Feb 2023                              |
+|Version|3267ee0 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -314,7 +314,8 @@ Las iniciativas de transición, en este contexto, son grupos de paquetes de trab
 
 <br>
 
-### Lista de Proyectos de Cierre de Brechas. Crédito Constructor FNA
+### Lista de Proyectos de Cierre de Brechas
+#### Crédito Constructor FNA
 Los siguientes proyectos, o paquetes de trabajo, son requeridos para cerrar las brechas de flexibilización de la arquitectura actual de Crédito Constructor del FNA. Estos  proyectos de cambios provienen del análisis del brecha descrito en [09b. Matriz de brechas](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
 
 <br>
@@ -331,6 +332,24 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 
 <br>
 
+#### Bus de Datos Empresarial FNA
+Los siguientes proyectos (paquetes de trabajo) son requeridos para cerrar brechas en pro de la flexibilización de negocio, y por tanto, de la arquitectura actual del bus de datos ESB IBM del FNA. Estos proyectos de cambios provienen del análisis del brecha descrito en [09b. Matriz de brechas](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
+
+<br>
+
+Proyectos de cierre de brecha ESB IBM del FNA.
+|**id** | **Proyecto**                            | **Objetivo** | **Tipo**      | **Impl.** | **Depend** |
+|-------|-----------------------------------------|--------------|---------------|-----------|-----------------|
+|BR010  | Estandarización de Integración          |Disminuir los adaptadores particulares. Reemplazarlos por exposición (y gestión) de API| regresivo   | sustitución | BR02 |
+|BR011  | Servicios de negocio y recomposición    |Agregar servicios de negocio a la capa de negocio del ESB. Rediseño de las composiciones de servicios que reflejen el flujo de las transacciones de negocio  | incremental | actualizacion | BR02 |
+
+_Impl._: estrategia de implementación.
+_Depend_: el proyecto actual puede iniciar (o no) según el desempeño de los proyectos en relación de dependencia con este. 
+
+_El tipo de proyeto_ indica el riesgo técnico que causará en la operación de la solución. Para el caso particular del ESB FNA, el proyecto BR10, Estandarización de Integración, extiende los cambios hasta los consumidores de los antes adaptadores. _Las estrategias de implementación_ indican el tipo de trabajo que debe realizarse para minimizar el impacto que el proyecto causará en el este segmento de la empresa del FNA.
+
+<br>
+
 
 
 |Tema            |Portafolio de iniciativas y brechas: **Ficha descriptiva de proyectos para el segmento FNA**|
@@ -338,7 +357,7 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2f97c6c del 23 Feb 2023                              |
+|Version|3267ee0 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
