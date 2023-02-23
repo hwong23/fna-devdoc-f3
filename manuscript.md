@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-23" />
   <meta name="citation_publication_date" content="2023-02-23" />
   <meta property="article:published_time" content="2023-02-23" />
-  <meta name="dc.modified" content="2023-02-23T16:57:22+00:00" />
-  <meta property="article:modified_time" content="2023-02-23T16:57:22+00:00" />
+  <meta name="dc.modified" content="2023-02-23T18:06:10+00:00" />
+  <meta property="article:modified_time" content="2023-02-23T18:06:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/425b978b6ae97c007b827534042fdc86cb7a2371/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a/))
 versión indicada a continuación, se encuentra en 
 ****
-[425b978](https://github.com/hwong23/fna-devdoc-f3/tree/425b978b6ae97c007b827534042fdc86cb7a2371)
+[2f97c6c](https://github.com/hwong23/fna-devdoc-f3/tree/2f97c6cad961b3e382486ab5aacfcf1f13e4a49a)
 de February 23, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|425b978 del 23 Feb 2023                              |
+|Version|2f97c6c del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|425b978 del 23 Feb 2023                              |
+|Version|2f97c6c del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -236,7 +236,7 @@ _Fuente: ae_fna_as_is.archimate._
 
 <br>
 
-Las partes impactadas por el análisis de brecha en el contexto de flexibilidad de negocio que deben ser sustituidas por API indicadas en la arquitectura de SOA 2.0 del FNA para el caso de Crédito Constructor son los indicados con actualización en la siguiente tabla. 
+Las partes impactadas por el análisis de brecha de la arquitectura de Crédito Constructor en el contexto de flexibilidad de negocio, y que por razón de este deben ser sustituidas por API indicadas en la arquitectura de SOA 2.0 del FNA son los indicados con actualización en la siguiente tabla. 
 
 | **nombre**                              | **tipo**                  | **brecha**    |
 |-----------------------------------------|---------------------------|---------------|
@@ -253,6 +253,50 @@ Las partes impactadas por el análisis de brecha en el contexto de flexibilidad 
 | Bizagi IBM (java)                       | application-component     | actualizacion |
 | Servicios CapaSoa Bizagi                | application-service       |
 
+<br>
+
+## Análisis de Brecha Bus de Datos Empresarial. Contexto Flexibilidad de Negocio
+Siguiendo la misma intención de introducir las API (arquitectura candidata SOA, 2.0 del FNA) para aumentar la flexibilidad de negocio, esta vez, en el bus de datos de la empresa, este debe transicionar de adaptadores particulares a API estándares de nivel funcional. Nota: el cambio de adaptadores por API implica, y puede que con mayor profundidad, a los consumidores de estos adaptadores.
+
+![](images/brechaESBFNA.jpg)
+
+[Imagen 1.]() Partes de la arquitectura del bus de datos del FNA (ESB IBM) impactados por el análisis de brecha en el contexto de flexibilidad de negocio.
+
+_Fuente: ae_fna_as_is.archimate._
+
+<br>
+
+Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, quereridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna 'brecha'. 
+
+| **nombre**                                      | **tipo**                  | **brecha**    |
+|-------------------------------------------------|---------------------------|---------------|
+| ESB-IBM                                         | application-component     |               |
+| MQ ESB IBM Entrada Request                      | application-interaction   |               |
+| Service Gateway                                 | application-function      |               |
+| Adaptadores IntegraciÛn int                     | application-interface     | sustitución   |
+| Archivo ConfiguraciÛn Enrutamiento              | data-object               |               |
+| Service Componnet                               | application-function      |               |
+| Homologaciones                                  | application-function      |               |
+| Tabla HomologaciÛn                              | data-object               |               |
+| Capa Servicios ESB                              | application-collaboration | actualización |
+| Adaptadores TecnologÌa  int                     | application-interface     | sustitución   |
+| Utilitarias Framework ESB                       | application-function      |               |
+| Manejo Logs                                     | application-function      |               |
+| Manejo Errorres                                 | application-function      |               |
+| Auditor Servicios                               | application-function      |               |
+| MQ ESB IBM Salida Request                       | application-interaction   |               |
+| MQ ESB IBM Entrada Response                     | application-interaction   |               |
+| MQ ESB IBM Salida Responce                      | application-interaction   |               |
+| Aplicaciones Proveedoras Internas del FNA       | application-component     |               |
+| Aplicaciones Consumidoras Internas del FNA      | application-component     |               |
+| ESB-DMZ                                         | application-component     |               |
+| Adaptadores IntegraciÛn Ext                     | application-interface     | sustitución   |
+| Adaptadores TecnologÌa  Ext                     | application-interface     | sustitución   |
+| Aplicaciones Consumidoras Externas al FNA       | application-component     |               |
+| Aplicaciones Proveedoras Externas al FNA (copy) | application-component     |
+
+<br>
+
 
 
 |Tema            |Portafolio de iniciativas y brechas: **Lista de iniciativas y proyectos SOA**|
@@ -260,7 +304,7 @@ Las partes impactadas por el análisis de brecha en el contexto de flexibilidad 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|425b978 del 23 Feb 2023                              |
+|Version|2f97c6c del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -294,7 +338,7 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|425b978 del 23 Feb 2023                              |
+|Version|2f97c6c del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
