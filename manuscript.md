@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-22'
+date-meta: '2023-02-23'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-22" />
-  <meta name="citation_publication_date" content="2023-02-22" />
-  <meta property="article:published_time" content="2023-02-22" />
-  <meta name="dc.modified" content="2023-02-22T18:10:13+00:00" />
-  <meta property="article:modified_time" content="2023-02-22T18:10:13+00:00" />
+  <meta name="dc.date" content="2023-02-23" />
+  <meta name="citation_publication_date" content="2023-02-23" />
+  <meta property="article:published_time" content="2023-02-23" />
+  <meta name="dc.modified" content="2023-02-23T15:46:57+00:00" />
+  <meta property="article:modified_time" content="2023-02-23T15:46:57+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/080986b6e561d4ef355ea06cc0cb1e844bdcc05a/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5/))
 versión indicada a continuación, se encuentra en 
 ****
-[080986b](https://github.com/hwong23/fna-devdoc-f3/tree/080986b6e561d4ef355ea06cc0cb1e844bdcc05a)
-de February 22, 2023.
+[775bdd4](https://github.com/hwong23/fna-devdoc-f3/tree/775bdd483fda1d60bb90b5bc6ba0359b1d9b13d5)
+de February 23, 2023.
 
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|080986b del 22 Feb 2023                              |
+|Version|775bdd4 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,13 +216,13 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|080986b del 22 Feb 2023                              |
+|Version|775bdd4 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ## Matriz de brechas de arquitectura SOA candidata del segmento FNA
-Los análisis siguientes corresponden a cambios de cierre de brechas respecto al contexto de flexibilidad de negocio. Es decir, los cambios analizados abajo están asociados al contexto de flexibilidad de negocio, y por tanto, aportan a este. Dicho de otra manera, las brechas descritos a continuación son necesarios para mejorar la flexibilidad de negocio.
+Los análisis siguientes corresponden a la descripción de los elementos de cierre de brechas del FNA _respecto al contexto de flexibilidad de negocio_. Es decir, los cambios analizados abajo están asociados al contexto de flexibilidad de negocio, y por tanto, aportan a este, y por ende, a la empresa FNA. Dicho de otra manera, las brechas descritos a continuación son necesarios para mejorar la flexibilidad de negocio del segmento de empresa FNA objeto de este diagnóstico.
 
 <br>
 
@@ -236,7 +236,7 @@ _Fuente: ae_fna_as_is.archimate._
 
 <br>
 
-Las partes impactadas por el análisis de brecha en el contexto de flexibilidad de negocio que deben ser sustituidas por API indicadas en la arquitectura de SOA 2.0 del FNA, o arquiotectura de candidata  2.0 son los indicados con actualización en la siguiente tabla. 
+Las partes impactadas por el análisis de brecha en el contexto de flexibilidad de negocio que deben ser sustituidas por API indicadas en la arquitectura de SOA 2.0 del FNA para el caso de Crédito Constructor son los indicados con actualización en la siguiente tabla. 
 
 | **nombre**                              | **tipo**                  | **brecha**    |
 |-----------------------------------------|---------------------------|---------------|
@@ -260,22 +260,28 @@ Las partes impactadas por el análisis de brecha en el contexto de flexibilidad 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|080986b del 22 Feb 2023                              |
+|Version|775bdd4 del 23 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ## Iniciativas y Proyectos de Cierre de Brecha
-
-### Lista de Proyectos de Cierre de Brechas. Crédito Constructor FNA
-Los siguientes proyectos son requeridos para cerrar las brechas en la flexibilización de la arquitectura de Crédito Constructor del FNA. Los proyectos provienen del análisis del brecha descrito en [09b. Matriz de brechas](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
+Las iniciativas de transición, en este contexto, son grupos de paquetes de trabajo, que son a su vez proyectos ejecutables de cierre de brechas que realizan sustituciones, reajustes, o mejoras en un área de la arquitectura actual.
 
 <br>
 
-|**id** | **Proyecto**                            | **Tipo**      | **Objetivo** |
-|-------|-----------------------------------------|---------------|--------------|
-|BR01   | API Crédito Constructor                 | incremental   | Actualizar las interfaces de ejecución y exposición de funcionalidades|
-|BR02   | Estandarización de Integración          | regresivo     | Disminuir los adaptadores particulares. Reemplazarlos por llamadas a API|
+### Lista de Proyectos de Cierre de Brechas. Crédito Constructor FNA
+Los siguientes proyectos, o paquetes de trabajo, son requeridos para cerrar las brechas de flexibilización de la arquitectura actual de Crédito Constructor del FNA. Estos  proyectos de cambios provienen del análisis del brecha descrito en [09b. Matriz de brechas](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
+
+<br>
+
+Proyectos de cierre de brecha Crédito Constructor FNA.
+|**id** | **Proyecto**                            | **Objetivo** | **Tipo**      | **Impl.** |
+|-------|-----------------------------------------|--------------|---------------|-----------|
+|BR01   | API Crédito Constructor                 |Actualizar las interfaces de ejecución y exposición de funcionalidades  | incremental | actualizacion |  
+|BR02   | Estandarización de Integración          |Disminuir los adaptadores particulares. Reemplazarlos por llamadas a API| regresivo   | sustitución |  
+
+_Impl._: estrategia de implementación
 
 <br>
 
