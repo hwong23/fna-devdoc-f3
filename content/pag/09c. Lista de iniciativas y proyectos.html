@@ -6,8 +6,8 @@
 <thead>
 <tr class="header">
 <th>Tema</th>
-<th>Portafolio de iniciativas y brechas (Deliverable): <strong>Lista de
-iniciativas y proyectos SOA</strong></th>
+<th>Portafolio de iniciativas y brechas: <strong>Lista de iniciativas y
+proyectos SOA</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -37,44 +37,63 @@ Segmento SOA FNA</a></td>
 <p><br></p>
 <h2 id="iniciativas-y-proyectos-de-cierre-de-brecha">Iniciativas y
 Proyectos de Cierre de Brecha</h2>
-<h3
-id="lista-de-proyectos-de-cierre-de-brechas.-crédito-constructor-fna">Lista
-de Proyectos de Cierre de Brechas. Crédito Constructor FNA</h3>
-<p>Los siguientes proyectos son requeridos para cerrar las brechas en la
-flexibilización de la arquitectura de Crédito Constructor del FNA. Los
-proyectos provienen del análisis del brecha descrito en <a
+<p>Las iniciativas de transición, en este contexto, son grupos de
+paquetes de trabajo, que son a su vez proyectos ejecutables de cierre de
+brechas que realizan sustituciones, reajustes, o mejoras en un área de
+la arquitectura actual.</p>
+<p><br></p>
+<h3 id="lista-de-proyectos-de-cierre-de-brechas">Lista de Proyectos de
+Cierre de Brechas</h3>
+<h4 id="crédito-constructor-fna">Crédito Constructor FNA</h4>
+<p>Los siguientes proyectos, o paquetes de trabajo, son requeridos para
+cerrar las brechas de flexibilización de la arquitectura actual de
+Crédito Constructor del FNA. Estos proyectos de cambios provienen del
+análisis del brecha descrito en <a
 href="N03a%a20Vsta%20aSegenta%20SOA%20FNA.md">09b. Matriz de
 brechas</a>.</p>
 <p><br></p>
-<table>
-<colgroup>
-<col style="width: 9%" />
-<col style="width: 53%" />
-<col style="width: 19%" />
-<col style="width: 18%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>id</strong></th>
-<th><strong>Proyecto</strong></th>
-<th><strong>Tipo</strong></th>
-<th><strong>Objetivo</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>BR01</td>
-<td>API Crédito Constructor</td>
-<td>incremental</td>
-<td>Actualizar las interfaces de ejecución y exposición de
-funcionalidades</td>
-</tr>
-<tr class="even">
-<td>BR02</td>
-<td>Estandarización de Integración</td>
-<td>regresivo</td>
-<td>Disminuir los adaptadores particulares. Reemplazarlos por llamadas a
-API</td>
-</tr>
-</tbody>
-</table>
+<p>Proyectos de cierre de brecha Crédito Constructor FNA.
+|<strong>id</strong> | <strong>Proyecto</strong> |
+<strong>Objetivo</strong> | <strong>Tipo</strong> |
+<strong>Impl.</strong> | |——-|—————————————–|————–|—————|———–| |BR01 |
+API Crédito Constructor |Actualizar las interfaces de ejecución y
+exposición de funcionalidades | incremental | actualizacion |<br />
+|BR02 | Estandarización de Integración |Disminuir los adaptadores
+particulares. Reemplazarlos por llamadas a API| regresivo | sustitución
+|</p>
+<p><em>Impl.</em>: estrategia de implementación</p>
+<p><em>El tipo de proyeto</em> indica el riesgo técnico que causará en
+la operación de la solución, en este caso, Crédito Constructor. <em>Las
+estrategias de implementación</em> indican el tipo de trabajo que debe
+realizarse para minimizar el impacto que el proyecto causará en el este
+segmento de la empresa del FNA.</p>
+<p><br></p>
+<h4 id="bus-de-datos-empresarial-fna">Bus de Datos Empresarial FNA</h4>
+<p>Los siguientes proyectos (paquetes de trabajo) son requeridos para
+cerrar brechas en pro de la flexibilización de negocio, y por tanto, de
+la arquitectura actual del bus de datos ESB IBM del FNA. Estos proyectos
+de cambios provienen del análisis del brecha descrito en <a
+href="N03a%a20Vsta%20aSegenta%20SOA%20FNA.md">09b. Matriz de
+brechas</a>.</p>
+<p><br></p>
+<p>Proyectos de cierre de brecha ESB IBM del FNA. |<strong>id</strong> |
+<strong>Proyecto</strong> | <strong>Objetivo</strong> |
+<strong>Tipo</strong> | <strong>Impl.</strong> | <strong>Depend</strong>
+| |——-|—————————————–|————–|—————|———–|—————–| |BR010 | Estandarización
+de Integración ESB FNA |Disminuir los adaptadores particulares.
+Reemplazarlos por exposición (y gestión) de API| regresivo | sustitución
+| BR02 | |BR011 | Servicios de negocio y recomposición |Agregar
+servicios de negocio a la capa de negocio del ESB. Rediseño de las
+composiciones de servicios que reflejen el flujo de las transacciones de
+negocio | incremental | actualizacion | BR02 |</p>
+<p><em>Impl.</em>: estrategia de implementación. <em>Depend</em>: el
+proyecto actual puede iniciar (o no) según el desempeño de los proyectos
+en relación de dependencia con este.</p>
+<p><em>El tipo de proyeto</em> indica el riesgo técnico que causará en
+la operación de la solución. Para el caso particular del ESB FNA, el
+proyecto BR10, Estandarización de Integración, extiende los cambios
+hasta los consumidores de los antes adaptadores. <em>Las estrategias de
+implementación</em> indican el tipo de trabajo que debe realizarse para
+minimizar el impacto que el proyecto causará en el este segmento de la
+empresa del FNA.</p>
+<p><br></p>
