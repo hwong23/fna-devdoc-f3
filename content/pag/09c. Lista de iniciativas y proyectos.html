@@ -1,7 +1,7 @@
 <table>
 <colgroup>
-<col style="width: 23%" />
-<col style="width: 76%" />
+<col style="width: 16%" />
+<col style="width: 83%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -35,6 +35,7 @@ Segmento SOA FNA</a></td>
 </tbody>
 </table>
 <p><br></p>
+
 <h2 id="iniciativas-y-proyectos-de-cierre-de-brecha">Iniciativas y
 Proyectos de Cierre de Brecha</h2>
 <p>Las iniciativas de transición, en este contexto, son grupos de
@@ -52,48 +53,49 @@ análisis del brecha descrito en <a
 href="N03a%a20Vsta%20aSegenta%20SOA%20FNA.md">09b. Matriz de
 brechas</a>.</p>
 <p><br></p>
-<p>Proyectos de cierre de brecha Crédito Constructor FNA.
-|<strong>id</strong> | <strong>Proyecto</strong> |
-<strong>Objetivo</strong> | <strong>Tipo</strong> |
-<strong>Impl.</strong> | |——-|—————————————–|————–|—————|———–| |BR01 |
-API Crédito Constructor |Actualizar las interfaces de ejecución y
-exposición de funcionalidades | incremental | actualizacion |<br />
-|BR02 | Estandarización de Integración |Disminuir los adaptadores
-particulares. Reemplazarlos por llamadas a API| regresivo | sustitución
-|</p>
+
+<p>Proyectos de cierre de brecha Crédito Constructor FNA.</p>
+<table>
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 22%" />
+<col style="width: 52%" />
+<col style="width: 9%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>id</strong></th>
+<th><strong>Proyecto</strong></th>
+<th><strong>Objetivo</strong></th>
+<th><strong>Tipo</strong></th>
+<th><strong>Impl.</strong></th>
+</tr>
+</thead>
+
+<tbody>
+<tr class="odd">
+<td>BR01</td>
+<td>API Crédito Constructor</td>
+<td>Actualizar las interfaces de ejecución y exposición de
+funcionalidades</td>
+<td>incremental</td>
+<td>actualizacion</td>
+</tr>
+<tr class="even">
+<td>BR02</td>
+<td>Estandarización de Integración</td>
+<td>Disminuir los adaptadores particulares. Reemplazarlos por llamadas a
+API</td>
+<td>regresivo</td>
+<td>sustitución</td>
+</tr>
+</tbody>
+</table>
 <p><em>Impl.</em>: estrategia de implementación</p>
 <p><em>El tipo de proyeto</em> indica el riesgo técnico que causará en
 la operación de la solución, en este caso, Crédito Constructor. <em>Las
 estrategias de implementación</em> indican el tipo de trabajo que debe
 realizarse para minimizar el impacto que el proyecto causará en el este
 segmento de la empresa del FNA.</p>
-<p><br></p>
-<h4 id="bus-de-datos-empresarial-fna">Bus de Datos Empresarial FNA</h4>
-<p>Los siguientes proyectos (paquetes de trabajo) son requeridos para
-cerrar brechas en pro de la flexibilización de negocio, y por tanto, de
-la arquitectura actual del bus de datos ESB IBM del FNA. Estos proyectos
-de cambios provienen del análisis del brecha descrito en <a
-href="N03a%a20Vsta%20aSegenta%20SOA%20FNA.md">09b. Matriz de
-brechas</a>.</p>
-<p><br></p>
-<p>Proyectos de cierre de brecha ESB IBM del FNA. |<strong>id</strong> |
-<strong>Proyecto</strong> | <strong>Objetivo</strong> |
-<strong>Tipo</strong> | <strong>Impl.</strong> | <strong>Depend</strong>
-| |——-|—————————————–|————–|—————|———–|—————–| |BR010 | Estandarización
-de Integración ESB FNA |Disminuir los adaptadores particulares.
-Reemplazarlos por exposición (y gestión) de API| regresivo | sustitución
-| BR02 | |BR011 | Servicios de negocio y recomposición |Agregar
-servicios de negocio a la capa de negocio del ESB. Rediseño de las
-composiciones de servicios que reflejen el flujo de las transacciones de
-negocio | incremental | actualizacion | BR02 |</p>
-<p><em>Impl.</em>: estrategia de implementación. <em>Depend</em>: el
-proyecto actual puede iniciar (o no) según el desempeño de los proyectos
-en relación de dependencia con este.</p>
-<p><em>El tipo de proyeto</em> indica el riesgo técnico que causará en
-la operación de la solución. Para el caso particular del ESB FNA, el
-proyecto BR10, Estandarización de Integración, extiende los cambios
-hasta los consumidores de los antes adaptadores. <em>Las estrategias de
-implementación</em> indican el tipo de trabajo que debe realizarse para
-minimizar el impacto que el proyecto causará en el este segmento de la
-empresa del FNA.</p>
 <p><br></p>
