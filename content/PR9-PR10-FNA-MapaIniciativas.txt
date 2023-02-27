@@ -1,0 +1,337 @@
+
+
+## Oficina de arquitectura
+### Objetivo: Equipo de trabajo, conforme al gobierno SOA, a cargo de los roles de gestión de la tecnología y arquitectura en los ámbitos específicos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones y herramientas de software, y especialista estructuras de datos e información negocio. Rol general: gestión de conocimiento de la arquitectura de referencia.​
+
+#### Oportunidades / Retos
+- Institucionalizar el rol y los deberes y responsabilidad del grupo de arquitectura
+- Hacer una gestión cada vez más efectiva del conocimiento en arquitectura del FNA​
+	
+#### Actores
+- Dirección TI
+- Unidades de negocio​
+- Consultores de soporte​
+	
+Impacto / Beneficio
+	A.  Gestionar el conocimiento en arquitectura del FNA​
+	B.  Proveer un enlace directo desde la oficina de arquitectura con los consultores en arquitectura​
+	C.  Gobernar la arquitectura de referencia de la organización​
+
+#### Alcance
+- Definición de funciones y roles de los miembros de la oficina​
+- Definir procesos y niveles de servicio de la oficina​
+- Dar lanzamiento a la oficina​
+	
+#### Tecnología
+- Arquitectura de referencia
+- Depósito de Arquitectura
+	
+#### Iniciativa B
+- Fichas de proyecto
+
+# B1 Gestión de arquitectura 2.0 (arquitectura de referencia)​
+## Objetivo: Evolucionar el desarrollo de los Servicios hacia microservicios y a la adopción de un estilo de arquitectura orientado a eventos. ​
+
+#### Oportunidades / Retos
+- Acelerar el desarrollo de las arquitecturas de solución​
+- Unificar el vocabulario con las áreas de negocio y TI​
+- Proveer soporte a los lineamientos y políticas de gobierno​
+
+#### Actores
+- Áreas de negocio críticas​
+- Oficina de arquitectura FNA​
+- Consultores y equipo de apoyo​
+	
+#### Impacto / Beneficio
+- Reducción en tiempos y costos asociados a las soluciones SOA​
+- Mejora en la alineación entre negocio y TI​
+- Mitigación de rotación del equipo de arquitectura​
+- Visión global de soluciones de TI vs Requisitos del negocio​
+	
+#### Alcance
+- Diseño a profundidad de vistas funciona, despliegue, información, integración y tecnología​
+- Modelado en la herramienta de diseño del FNA​
+- Utilización del depósito de arquitectura institucional​
+	
+#### Tecnología
+- Depósito´de Arquitectura
+- Herramientas de modelado
+
+# B2 Microservicios
+### Objetivo: Promover el uso de microservicios como estilo de arquitectura para ser integrado con la estrategia SOA existente en el FNA​
+
+#### Oportunidades / Retos
+- Proponer esquemas de arquitectura desacopladas​
+- Actualizar el portafolio de servicios con tecnologías actuales mediante un estilo de arquitectura orientada a microservicios​
+- Agilidad en el desarrollo de soluciones ​
+	
+#### Actores
+- Oficina de arquitectura​
+- Desarrollo / operaciones​
+- Consultores SOA​
+	
+#### Impacto / Beneficio
+- Actualización tecnológica​
+- Disminución en los costos y tiempos asociados al desarrollo de soluciones SOA​
+- Modernización y utilización de los mecanismos de integración de servicios​
+	
+#### Alcance
+- Revisión del proceso de desarrollo de software del FNA​
+- Apropiación de técnicas de desarrollo ágil - DevOps​
+- Metodologías de análisis, diseño e implementación orientadas a microservicios​
+- Adecuación de la infraestructura para soportar los flujos de despliegue continuo / integración continua y desarrollo de Microservicios​
+	
+#### Tecnología
+- Herramientas de desarrollo
+- Herramientas de despliegue continuo / IC
+- Tecnologías cloud
+
+## B3 Portafolio de API
+### Objetivo: Establecer un portafolio institucional de funcionalidades, recursos y datos expuestos en API, que sirva como fuente única de la verdad sobre las versiones, tecnologías y características de todas las API de la organización​
+
+#### Oportunidades / Retos
+- Gestión y estructuración del portafolio de API del FNA​
+- Definición de los contratos de las API, las tecnologías y los atributos de calidad de las API de la organización​
+
+#### Actores
+- Unidades de negocio​
+- Oficina de Arquitectura​
+- Proveedores del FNA (Cobis, IBM, Oracle)​
+- Consultores / fabricantes de apoyo​
+		
+#### Impacto / Beneficio
+- Mejorar el gobierno y las estrategias de evolución y mantenimiento de las API del FNA​
+- Mayor control en el diseño, desarrollo y operación de las API​
+- Punto único de búsqueda y  localización de API y servicios en la organización​
+	
+#### Alcance
+- Estructuración del portafolio, en API privadas, públicas y consorcio​
+- Diseño de la estructura y organización de las API de la organización​
+- Definición de lineamientos y políticas de uso de las API ​
+- Tecnologías e infraestructura requeridas para el desarrollo, pruebas y operación de las diferentes API​
+	
+#### Tecnología
+- Portafolio de API
+- Herramientas de diseño de API
+
+## B3.1 API Crédito Constructor
+### Objetivo: Actualizar las interfaces de ejecución y exposición de funcionalidades (API) de Crédito Constructor​
+
+#### Oportunidades / Retos
+- Convertir al producto Crédito Constructor en funcionalidades granulares, reutilizables y expuestas (privadas, protegidas y públicas)​
+- Comercializar el API de C. Constructor​
+- Estandarizar el modelo de integración e intercambio de datos​
+	
+#### Actores
+- Unidades de negocio​
+- Oficina de Arquitectura​
+- Proveedores del FNA (Cobis, IBM, Oracle)​
+- Consultores / fabricantes de apoyo​
+	
+#### Impacto / Beneficio
+- Proteger de impacto por cambios en C. Constructor a los consumidores y aplicaciones clientes del producto​
+- Flexibilidad de modificación de las funcionalidades principales de C. Constructor​
+- Modernización de tecnología del producto C. Constructor​
+	
+#### Alcance
+- Estructurar e implementar funcionalidades del producto en forma de operaciones y datos expuestos (API)​
+- Establecer los nuevos consumidores de las API del producto​
+- Actualizar y modificar a los consumidores actuales (redirección)​
+	
+#### Tecnología
+- Portafolio de API
+- Herramientas de diseño de API
+	
+## Iniciativa C1
+## Fichas de proyecto
+### Service Mesh
+
+#### Oportunidades / Retos
+- Modernizar los mecanismos de orquestación de servicios​
+- Proponer alternativas para el manejo de escalabilidad, seguridad y monitoreo de servicios​
+- Proponer esquemas de operación de servicios orientados a la nube​
+	
+#### Actores
+- Oficina de Arquitectura FNA​
+- Consultores de Apoyo​
+	
+#### Impacto / Beneficio
+- Apoyo a la estrategia de transición hacia microservicios​
+- Mayor control y monitoreo de los microservicios​
+- Posibilidad de un despliegue multi-cloud de los microservicios​
+- Mejorar mecanismos de comunicación y control de los micro servicios​
+	
+#### Alcance
+- Diseño de arquitectura ​
+- Instalación de una herramienta que implemente el patrón service-mesh (Control Plan – Data plane)​
+- Prueba piloto inicial con un subconjunto de servicios​
+- Extensión de la prueba piloto a un proceso de misión crítica​
+	
+#### Tecnología
+- Implementación service Mesh: Istio, Amazon App Mesh, Meshery
+- Kubernetes
+- Docker
+
+## C2 Plataforma Híbrida de Integración
+### Objetivo: Establecer un esquema de integración orientado a mensajes integrado con mecanismos de integración síncronos​
+
+#### Oportunidades / Retos
+- Potencializar el uso de la tecnología de integración instalada  (ESB y Mensajería)​
+- Modernizar los esquemas de integración de la organización con esquemas híbridos (síncronos y asíncronos)​
+- Propender por arquitecturas orientadas a eventos​
+	
+#### Actores
+- Encargados de infraestructura y operaciones​
+- Oficina Arquitectura de FNA​
+- Consultores de apoyo​
+	
+#### Impacto / Beneficio
+- Disminución de la complejidad asociada a la orquestación de servicios​
+- Desacoplamiento de las soluciones y servicios del ecosistema de servicios de la organización​
+- Menor dependencia del bus de servicios​
+	
+#### Alcance
+- Diseño de arquitectura​
+- Prueba piloto con orquestación y coreografía​
+- Extensión de la prueba a un proceso misional​
+	
+#### Tecnología
+- ESB
+- Plataforma de Mensajería
+
+## Hub de Integración Digital
+### Objetivo: Proveer una plataforma de datos de alta velocidad que intermedie entre el API Gateway y la Plataforma híbrida de Integración ​
+
+#### Oportunidades / Retos
+- Desacoplamiento de sistemas de información​
+- Consulta de información con baja latencia​
+- Alimentación a la zona de analítica​
+	
+#### Actores
+- Encargados de infraestructura y operaciones​
+- Oficina de arquitectura​
+- Consultores de soporte​
+	
+#### Impacto / Beneficio
+- Soporte a esquemas híbridos de despliegue (on-premises y cloud)​
+- Implementación de prácticas DevOps como despliegue continuo e integración continua​
+- Mayor acceso y velocidad a los datos operativos y analíticos de la organización​
+
+#### Alcance
+- Arquitectura de integración​
+- Integración con el API Gateway y la plataforma híbrida de integración​
+- Integración en un proceso misional​
+	
+#### Tecnología
+- Hub de Integración Digital
+
+## Iniciativa D
+## Fichas de proyecto
+
+### Arquitectura de Datos (Data Mesh)​
+Objetivo: Implementar una estrategia de datos  que permita al FNA gestionar sus datos como un activo y aumentar el valor que obtiene de sus datos mediante la identificación de oportunidades para el uso de datos, reducción de costos y mitigación de riesgos​
+
+#### Oportunidades / Retos
+- Traducir las necesidades del negocio en requerimientos de datos y de sistemas para que los procesos tengan de manera consistente los datos que requieren​
+- Preparar estratégicamente al FNA es para evolucionar rápidamente sus productos, servicios y datos para aprovechar las oportunidades comerciales inherentes a las tecnologías emergentes​
+
+#### Actores
+- Oficina de Arquitectura FNA​
+- Consultores de apoyo​
+- Arquitecto de Datos​
+	
+#### Impacto / Beneficio
+- Facilitar la alineación entre el negocio y TI​
+- Diseños de estructuras y planes que cumplan con los requerimientos de datos actuales y a largo plazo para el FNA​
+- Usar la Arquitectura de Datos para establecer la semántica de una empresa, a través de un vocabulario común del negocio​
+​	
+#### Alcance
+- Producir las versiones iniciales de los artefactos de Arquitectura de Datos, como el modelo de datos empresarial, el mapa de flujo de datos y mapas de ruta de toda la empresa​
+- Alinear la Arquitectura de Datos con la estrategia empresarial y la arquitectura de negocio​
+- Definir un modelo canónico de datos basado en un modelo unificado de datos y que permita incrementalmente la implementación de un Data Mesh​
+	
+#### Tecnología
+- Herramientas de modelado de datos	
+- Herramientas que provea servicios de implementación de Data Mesh (Ingesta, almacenamiento, explotación)
+- Repositorio de Arquitectura
+
+## D2 Gobierno de Datos
+### Objetivo: Implementar la estrategia de gobierno de datos que permita tener autoridad y control sobre la gestión de los activos de datos del FNA​
+
+#### Oportunidades / Retos
+- Habilitar un FNA  que gestione los datos como un activo​
+- Definir, aprobar, comunicar e implementar principios, políticas, métricas, herramientas y responsabilidades para la gestión de los datos​
+- Monitorear, mantener y guiar el cumplimiento de la políticas sobre la gestión y uso de datos ​
+
+#### Actores
+- Comité de gobierno del FNA​
+- Oficina de arquitectura FNA - Oficina de ​gobierno de datos
+- Especialista en Gobierno de Datos​
+		
+#### Impacto / Beneficio
+- Cumplimiento regulatorio​
+- Eficiencia en proyectos de desarrollo y productos de datos​
+- Gestión de proveedores​
+	
+#### Alcance
+- Definir el gobierno de datos para el FNA​
+- Definir e implementar la estrategía de datos para el FNA​
+- Alinear el gobierno de datos con el gobierno SOA​
+	
+#### Tecnología
+- Herramienta de gobierno de datos
+- Tablero de control de gobierno de datos
+
+## D3 Gestión de Datos Maestros
+### Objetivo: Implementar  una estrategia de gestión de datos compartidos para conocer objetivos organizacionales reduciendo la redundancia de los datos y los costos de integración de los datos​
+
+#### Oportunidades / Retos
+- Gestionar los datos compartidos de forma eficiente​
+- Proporcionar una fuente autorizada de datos maestros y de referencia conciliados y evaluados con calidad​
+- Cumplir con los requisitos de datos en el FNA​
+	
+#### Actores
+- Unidades de Negocio​
+- Oficina de arquitectura FNA​
+- Consultores de Apoyo​
+	
+#### Impacto / Beneficio
+- Reducir los riesgos asociados con la redundancia de datos, asegurando alta calidad, y reduciendo costos de integración de datos​
+- Habilitar y compartir activos de información trasversalmente en los dominios de negocio y aplicaciones en la organización​
+- Desarrollar una versión confiable de la verdad para cada instancia de entidad conceptual como producto, lugar, cuenta, persona u organización ​
+	
+#### Alcance
+- Identificar múltiples instancias de la misma entidad representada dentro y entre fuentes de datos; construir y mantener identificadores y referencias cruzadas para permitir la integración de la información​
+- Implementación de una herramienta de Master Data Management (MDM)​
+- Integración de datos a través de estándares, modelos de datos comunes y patrones de integración​
+
+#### Tecnología
+- Herramienta de Master Data Management MDM
+- Tablero de control de datos maestros
+
+## Iniciativa E1
+### Fichas de proyecto
+
+#### Oportunidades / Retos
+#### Actores
+#### Impacto / Beneficio
+#### Alcance
+#### Tecnología
+
+## Matriz de impacto
+### Oportunidades / Iniciativas
+
+## Mapa de calor iniciativas SOA FNA​
+- Imagen Iniciativas vs Oportunidades
+
+- OP1		Instaurar la figura de gobierno SOA, capacidad, proceso y recursos​
+- OP2		Mejorar proceso de diseño / construcción de soluciones SOA​
+- OP3		Mejorar la oferta de servicios analíticos en segmento FNA​
+- OP4 	Aumentar el nivel de utilización de la Tecnología SOA del FNA​
+- OP5		Desarrollo de Servicios FNA guiada por la arquitectura de referencia 2.0​
+- OP6		Gestión de la Tecnología (gobierno) orientada por arquitectura 2.0​
+- OP7		Articulación y fortalecimiento del equipo de arquitectura del FNA junto a proveedores​
+- OP8		Monitoreo de los índices de eficacia de los servicios FNA​
+
+## Mapa de Ruta FNA​
+- Imagen Mapa de Ruta FNA​
