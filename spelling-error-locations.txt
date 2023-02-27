@@ -1385,113 +1385,383 @@ content/09d2. Estandarización de Integración ESB FNA.md:26:Tecnologias
 content/09d2. Estandarización de Integración ESB FNA.md:27:Portafolio
 content/09d2. Estandarización de Integración ESB FNA.md:28:diseño
 content/09d2. Estandarización de Integración ESB FNA.md:28:Herramientas
-content/09d3.md:1:Gobierno
-content/09d3.md:1:SOA
-content/09d3.md:2:Objetivo
-content/09d3.md:3:aplicación
-content/09d3.md:3:áreas
-content/09d3.md:3:asistir
-content/09d3.md:3:crédito
-content/09d3.md:3:debe
-content/09d3.md:3:diseño
-content/09d3.md:3:ejecución
-content/09d3.md:3:El
-content/09d3.md:3:entre
-content/09d3.md:3:estándar
-content/09d3.md:3:FNA
-content/09d3.md:3:Fondo
-content/09d3.md:3:gobierno
-content/09d3.md:3:implementación
-content/09d3.md:3:implementación
-content/09d3.md:3:marcha
-content/09d3.md:3:negocio
-content/09d3.md:3:observación
-content/09d3.md:3:operaciones
-content/09d3.md:3:puesta
-content/09d3.md:3:relaciones
-content/09d3.md:3:SOA
-content/09d3.md:3:SOA
-content/09d3.md:3:SOA
-content/09d3.md:3:soluciones
-content/09d3.md:3:soluciones
-content/09d3.md:3:vicepresidencia
-content/09d3.md:3:vicepresidencia
-content/09d3.md:3:Vigilar
-content/09d3.md:5:Oportunidades
-content/09d3.md:5:Retos
-content/09d3.md:6:comité
-content/09d3.md:6:el
-content/09d3.md:6:FNA
-content/09d3.md:6:Fortalecer
-content/09d3.md:6:gobierno
-content/09d3.md:6:SOA
-content/09d3.md:7:Generar
-content/09d3.md:7:gobierno
-content/09d3.md:7:lineamientos
-content/09d3.md:7:políticas
-content/09d3.md:7:SOA
-content/09d3.md:8:arquitectura
-content/09d3.md:8:desarrollo
-content/09d3.md:8:institucionalización
-content/09d3.md:8:proceso
-content/09d3.md:8:Promover
-content/09d3.md:8:referencia
-content/09d3.md:8:SOA
-content/09d3.md:8:soluciones
-content/09d3.md:10:Actores
-content/09d3.md:11:Comité
-content/09d3.md:11:FNA
-content/09d3.md:11:gobierno
-content/09d3.md:12:arquitectura
-content/09d3.md:12:FNA
-content/09d3.md:12:Oficina
-content/09d3.md:13:asesor
-content/09d3.md:13:Comité
-content/09d3.md:15:Beneficio
-content/09d3.md:15:Impacto
-content/09d3.md:16:ambigüedad
-content/09d3.md:16:arquitectura
-content/09d3.md:16:claros
-content/09d3.md:16:evolución
-content/09d3.md:16:guiar
-content/09d3.md:16:libres
-content/09d3.md:16:Lineamientos
-content/09d3.md:16:organización
-content/09d3.md:16:permitan
-content/09d3.md:16:SOA
-content/09d3.md:17:estratégica
-content/09d3.md:17:Fuente
-content/09d3.md:17:operación
-content/09d3.md:17:planeación
-content/09d3.md:17:SOA
-content/09d3.md:17:única
-content/09d3.md:18:cumplimiento
-content/09d3.md:18:niveles
-content/09d3.md:18:servicio
-content/09d3.md:18:SOA
-content/09d3.md:18:soluciones
-content/09d3.md:18:Vigilancia
-content/09d3.md:20:Alcance
-content/09d3.md:21:comité
-content/09d3.md:21:Diseño
-content/09d3.md:21:gobierno
-content/09d3.md:21:procesos
-content/09d3.md:21:responsabilidades
-content/09d3.md:22:comité
-content/09d3.md:22:dentro
-content/09d3.md:22:FNA
-content/09d3.md:22:Institucionalización
-content/09d3.md:23:comité
-content/09d3.md:23:Definición
-content/09d3.md:23:instalación
-content/09d3.md:23:responsabilidades
-content/09d3.md:23:selección
-content/09d3.md:25:Tecnología
-content/09d3.md:26:centralizado
-content/09d3.md:26:Depósito
-content/09d3.md:26:SOA
-content/09d3.md:27:Depósito
-content/09d3.md:27:documental
+content/09d3. Gobierno SOA.md:1:Gobierno
+content/09d3. Gobierno SOA.md:1:SOA
+content/09d3. Gobierno SOA.md:2:Objetivo
+content/09d3. Gobierno SOA.md:3:aplicación
+content/09d3. Gobierno SOA.md:3:áreas
+content/09d3. Gobierno SOA.md:3:áreas
+content/09d3. Gobierno SOA.md:3:asistir
+content/09d3. Gobierno SOA.md:3:crédito
+content/09d3. Gobierno SOA.md:3:debe
+content/09d3. Gobierno SOA.md:3:diseño
+content/09d3. Gobierno SOA.md:3:ejecución
+content/09d3. Gobierno SOA.md:3:El
+content/09d3. Gobierno SOA.md:3:entre
+content/09d3. Gobierno SOA.md:3:estándar
+content/09d3. Gobierno SOA.md:3:FNA
+content/09d3. Gobierno SOA.md:3:Fondo
+content/09d3. Gobierno SOA.md:3:gobierno
+content/09d3. Gobierno SOA.md:3:implementación
+content/09d3. Gobierno SOA.md:3:implementación
+content/09d3. Gobierno SOA.md:3:marcha
+content/09d3. Gobierno SOA.md:3:negocio
+content/09d3. Gobierno SOA.md:3:observación
+content/09d3. Gobierno SOA.md:3:operaciones
+content/09d3. Gobierno SOA.md:3:puesta
+content/09d3. Gobierno SOA.md:3:relaciones
+content/09d3. Gobierno SOA.md:3:SOA
+content/09d3. Gobierno SOA.md:3:SOA
+content/09d3. Gobierno SOA.md:3:SOA
+content/09d3. Gobierno SOA.md:3:soluciones
+content/09d3. Gobierno SOA.md:3:soluciones
+content/09d3. Gobierno SOA.md:3:vicepresidencia
+content/09d3. Gobierno SOA.md:3:vicepresidencia
+content/09d3. Gobierno SOA.md:3:Vigilar
+content/09d3. Gobierno SOA.md:5:Oportunidades
+content/09d3. Gobierno SOA.md:5:Retos
+content/09d3. Gobierno SOA.md:6:comité
+content/09d3. Gobierno SOA.md:6:el
+content/09d3. Gobierno SOA.md:6:FNA
+content/09d3. Gobierno SOA.md:6:Fortalecer
+content/09d3. Gobierno SOA.md:6:gobierno
+content/09d3. Gobierno SOA.md:6:SOA
+content/09d3. Gobierno SOA.md:7:Generar
+content/09d3. Gobierno SOA.md:7:gobierno
+content/09d3. Gobierno SOA.md:7:lineamientos
+content/09d3. Gobierno SOA.md:7:políticas
+content/09d3. Gobierno SOA.md:7:SOA
+content/09d3. Gobierno SOA.md:8:arquitectura
+content/09d3. Gobierno SOA.md:8:desarrollo
+content/09d3. Gobierno SOA.md:8:institucionalización
+content/09d3. Gobierno SOA.md:8:proceso
+content/09d3. Gobierno SOA.md:8:Promover
+content/09d3. Gobierno SOA.md:8:referencia
+content/09d3. Gobierno SOA.md:8:SOA
+content/09d3. Gobierno SOA.md:8:soluciones
+content/09d3. Gobierno SOA.md:10:Actores
+content/09d3. Gobierno SOA.md:11:Comité
+content/09d3. Gobierno SOA.md:11:FNA
+content/09d3. Gobierno SOA.md:11:gobierno
+content/09d3. Gobierno SOA.md:12:arquitectura
+content/09d3. Gobierno SOA.md:12:FNA
+content/09d3. Gobierno SOA.md:12:Oficina
+content/09d3. Gobierno SOA.md:13:asesor
+content/09d3. Gobierno SOA.md:13:Comité
+content/09d3. Gobierno SOA.md:15:Beneficio
+content/09d3. Gobierno SOA.md:15:Impacto
+content/09d3. Gobierno SOA.md:16:ambigüedad
+content/09d3. Gobierno SOA.md:16:arquitectura
+content/09d3. Gobierno SOA.md:16:claros
+content/09d3. Gobierno SOA.md:16:evolución
+content/09d3. Gobierno SOA.md:16:guiar
+content/09d3. Gobierno SOA.md:16:libres
+content/09d3. Gobierno SOA.md:16:Lineamientos
+content/09d3. Gobierno SOA.md:16:organización
+content/09d3. Gobierno SOA.md:16:permitan
+content/09d3. Gobierno SOA.md:16:SOA
+content/09d3. Gobierno SOA.md:17:estratégica
+content/09d3. Gobierno SOA.md:17:Fuente
+content/09d3. Gobierno SOA.md:17:operación
+content/09d3. Gobierno SOA.md:17:planeación
+content/09d3. Gobierno SOA.md:17:SOA
+content/09d3. Gobierno SOA.md:17:única
+content/09d3. Gobierno SOA.md:18:cumplimiento
+content/09d3. Gobierno SOA.md:18:niveles
+content/09d3. Gobierno SOA.md:18:servicio
+content/09d3. Gobierno SOA.md:18:SOA
+content/09d3. Gobierno SOA.md:18:soluciones
+content/09d3. Gobierno SOA.md:18:Vigilancia
+content/09d3. Gobierno SOA.md:20:Alcance
+content/09d3. Gobierno SOA.md:21:comité
+content/09d3. Gobierno SOA.md:21:Diseño
+content/09d3. Gobierno SOA.md:21:gobierno
+content/09d3. Gobierno SOA.md:21:procesos
+content/09d3. Gobierno SOA.md:21:responsabilidades
+content/09d3. Gobierno SOA.md:22:comité
+content/09d3. Gobierno SOA.md:22:dentro
+content/09d3. Gobierno SOA.md:22:FNA
+content/09d3. Gobierno SOA.md:22:Institucionalización
+content/09d3. Gobierno SOA.md:23:comité
+content/09d3. Gobierno SOA.md:23:Definición
+content/09d3. Gobierno SOA.md:23:instalación
+content/09d3. Gobierno SOA.md:23:responsabilidades
+content/09d3. Gobierno SOA.md:23:selección
+content/09d3. Gobierno SOA.md:25:Tecnología
+content/09d3. Gobierno SOA.md:26:centralizado
+content/09d3. Gobierno SOA.md:26:Depósito
+content/09d3. Gobierno SOA.md:26:SOA
+content/09d3. Gobierno SOA.md:27:Depósito
+content/09d3. Gobierno SOA.md:27:documental
+content/09d4. Oficina de arquitectura.md:1:arquitectura
+content/09d4. Oficina de arquitectura.md:1:Oficina
+content/09d4. Oficina de arquitectura.md:2:Objetivo
+content/09d4. Oficina de arquitectura.md:3:ámbitos
+content/09d4. Oficina de arquitectura.md:3:aplicaciones
+content/09d4. Oficina de arquitectura.md:3:arquitectura
+content/09d4. Oficina de arquitectura.md:3:arquitectura
+content/09d4. Oficina de arquitectura.md:3:componentes
+content/09d4. Oficina de arquitectura.md:3:conforme
+content/09d4. Oficina de arquitectura.md:3:conocimiento
+content/09d4. Oficina de arquitectura.md:3:datos
+content/09d4. Oficina de arquitectura.md:3:diseño
+content/09d4. Oficina de arquitectura.md:3:Equipo
+content/09d4. Oficina de arquitectura.md:3:especialista
+content/09d4. Oficina de arquitectura.md:3:específicos
+content/09d4. Oficina de arquitectura.md:3:estructuras
+content/09d4. Oficina de arquitectura.md:3:gestión
+content/09d4. Oficina de arquitectura.md:3:gestión
+content/09d4. Oficina de arquitectura.md:3:gobierno
+content/09d4. Oficina de arquitectura.md:3:herramientas
+content/09d4. Oficina de arquitectura.md:3:información
+content/09d4. Oficina de arquitectura.md:3:infraestructura
+content/09d4. Oficina de arquitectura.md:3:negocio
+content/09d4. Oficina de arquitectura.md:3:redes
+content/09d4. Oficina de arquitectura.md:3:referencia
+content/09d4. Oficina de arquitectura.md:3:Rol
+content/09d4. Oficina de arquitectura.md:3:servicios
+content/09d4. Oficina de arquitectura.md:3:SOA
+content/09d4. Oficina de arquitectura.md:3:SOA
+content/09d4. Oficina de arquitectura.md:3:tecnología
+content/09d4. Oficina de arquitectura.md:3:tecnológica
+content/09d4. Oficina de arquitectura.md:3:trabajo
+content/09d4. Oficina de arquitectura.md:5:Oportunidades
+content/09d4. Oficina de arquitectura.md:5:Retos
+content/09d4. Oficina de arquitectura.md:6:arquitectura
+content/09d4. Oficina de arquitectura.md:6:deberes
+content/09d4. Oficina de arquitectura.md:6:el
+content/09d4. Oficina de arquitectura.md:6:grupo
+content/09d4. Oficina de arquitectura.md:6:Institucionalizar
+content/09d4. Oficina de arquitectura.md:6:responsabilidad
+content/09d4. Oficina de arquitectura.md:6:rol
+content/09d4. Oficina de arquitectura.md:7:arquitectura
+content/09d4. Oficina de arquitectura.md:7:cada
+content/09d4. Oficina de arquitectura.md:7:conocimiento
+content/09d4. Oficina de arquitectura.md:7:efectiva
+content/09d4. Oficina de arquitectura.md:7:FNA
+content/09d4. Oficina de arquitectura.md:7:gestión
+content/09d4. Oficina de arquitectura.md:7:Hacer
+content/09d4. Oficina de arquitectura.md:7:más
+content/09d4. Oficina de arquitectura.md:7:una
+content/09d4. Oficina de arquitectura.md:7:vez
+content/09d4. Oficina de arquitectura.md:9:Actores
+content/09d4. Oficina de arquitectura.md:10:Dirección
+content/09d4. Oficina de arquitectura.md:11:negocio
+content/09d4. Oficina de arquitectura.md:11:Unidades
+content/09d4. Oficina de arquitectura.md:12:Consultores
+content/09d4. Oficina de arquitectura.md:12:soporte
+content/09d4. Oficina de arquitectura.md:14:Beneficio
+content/09d4. Oficina de arquitectura.md:14:Impacto
+content/09d4. Oficina de arquitectura.md:15:arquitectura
+content/09d4. Oficina de arquitectura.md:15:conocimiento
+content/09d4. Oficina de arquitectura.md:15:el
+content/09d4. Oficina de arquitectura.md:15:FNA
+content/09d4. Oficina de arquitectura.md:15:Gestionar
+content/09d4. Oficina de arquitectura.md:16:arquitectura
+content/09d4. Oficina de arquitectura.md:16:arquitectura
+content/09d4. Oficina de arquitectura.md:16:consultores
+content/09d4. Oficina de arquitectura.md:16:desde
+content/09d4. Oficina de arquitectura.md:16:directo
+content/09d4. Oficina de arquitectura.md:16:enlace
+content/09d4. Oficina de arquitectura.md:16:oficina
+content/09d4. Oficina de arquitectura.md:16:Proveer
+content/09d4. Oficina de arquitectura.md:17:arquitectura
+content/09d4. Oficina de arquitectura.md:17:Gobernar
+content/09d4. Oficina de arquitectura.md:17:organización
+content/09d4. Oficina de arquitectura.md:17:referencia
+content/09d4. Oficina de arquitectura.md:19:Alcance
+content/09d4. Oficina de arquitectura.md:20:Definición
+content/09d4. Oficina de arquitectura.md:20:funciones
+content/09d4. Oficina de arquitectura.md:20:miembros
+content/09d4. Oficina de arquitectura.md:20:oficina
+content/09d4. Oficina de arquitectura.md:21:Definir
+content/09d4. Oficina de arquitectura.md:21:niveles
+content/09d4. Oficina de arquitectura.md:21:oficina
+content/09d4. Oficina de arquitectura.md:21:procesos
+content/09d4. Oficina de arquitectura.md:21:servicio
+content/09d4. Oficina de arquitectura.md:22:lanzamiento
+content/09d4. Oficina de arquitectura.md:22:oficina
+content/09d4. Oficina de arquitectura.md:24:Tecnología
+content/09d4. Oficina de arquitectura.md:25:Arquitectura
+content/09d4. Oficina de arquitectura.md:25:referencia
+content/09d4. Oficina de arquitectura.md:26:Arquitectura
+content/09d4. Oficina de arquitectura.md:26:Depósito
+content/09d5. Arquitectura de referencia.md:1:Arquitectura
+content/09d5. Arquitectura de referencia.md:1:referencia
+content/09d5. Arquitectura de referencia.md:1:SOA
+content/09d5. Arquitectura de referencia.md:2:Objetivo
+content/09d5. Arquitectura de referencia.md:3:adopción
+content/09d5. Arquitectura de referencia.md:3:arquitectura
+content/09d5. Arquitectura de referencia.md:3:desarrollo
+content/09d5. Arquitectura de referencia.md:3:el
+content/09d5. Arquitectura de referencia.md:3:estilo
+content/09d5. Arquitectura de referencia.md:3:eventos
+content/09d5. Arquitectura de referencia.md:3:Evolucionar
+content/09d5. Arquitectura de referencia.md:3:hacia
+content/09d5. Arquitectura de referencia.md:3:microservicios
+content/09d5. Arquitectura de referencia.md:3:orientado
+content/09d5. Arquitectura de referencia.md:3:Servicios
+content/09d5. Arquitectura de referencia.md:5:Oportunidades
+content/09d5. Arquitectura de referencia.md:5:Retos
+content/09d5. Arquitectura de referencia.md:6:Acelerar
+content/09d5. Arquitectura de referencia.md:6:arquitecturas
+content/09d5. Arquitectura de referencia.md:6:desarrollo
+content/09d5. Arquitectura de referencia.md:6:el
+content/09d5. Arquitectura de referencia.md:6:solución
+content/09d5. Arquitectura de referencia.md:7:áreas
+content/09d5. Arquitectura de referencia.md:7:áreas
+content/09d5. Arquitectura de referencia.md:7:el
+content/09d5. Arquitectura de referencia.md:7:negocio
+content/09d5. Arquitectura de referencia.md:7:Unificar
+content/09d5. Arquitectura de referencia.md:7:vocabulario
+content/09d5. Arquitectura de referencia.md:8:gobierno
+content/09d5. Arquitectura de referencia.md:8:lineamientos
+content/09d5. Arquitectura de referencia.md:8:políticas
+content/09d5. Arquitectura de referencia.md:8:Proveer
+content/09d5. Arquitectura de referencia.md:8:soporte
+content/09d5. Arquitectura de referencia.md:10:Actores
+content/09d5. Arquitectura de referencia.md:11:Áreas
+content/09d5. Arquitectura de referencia.md:11:Áreas
+content/09d5. Arquitectura de referencia.md:11:críticas
+content/09d5. Arquitectura de referencia.md:11:negocio
+content/09d5. Arquitectura de referencia.md:12:arquitectura
+content/09d5. Arquitectura de referencia.md:12:FNA
+content/09d5. Arquitectura de referencia.md:12:Oficina
+content/09d5. Arquitectura de referencia.md:13:apoyo
+content/09d5. Arquitectura de referencia.md:13:Consultores
+content/09d5. Arquitectura de referencia.md:13:equipo
+content/09d5. Arquitectura de referencia.md:15:Beneficio
+content/09d5. Arquitectura de referencia.md:15:Impacto
+content/09d5. Arquitectura de referencia.md:16:asociados
+content/09d5. Arquitectura de referencia.md:16:costos
+content/09d5. Arquitectura de referencia.md:16:Reducción
+content/09d5. Arquitectura de referencia.md:16:SOA
+content/09d5. Arquitectura de referencia.md:16:soluciones
+content/09d5. Arquitectura de referencia.md:16:tiempos
+content/09d5. Arquitectura de referencia.md:17:alineación
+content/09d5. Arquitectura de referencia.md:17:entre
+content/09d5. Arquitectura de referencia.md:17:Mejora
+content/09d5. Arquitectura de referencia.md:17:negocio
+content/09d5. Arquitectura de referencia.md:18:arquitectura
+content/09d5. Arquitectura de referencia.md:18:equipo
+content/09d5. Arquitectura de referencia.md:18:Mitigación
+content/09d5. Arquitectura de referencia.md:18:rotación
+content/09d5. Arquitectura de referencia.md:19:negocio
+content/09d5. Arquitectura de referencia.md:19:Requisitos
+content/09d5. Arquitectura de referencia.md:19:soluciones
+content/09d5. Arquitectura de referencia.md:19:Visión
+content/09d5. Arquitectura de referencia.md:21:Alcance
+content/09d5. Arquitectura de referencia.md:22:despliegue
+content/09d5. Arquitectura de referencia.md:22:Diseño
+content/09d5. Arquitectura de referencia.md:22:funciona
+content/09d5. Arquitectura de referencia.md:22:información
+content/09d5. Arquitectura de referencia.md:22:integración
+content/09d5. Arquitectura de referencia.md:22:profundidad
+content/09d5. Arquitectura de referencia.md:22:tecnología
+content/09d5. Arquitectura de referencia.md:23:diseño
+content/09d5. Arquitectura de referencia.md:23:FNA
+content/09d5. Arquitectura de referencia.md:23:herramienta
+content/09d5. Arquitectura de referencia.md:23:Modelado
+content/09d5. Arquitectura de referencia.md:24:arquitectura
+content/09d5. Arquitectura de referencia.md:24:depósito
+content/09d5. Arquitectura de referencia.md:24:institucional
+content/09d5. Arquitectura de referencia.md:24:Utilización
+content/09d5. Arquitectura de referencia.md:26:Tecnología
+content/09d5. Arquitectura de referencia.md:27:Arquitectura
+content/09d5. Arquitectura de referencia.md:27:Depósito
+content/09d5. Arquitectura de referencia.md:28:Herramientas
+content/09d5. Arquitectura de referencia.md:28:modelado
+content/09d6. Microservicios.md:1:Microservicios
+content/09d6. Microservicios.md:2:Objetivo
+content/09d6. Microservicios.md:3:arquitectura
+content/09d6. Microservicios.md:3:el
+content/09d6. Microservicios.md:3:el
+content/09d6. Microservicios.md:3:estilo
+content/09d6. Microservicios.md:3:estrategia
+content/09d6. Microservicios.md:3:existente
+content/09d6. Microservicios.md:3:FNA
+content/09d6. Microservicios.md:3:integrado
+content/09d6. Microservicios.md:3:microservicios
+content/09d6. Microservicios.md:3:Promover
+content/09d6. Microservicios.md:3:ser
+content/09d6. Microservicios.md:3:SOA
+content/09d6. Microservicios.md:5:Oportunidades
+content/09d6. Microservicios.md:5:Retos
+content/09d6. Microservicios.md:6:arquitectura
+content/09d6. Microservicios.md:6:desacopladas
+content/09d6. Microservicios.md:6:esquemas
+content/09d6. Microservicios.md:6:Proponer
+content/09d6. Microservicios.md:7:actuales
+content/09d6. Microservicios.md:7:Actualizar
+content/09d6. Microservicios.md:7:arquitectura
+content/09d6. Microservicios.md:7:el
+content/09d6. Microservicios.md:7:estilo
+content/09d6. Microservicios.md:7:mediante
+content/09d6. Microservicios.md:7:microservicios
+content/09d6. Microservicios.md:7:orientada
+content/09d6. Microservicios.md:7:portafolio
+content/09d6. Microservicios.md:7:servicios
+content/09d6. Microservicios.md:7:tecnologías
+content/09d6. Microservicios.md:8:Agilidad
+content/09d6. Microservicios.md:8:desarrollo
+content/09d6. Microservicios.md:8:el
+content/09d6. Microservicios.md:8:soluciones
+content/09d6. Microservicios.md:10:Actores
+content/09d6. Microservicios.md:11:arquitectura
+content/09d6. Microservicios.md:11:Oficina
+content/09d6. Microservicios.md:12:Desarrollo
+content/09d6. Microservicios.md:12:operaciones
+content/09d6. Microservicios.md:13:Consultores
+content/09d6. Microservicios.md:13:SOA
+content/09d6. Microservicios.md:15:Beneficio
+content/09d6. Microservicios.md:15:Impacto
+content/09d6. Microservicios.md:16:Actualización
+content/09d6. Microservicios.md:16:tecnológica
+content/09d6. Microservicios.md:17:asociados
+content/09d6. Microservicios.md:17:costos
+content/09d6. Microservicios.md:17:desarrollo
+content/09d6. Microservicios.md:17:Disminución
+content/09d6. Microservicios.md:17:SOA
+content/09d6. Microservicios.md:17:soluciones
+content/09d6. Microservicios.md:17:tiempos
+content/09d6. Microservicios.md:18:integración
+content/09d6. Microservicios.md:18:mecanismos
+content/09d6. Microservicios.md:18:Modernización
+content/09d6. Microservicios.md:18:servicios
+content/09d6. Microservicios.md:18:utilización
+content/09d6. Microservicios.md:20:Alcance
+content/09d6. Microservicios.md:21:desarrollo
+content/09d6. Microservicios.md:21:FNA
+content/09d6. Microservicios.md:21:proceso
+content/09d6. Microservicios.md:21:Revisión
+content/09d6. Microservicios.md:22:ágil
+content/09d6. Microservicios.md:22:Apropiación
+content/09d6. Microservicios.md:22:desarrollo
+content/09d6. Microservicios.md:22:DevOps
+content/09d6. Microservicios.md:22:técnicas
+content/09d6. Microservicios.md:23:análisis
+content/09d6. Microservicios.md:23:diseño
+content/09d6. Microservicios.md:23:implementación
+content/09d6. Microservicios.md:23:Metodologías
+content/09d6. Microservicios.md:23:microservicios
+content/09d6. Microservicios.md:23:orientadas
+content/09d6. Microservicios.md:24:Adecuación
+content/09d6. Microservicios.md:24:continuo
+content/09d6. Microservicios.md:24:desarrollo
+content/09d6. Microservicios.md:24:despliegue
+content/09d6. Microservicios.md:24:flujos
+content/09d6. Microservicios.md:24:infraestructura
+content/09d6. Microservicios.md:24:integración
+content/09d6. Microservicios.md:24:Microservicios
+content/09d6. Microservicios.md:24:soportar
+content/09d6. Microservicios.md:26:Tecnología
+content/09d6. Microservicios.md:27:desarrollo
+content/09d6. Microservicios.md:27:Herramientas
+content/09d6. Microservicios.md:28:continuo
+content/09d6. Microservicios.md:28:despliegue
+content/09d6. Microservicios.md:28:Herramientas
+content/09d6. Microservicios.md:28:IC
+content/09d6. Microservicios.md:29:Tecnologías
 content/09d. Ficha de proyectos.md:1:brechas
 content/09d. Ficha de proyectos.md:1:descriptiva
 content/09d. Ficha de proyectos.md:1:el
@@ -1958,6 +2228,7 @@ content/11a. Problematicas diagnostico madurez.md:1:Problemáticas
 content/11a. Problematicas diagnostico madurez.md:1:Resumen
 content/11a. Problematicas diagnostico madurez.md:1:SOA
 content/11a. Problematicas diagnostico madurez.md:3:áreas
+content/11a. Problematicas diagnostico madurez.md:3:áreas
 content/11a. Problematicas diagnostico madurez.md:3:creación
 content/11a. Problematicas diagnostico madurez.md:3:Crédito
 content/11a. Problematicas diagnostico madurez.md:3:datos
@@ -2381,6 +2652,8 @@ content/11b. Problemáticas SOA del FNA.md:7:Ver
 content/11b. Problemáticas SOA del FNA.md:9:administrar
 content/11b. Problemáticas SOA del FNA.md:9:afecta
 content/11b. Problemáticas SOA del FNA.md:9:aplicaciones
+content/11b. Problemáticas SOA del FNA.md:9:áreas
+content/11b. Problemáticas SOA del FNA.md:9:áreas
 content/11b. Problemáticas SOA del FNA.md:9:áreas
 content/11b. Problemáticas SOA del FNA.md:9:áreas
 content/11b. Problemáticas SOA del FNA.md:9:baja

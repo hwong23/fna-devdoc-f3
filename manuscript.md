@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-27" />
   <meta name="citation_publication_date" content="2023-02-27" />
   <meta property="article:published_time" content="2023-02-27" />
-  <meta name="dc.modified" content="2023-02-27T22:54:08+00:00" />
-  <meta property="article:modified_time" content="2023-02-27T22:54:08+00:00" />
+  <meta name="dc.modified" content="2023-02-27T23:41:06+00:00" />
+  <meta property="article:modified_time" content="2023-02-27T23:41:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/))
 versión indicada a continuación, se encuentra en 
 ****
-[48ebe6e](https://github.com/hwong23/fna-devdoc-f3/tree/48ebe6e6cc3e8be12048198e44645a4601523075)
+[857245e](https://github.com/hwong23/fna-devdoc-f3/tree/857245e1892a2a2ffac86b445059b27ddebc7755)
 de February 27, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|48ebe6e del 27 Feb 2023                              |
+|Version|857245e del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|48ebe6e del 27 Feb 2023                              |
+|Version|857245e del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -325,7 +325,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 48ebe6e del 27 Feb 2023                                                |
+| Version        | 857245e del 27 Feb 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -418,7 +418,7 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|48ebe6e del 27 Feb 2023                              |
+|Version|857245e del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -515,6 +515,103 @@ Vigilar las relaciones entre las áreas de negocio (la vicepresidencia de operac
 - Depósito centralizado SOA
 - Depósito documental
 
+<br>
+
+
+### Oficina de arquitectura
+#### Objetivo
+Equipo de trabajo, conforme al gobierno SOA, a cargo de los roles de gestión de la tecnología y arquitectura en los ámbitos específicos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones y herramientas de software, y especialista estructuras de datos e información negocio. Rol general: gestión de conocimiento de la arquitectura de referencia.​
+
+#### Oportunidades / Retos
+- Institucionalizar el rol y los deberes y responsabilidad del grupo de arquitectura
+- Hacer una gestión cada vez más efectiva del conocimiento en arquitectura del FNA​
+	
+#### Actores
+- Dirección TI
+- Unidades de negocio​
+- Consultores de soporte​
+	
+Impacto / Beneficio
+	A.  Gestionar el conocimiento en arquitectura del FNA​
+	B.  Proveer un enlace directo desde la oficina de arquitectura con los consultores en arquitectura​
+	C.  Gobernar la arquitectura de referencia de la organización​
+
+#### Alcance
+- Definición de funciones y roles de los miembros de la oficina​
+- Definir procesos y niveles de servicio de la oficina​
+- Dar lanzamiento a la oficina​
+	
+#### Tecnología
+- Arquitectura de referencia
+- Depósito de Arquitectura
+
+<br>
+
+
+### Arquitectura de referencia SOA 2.0
+#### Objetivo
+Evolucionar el desarrollo de los Servicios hacia microservicios y a la adopción de un estilo de arquitectura orientado a eventos. ​
+
+#### Oportunidades / Retos
+- Acelerar el desarrollo de las arquitecturas de solución​
+- Unificar el vocabulario con las áreas de negocio y TI​
+- Proveer soporte a los lineamientos y políticas de gobierno​
+
+#### Actores
+- Áreas de negocio críticas​
+- Oficina de arquitectura FNA​
+- Consultores y equipo de apoyo​
+	
+#### Impacto / Beneficio
+- Reducción en tiempos y costos asociados a las soluciones SOA​
+- Mejora en la alineación entre negocio y TI​
+- Mitigación de rotación del equipo de arquitectura​
+- Visión global de soluciones de TI vs Requisitos del negocio​
+	
+#### Alcance
+- Diseño a profundidad de vistas funciona, despliegue, información, integración y tecnología​
+- Modelado en la herramienta de diseño del FNA​
+- Utilización del depósito de arquitectura institucional​
+	
+#### Tecnología
+- Depósito´de Arquitectura
+- Herramientas de modelado
+
+<br>
+
+
+### Microservicios
+#### Objetivo
+Promover el uso de microservicios como estilo de arquitectura para ser integrado con la estrategia SOA existente en el FNA​
+
+#### Oportunidades / Retos
+- Proponer esquemas de arquitectura desacopladas​
+- Actualizar el portafolio de servicios con tecnologías actuales mediante un estilo de arquitectura orientada a microservicios​
+- Agilidad en el desarrollo de soluciones ​
+	
+#### Actores
+- Oficina de arquitectura​
+- Desarrollo / operaciones​
+- Consultores SOA​
+	
+#### Impacto / Beneficio
+- Actualización tecnológica​
+- Disminución en los costos y tiempos asociados al desarrollo de soluciones SOA​
+- Modernización y utilización de los mecanismos de integración de servicios​
+	
+#### Alcance
+- Revisión del proceso de desarrollo de software del FNA​
+- Apropiación de técnicas de desarrollo ágil - DevOps​
+- Metodologías de análisis, diseño e implementación orientadas a microservicios​
+- Adecuación de la infraestructura para soportar los flujos de despliegue continuo / integración continua y desarrollo de Microservicios​
+	
+#### Tecnología
+- Herramientas de desarrollo
+- Herramientas de despliegue continuo / IC
+- Tecnologías cloud
+
+
+
 # Fase 3: SOA Objetivo
 # Contenido de los Productos Contractuales, 181-2020
 
@@ -549,7 +646,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|48ebe6e del 27 Feb 2023                              |
+|Version|857245e del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
