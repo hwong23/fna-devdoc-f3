@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-24'
+date-meta: '2023-02-27'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-24" />
-  <meta name="citation_publication_date" content="2023-02-24" />
-  <meta property="article:published_time" content="2023-02-24" />
-  <meta name="dc.modified" content="2023-02-24T21:01:16+00:00" />
-  <meta property="article:modified_time" content="2023-02-24T21:01:16+00:00" />
+  <meta name="dc.date" content="2023-02-27" />
+  <meta name="citation_publication_date" content="2023-02-27" />
+  <meta property="article:published_time" content="2023-02-27" />
+  <meta name="dc.modified" content="2023-02-27T22:54:08+00:00" />
+  <meta property="article:modified_time" content="2023-02-27T22:54:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/087399875a0f75024ac2c01dc96af5301ae02d28/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/087399875a0f75024ac2c01dc96af5301ae02d28/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/087399875a0f75024ac2c01dc96af5301ae02d28/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/087399875a0f75024ac2c01dc96af5301ae02d28/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/48ebe6e6cc3e8be12048198e44645a4601523075/))
 versión indicada a continuación, se encuentra en 
 ****
-[0873998](https://github.com/hwong23/fna-devdoc-f3/tree/087399875a0f75024ac2c01dc96af5301ae02d28)
-de February 24, 2023.
+[48ebe6e](https://github.com/hwong23/fna-devdoc-f3/tree/48ebe6e6cc3e8be12048198e44645a4601523075)
+de February 27, 2023.
 
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|0873998 del 24 Feb 2023                              |
+|Version|48ebe6e del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,8 +216,29 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|0873998 del 24 Feb 2023                              |
+|Version|48ebe6e del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Análisis de Brechas del FNA. Iniciativas
+### Iniciativa A. Gobierno
+- A1 Gobierno SOA
+- A2 Oficina de arquitectura
+
+### B Iniciativa B. Servicios y Negocio
+- B1 Gestión arquitectura 2.0
+- B2 Microservicios
+- B3 Portafolio de API
+- B3.1 API Crédito constructor
+
+### Iniciativa C. Plataforma tecnológica
+- C1 Service Mesh
+- C2 Plataforma Híbrida de Integración
+- C3 Hub de Integración Digital
+
+### Iniciativa E. Infraestructura
+- E1 Infraestructura
 
 <br>
 
@@ -304,22 +325,59 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 0873998 del 24 Feb 2023                                                |
+| Version        | 48ebe6e del 27 Feb 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
 
-## Iniciativas y Proyectos de Cierre de Brecha
-Las iniciativas de transición, en este contexto, son grupos de paquetes de trabajo, que son a su vez proyectos ejecutables de cierre de brechas que realizan sustituciones, reajustes, o mejoras en un área de la arquitectura actual.
+## Oportunidades ky Proyectos de Cierre de Brecha
+Las iniciativas de transición, en este contexto, son paquetes de trabajo agrupados, que son a la vez proyectos ejecutables de cierre de brechas que realizan sustituciones, reajustes, o mejoras en un área de la arquitectura actual.
+
+Las oportunidades dirigen a las iniciativas, las cuales buscan alcanzar dichas oportunidades mediante los proyectos de transformación que describiremos más adelante.
+
+<br>
+
+### Oportunidades FNA. Puntos de mejora
+- OP1. Instaurar la figura de gobierno SOA, capacidad, proceso y recursos. El gobierno SOA para aumentar índices de independencia de proveedor del Fondo y relevancia de arquitectura. Utilizar herramientas, métodos y recursos (personas) para controlar lineamientos.
+- OP2. Mejorar proceso de diseño / construcción de soluciones SOA. Optimizar el proceso de construcción de soluciones SOA. Unificar el proceso de construcción y ofrecer un vocabulario común con el negocio.
+- OP3.​ Mejorar la oferta de servicios analíticos en segmento FNA. Habilitar la estrategia de inteligencia de negocios basado en la distribución de los datos. Soportar la estrategia de analítica del FNA (intel. artificial). Habilitar la generación de productos de datos analíticos como servicio.
+- OP4. Aumentar el nivel de utilización de la Tecnología SOA del FNA. Habilitar las facilidades de directorio y composición de servicios del ESB (IBM). Soportar la ejecución (rediseño) de los procesos de negocio FNA.
+- OP5. Servicios FNA guiados por arquitectura 2.0. Mejorar el tiempo de puesta en producción. Modernizar las soluciones SOA mediante gestión de tecnologías de arquitectura 2.0.
+- OP6​. Gestión de la Tecnología (gobierno) orientada por arquitectura 2.0​. Activar las herramientas de monitoreo de los servicios e índices de eficacia SOA.
+- OP7​. Articulación y fortalecimiento del equipo de arquitectura del FNA junto a proveedores Institucionalizar oficina de arquitectura. Estructurar equipo de arquitecto SOA, aplicaciones, TI y datos
+- OP8​. Monitoreo de los índices de eficacia de los servicios FNA​. Mejorar indicadores de eficacia y madurez SOA: índices de cobertura, alineación y flexibilidad de negocio.
+
+<br>
+
+### Prioridades de Aprovechamiento 
+#### Prioridad Alta
+- OP1. Gobierno SOA​
+- OP7. Articulación y fortalecimiento del equipo de arquitectura​
+
+#### Prioridad Media - Alta
+- OP2. Diseño / construcción de soluciones SOA​
+- OP5. Servicios FNA guiados por arquitectura versión 2.0​
+- OP3. Oferta de servicios analíticos a la organización 
+
+#### Prioridad Media - Media
+- OP4. Aumentar la utilización de la Tecnología SOA​
+- OP6. Gestión de tecnología (gobierno) orientada por arquitectura 2.0​
+- OP8. Monitoreo de los índices de eficacia gobierno y diseño SOA
+
+#### Prioridad Media - Baja
+- N/A
+
+#### Prioridad Baja
+- N/A 
 
 <br>
 
 ### Lista de Proyectos de Cierre de Brechas
-#### Crédito Constructor FNA
 Los siguientes proyectos, o paquetes de trabajo, son requeridos para cerrar las brechas de flexibilización de la arquitectura actual de Crédito Constructor del FNA. Estos  proyectos de cambios provienen del análisis del brecha descrito en [09b. Matriz de brechas](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
 
 <br>
 
+#### Crédito Constructor FNA
 Proyectos de cierre de brecha Crédito Constructor FNA.
 
 | **id** | **Proyecto**                   | **Objetivo**                                                             | **Tipo**    | **Impl.**     |
@@ -360,12 +418,12 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|0873998 del 24 Feb 2023                              |
+|Version|48ebe6e del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
-## Ficha Descriptiva de Proyectos para el Segmento FNA
+
 
 ### BR01. API Crédito Constructor
 #### Objetivo
@@ -398,6 +456,7 @@ Actualizar las interfaces de ejecución y exposición de funcionalidades (API) d
 
 <br>
 
+
 ### BR010. Estandarización de Integración ESB FNA
 #### Objetivo
 Actualizar las interfaces de integración y comunicación entre servicios gestionados por el bus de datos empresarial ESB IBM FNA.
@@ -428,6 +487,34 @@ Actualizar las interfaces de integración y comunicación entre servicios gestio
 - Herramientas de diseño de API
 
 
+### A1. Gobierno SOA
+#### Objetivo
+Vigilar las relaciones entre las áreas de negocio (la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA) y la implementación y diseño de soluciones SOA. El gobierno SOA del Fondo debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de soluciones SOA.
+
+#### Oportunidades / Retos
+- Fortalecer el comité de gobierno SOA del FNA
+- Generar lineamientos y políticas de gobierno SOA
+- Promover la institucionalización de la arquitectura de referencia y del proceso de desarrollo de las soluciones SOA
+
+#### Actores
+- Comité de gobierno del FNA
+- Oficina de arquitectura FNA
+- Comité asesor 
+
+#### Impacto / Beneficio
+- Lineamientos claros, libres de ambigüedad que permitan guiar la evolución de la arquitectura SOA 2.0 en la organización
+- Fuente única de planeación estratégica y control de la operación SOA
+- Vigilancia del cumplimiento de los niveles de servicio de las soluciones SOA​
+
+#### Alcance
+- Diseño de los procesos y responsabilidades del comité de gobierno
+- Institucionalización del comité dentro del FNA
+- Definición de roles y responsabilidades y selección e instalación del comité
+
+#### Tecnología
+- Depósito centralizado SOA
+- Depósito documental
+
 # Fase 3: SOA Objetivo
 # Contenido de los Productos Contractuales, 181-2020
 
@@ -455,6 +542,19 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 * Hoja de ruta preliminar hacia un objetivo de mejora
 
 *** 
+
+
+|Tema            |Portafolio de iniciativas y brechas: **Hoja de ruta de los proyectos de cambio**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|48ebe6e del 27 Feb 2023                              |
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Hoja de Ruta E-Service FNA de los Proyectos de Cambio
 
 
 ## Resumen de Problemáticas del Diagnóstivo de Madurez SOA del FNA
