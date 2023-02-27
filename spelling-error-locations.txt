@@ -1762,6 +1762,249 @@ content/09d6. Microservicios.md:28:despliegue
 content/09d6. Microservicios.md:28:Herramientas
 content/09d6. Microservicios.md:28:IC
 content/09d6. Microservicios.md:29:Tecnologías
+content/09d7. Portafolio de API.md:1:Portafolio
+content/09d7. Portafolio de API.md:2:Objetivo
+content/09d7. Portafolio de API.md:3:características
+content/09d7. Portafolio de API.md:3:datos
+content/09d7. Portafolio de API.md:3:Establecer
+content/09d7. Portafolio de API.md:3:expuestos
+content/09d7. Portafolio de API.md:3:fuente
+content/09d7. Portafolio de API.md:3:funcionalidades
+content/09d7. Portafolio de API.md:3:institucional
+content/09d7. Portafolio de API.md:3:organización
+content/09d7. Portafolio de API.md:3:portafolio
+content/09d7. Portafolio de API.md:3:recursos
+content/09d7. Portafolio de API.md:3:sirva
+content/09d7. Portafolio de API.md:3:sobre
+content/09d7. Portafolio de API.md:3:tecnologías
+content/09d7. Portafolio de API.md:3:todas
+content/09d7. Portafolio de API.md:3:única
+content/09d7. Portafolio de API.md:3:verdad
+content/09d7. Portafolio de API.md:3:versiones
+content/09d7. Portafolio de API.md:5:Oportunidades
+content/09d7. Portafolio de API.md:5:Retos
+content/09d7. Portafolio de API.md:6:estructuración
+content/09d7. Portafolio de API.md:6:FNA
+content/09d7. Portafolio de API.md:6:Gestión
+content/09d7. Portafolio de API.md:6:portafolio
+content/09d7. Portafolio de API.md:7:atributos
+content/09d7. Portafolio de API.md:7:calidad
+content/09d7. Portafolio de API.md:7:contratos
+content/09d7. Portafolio de API.md:7:Definición
+content/09d7. Portafolio de API.md:7:organización
+content/09d7. Portafolio de API.md:7:tecnologías
+content/09d7. Portafolio de API.md:9:Actores
+content/09d7. Portafolio de API.md:10:negocio
+content/09d7. Portafolio de API.md:10:Unidades
+content/09d7. Portafolio de API.md:11:Arquitectura
+content/09d7. Portafolio de API.md:11:Oficina
+content/09d7. Portafolio de API.md:12:Cobis
+content/09d7. Portafolio de API.md:12:FNA
+content/09d7. Portafolio de API.md:12:Proveedores
+content/09d7. Portafolio de API.md:13:apoyo
+content/09d7. Portafolio de API.md:13:Consultores
+content/09d7. Portafolio de API.md:13:fabricantes
+content/09d7. Portafolio de API.md:15:Beneficio
+content/09d7. Portafolio de API.md:15:Impacto
+content/09d7. Portafolio de API.md:16:el
+content/09d7. Portafolio de API.md:16:estrategias
+content/09d7. Portafolio de API.md:16:evolución
+content/09d7. Portafolio de API.md:16:FNA
+content/09d7. Portafolio de API.md:16:gobierno
+content/09d7. Portafolio de API.md:16:mantenimiento
+content/09d7. Portafolio de API.md:16:Mejorar
+content/09d7. Portafolio de API.md:17:desarrollo
+content/09d7. Portafolio de API.md:17:diseño
+content/09d7. Portafolio de API.md:17:el
+content/09d7. Portafolio de API.md:17:operación
+content/09d7. Portafolio de API.md:18:búsqueda
+content/09d7. Portafolio de API.md:18:localización
+content/09d7. Portafolio de API.md:18:organización
+content/09d7. Portafolio de API.md:18:Punto
+content/09d7. Portafolio de API.md:18:servicios
+content/09d7. Portafolio de API.md:18:único
+content/09d7. Portafolio de API.md:20:Alcance
+content/09d7. Portafolio de API.md:21:consorcio
+content/09d7. Portafolio de API.md:21:Estructuración
+content/09d7. Portafolio de API.md:21:portafolio
+content/09d7. Portafolio de API.md:21:privadas
+content/09d7. Portafolio de API.md:21:públicas
+content/09d7. Portafolio de API.md:22:Diseño
+content/09d7. Portafolio de API.md:22:estructura
+content/09d7. Portafolio de API.md:22:organización
+content/09d7. Portafolio de API.md:22:organización
+content/09d7. Portafolio de API.md:23:Definición
+content/09d7. Portafolio de API.md:23:lineamientos
+content/09d7. Portafolio de API.md:23:políticas
+content/09d7. Portafolio de API.md:24:desarrollo
+content/09d7. Portafolio de API.md:24:diferentes
+content/09d7. Portafolio de API.md:24:el
+content/09d7. Portafolio de API.md:24:infraestructura
+content/09d7. Portafolio de API.md:24:operación
+content/09d7. Portafolio de API.md:24:pruebas
+content/09d7. Portafolio de API.md:24:requeridas
+content/09d7. Portafolio de API.md:24:Tecnologías
+content/09d7. Portafolio de API.md:26:Tecnología
+content/09d7. Portafolio de API.md:27:Portafolio
+content/09d7. Portafolio de API.md:28:diseño
+content/09d7. Portafolio de API.md:28:Herramientas
+content/09d8. Service Mesh.md:2:Objetivo
+content/09d8. Service Mesh.md:3:comunicación
+content/09d8. Service Mesh.md:3:disponibilidad
+content/09d8. Service Mesh.md:3:el
+content/09d8. Service Mesh.md:3:estabilidad
+content/09d8. Service Mesh.md:3:fallos
+content/09d8. Service Mesh.md:3:Fondo
+content/09d8. Service Mesh.md:3:mediante
+content/09d8. Service Mesh.md:3:Mejorar
+content/09d8. Service Mesh.md:3:microservicios
+content/09d8. Service Mesh.md:3:proxys
+content/09d8. Service Mesh.md:3:reintento
+content/09d8. Service Mesh.md:3:servicios
+content/09d8. Service Mesh.md:3:SOA
+content/09d8. Service Mesh.md:3:tolerancia
+content/09d8. Service Mesh.md:5:Oportunidades
+content/09d8. Service Mesh.md:5:Retos
+content/09d8. Service Mesh.md:6:mecanismos
+content/09d8. Service Mesh.md:6:Modernizar
+content/09d8. Service Mesh.md:6:orquestación
+content/09d8. Service Mesh.md:6:servicios
+content/09d8. Service Mesh.md:7:alternativas
+content/09d8. Service Mesh.md:7:el
+content/09d8. Service Mesh.md:7:escalabilidad
+content/09d8. Service Mesh.md:7:manejo
+content/09d8. Service Mesh.md:7:monitoreo
+content/09d8. Service Mesh.md:7:Proponer
+content/09d8. Service Mesh.md:7:seguridad
+content/09d8. Service Mesh.md:7:servicios
+content/09d8. Service Mesh.md:8:esquemas
+content/09d8. Service Mesh.md:8:nube
+content/09d8. Service Mesh.md:8:operación
+content/09d8. Service Mesh.md:8:orientados
+content/09d8. Service Mesh.md:8:Proponer
+content/09d8. Service Mesh.md:8:servicios
+content/09d8. Service Mesh.md:10:Actores
+content/09d8. Service Mesh.md:11:Arquitectura
+content/09d8. Service Mesh.md:11:FNA
+content/09d8. Service Mesh.md:11:Oficina
+content/09d8. Service Mesh.md:12:Apoyo
+content/09d8. Service Mesh.md:12:Consultores
+content/09d8. Service Mesh.md:14:Beneficio
+content/09d8. Service Mesh.md:14:Impacto
+content/09d8. Service Mesh.md:15:Apoyo
+content/09d8. Service Mesh.md:15:estrategia
+content/09d8. Service Mesh.md:15:hacia
+content/09d8. Service Mesh.md:15:microservicios
+content/09d8. Service Mesh.md:15:transición
+content/09d8. Service Mesh.md:16:microservicios
+content/09d8. Service Mesh.md:16:monitoreo
+content/09d8. Service Mesh.md:17:despliegue
+content/09d8. Service Mesh.md:17:microservicios
+content/09d8. Service Mesh.md:17:Posibilidad
+content/09d8. Service Mesh.md:18:comunicación
+content/09d8. Service Mesh.md:18:mecanismos
+content/09d8. Service Mesh.md:18:Mejorar
+content/09d8. Service Mesh.md:18:servicios
+content/09d8. Service Mesh.md:20:Alcance
+content/09d8. Service Mesh.md:21:arquitectura
+content/09d8. Service Mesh.md:21:Diseño
+content/09d8. Service Mesh.md:22:el
+content/09d8. Service Mesh.md:22:herramienta
+content/09d8. Service Mesh.md:22:implemente
+content/09d8. Service Mesh.md:22:Instalación
+content/09d8. Service Mesh.md:22:patrón
+content/09d8. Service Mesh.md:22:una
+content/09d8. Service Mesh.md:23:inicial
+content/09d8. Service Mesh.md:23:piloto
+content/09d8. Service Mesh.md:23:Prueba
+content/09d8. Service Mesh.md:23:servicios
+content/09d8. Service Mesh.md:23:subconjunto
+content/09d8. Service Mesh.md:24:crítica
+content/09d8. Service Mesh.md:24:Extensión
+content/09d8. Service Mesh.md:24:misión
+content/09d8. Service Mesh.md:24:piloto
+content/09d8. Service Mesh.md:24:proceso
+content/09d8. Service Mesh.md:24:prueba
+content/09d8. Service Mesh.md:26:Tecnología
+content/09d8. Service Mesh.md:27:Implementación
+content/09d8. Service Mesh.md:27:Istio
+content/09d8. Service Mesh.md:27:Meshery
+content/09d8. Service Mesh.md:28:Kubernetes
+content/09d9. Plataforma Híbrida de Integración.md:1:Híbrida
+content/09d9. Plataforma Híbrida de Integración.md:1:Integración
+content/09d9. Plataforma Híbrida de Integración.md:1:Plataforma
+content/09d9. Plataforma Híbrida de Integración.md:2:Objetivo
+content/09d9. Plataforma Híbrida de Integración.md:3:esquema
+content/09d9. Plataforma Híbrida de Integración.md:3:Establecer
+content/09d9. Plataforma Híbrida de Integración.md:3:integración
+content/09d9. Plataforma Híbrida de Integración.md:3:integración
+content/09d9. Plataforma Híbrida de Integración.md:3:integrado
+content/09d9. Plataforma Híbrida de Integración.md:3:mecanismos
+content/09d9. Plataforma Híbrida de Integración.md:3:mensajes
+content/09d9. Plataforma Híbrida de Integración.md:3:orientado
+content/09d9. Plataforma Híbrida de Integración.md:3:síncronos
+content/09d9. Plataforma Híbrida de Integración.md:5:Oportunidades
+content/09d9. Plataforma Híbrida de Integración.md:5:Retos
+content/09d9. Plataforma Híbrida de Integración.md:6:el
+content/09d9. Plataforma Híbrida de Integración.md:6:ESB
+content/09d9. Plataforma Híbrida de Integración.md:6:instalada
+content/09d9. Plataforma Híbrida de Integración.md:6:integración
+content/09d9. Plataforma Híbrida de Integración.md:6:Mensajería
+content/09d9. Plataforma Híbrida de Integración.md:6:Potencializar
+content/09d9. Plataforma Híbrida de Integración.md:6:tecnología
+content/09d9. Plataforma Híbrida de Integración.md:7:asíncronos
+content/09d9. Plataforma Híbrida de Integración.md:7:esquemas
+content/09d9. Plataforma Híbrida de Integración.md:7:esquemas
+content/09d9. Plataforma Híbrida de Integración.md:7:híbridos
+content/09d9. Plataforma Híbrida de Integración.md:7:integración
+content/09d9. Plataforma Híbrida de Integración.md:7:Modernizar
+content/09d9. Plataforma Híbrida de Integración.md:7:organización
+content/09d9. Plataforma Híbrida de Integración.md:7:síncronos
+content/09d9. Plataforma Híbrida de Integración.md:8:arquitecturas
+content/09d9. Plataforma Híbrida de Integración.md:8:eventos
+content/09d9. Plataforma Híbrida de Integración.md:8:orientadas
+content/09d9. Plataforma Híbrida de Integración.md:8:por
+content/09d9. Plataforma Híbrida de Integración.md:8:Propender
+content/09d9. Plataforma Híbrida de Integración.md:10:Actores
+content/09d9. Plataforma Híbrida de Integración.md:11:Encargados
+content/09d9. Plataforma Híbrida de Integración.md:11:infraestructura
+content/09d9. Plataforma Híbrida de Integración.md:11:operaciones
+content/09d9. Plataforma Híbrida de Integración.md:12:Arquitectura
+content/09d9. Plataforma Híbrida de Integración.md:12:FNA
+content/09d9. Plataforma Híbrida de Integración.md:12:Oficina
+content/09d9. Plataforma Híbrida de Integración.md:13:apoyo
+content/09d9. Plataforma Híbrida de Integración.md:13:Consultores
+content/09d9. Plataforma Híbrida de Integración.md:15:Beneficio
+content/09d9. Plataforma Híbrida de Integración.md:15:Impacto
+content/09d9. Plataforma Híbrida de Integración.md:16:asociada
+content/09d9. Plataforma Híbrida de Integración.md:16:complejidad
+content/09d9. Plataforma Híbrida de Integración.md:16:Disminución
+content/09d9. Plataforma Híbrida de Integración.md:16:orquestación
+content/09d9. Plataforma Híbrida de Integración.md:16:servicios
+content/09d9. Plataforma Híbrida de Integración.md:17:Desacoplamiento
+content/09d9. Plataforma Híbrida de Integración.md:17:ecosistema
+content/09d9. Plataforma Híbrida de Integración.md:17:organización
+content/09d9. Plataforma Híbrida de Integración.md:17:servicios
+content/09d9. Plataforma Híbrida de Integración.md:17:servicios
+content/09d9. Plataforma Híbrida de Integración.md:17:soluciones
+content/09d9. Plataforma Híbrida de Integración.md:18:dependencia
+content/09d9. Plataforma Híbrida de Integración.md:18:Menor
+content/09d9. Plataforma Híbrida de Integración.md:18:servicios
+content/09d9. Plataforma Híbrida de Integración.md:20:Alcance
+content/09d9. Plataforma Híbrida de Integración.md:21:arquitectura
+content/09d9. Plataforma Híbrida de Integración.md:21:Diseño
+content/09d9. Plataforma Híbrida de Integración.md:22:coreografía
+content/09d9. Plataforma Híbrida de Integración.md:22:orquestación
+content/09d9. Plataforma Híbrida de Integración.md:22:piloto
+content/09d9. Plataforma Híbrida de Integración.md:22:Prueba
+content/09d9. Plataforma Híbrida de Integración.md:23:Extensión
+content/09d9. Plataforma Híbrida de Integración.md:23:misional
+content/09d9. Plataforma Híbrida de Integración.md:23:proceso
+content/09d9. Plataforma Híbrida de Integración.md:23:prueba
+content/09d9. Plataforma Híbrida de Integración.md:25:Tecnología
+content/09d9. Plataforma Híbrida de Integración.md:26:ESB
+content/09d9. Plataforma Híbrida de Integración.md:27:Mensajería
+content/09d9. Plataforma Híbrida de Integración.md:27:Plataforma
 content/09d. Ficha de proyectos.md:1:brechas
 content/09d. Ficha de proyectos.md:1:descriptiva
 content/09d. Ficha de proyectos.md:1:el

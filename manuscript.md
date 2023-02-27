@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-27" />
   <meta name="citation_publication_date" content="2023-02-27" />
   <meta property="article:published_time" content="2023-02-27" />
-  <meta name="dc.modified" content="2023-02-27T23:41:06+00:00" />
-  <meta property="article:modified_time" content="2023-02-27T23:41:06+00:00" />
+  <meta name="dc.modified" content="2023-02-27T23:49:08+00:00" />
+  <meta property="article:modified_time" content="2023-02-27T23:49:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/857245e1892a2a2ffac86b445059b27ddebc7755/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/))
 versión indicada a continuación, se encuentra en 
 ****
-[857245e](https://github.com/hwong23/fna-devdoc-f3/tree/857245e1892a2a2ffac86b445059b27ddebc7755)
+[ffea993](https://github.com/hwong23/fna-devdoc-f3/tree/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f)
 de February 27, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|857245e del 27 Feb 2023                              |
+|Version|ffea993 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|857245e del 27 Feb 2023                              |
+|Version|ffea993 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -325,7 +325,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 857245e del 27 Feb 2023                                                |
+| Version        | ffea993 del 27 Feb 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -418,7 +418,7 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|857245e del 27 Feb 2023                              |
+|Version|ffea993 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -610,6 +610,103 @@ Promover el uso de microservicios como estilo de arquitectura para ser integrado
 - Herramientas de despliegue continuo / IC
 - Tecnologías cloud
 
+<br>
+
+
+#### Portafolio de API
+#### Objetivo
+Establecer un portafolio institucional de funcionalidades, recursos y datos expuestos en API, que sirva como fuente única de la verdad sobre las versiones, tecnologías y características de todas las API de la organización​
+
+#### Oportunidades / Retos
+- Gestión y estructuración del portafolio de API del FNA​
+- Definición de los contratos de las API, las tecnologías y los atributos de calidad de las API de la organización​
+
+#### Actores
+- Unidades de negocio​
+- Oficina de Arquitectura​
+- Proveedores del FNA (Cobis, IBM, Oracle)​
+- Consultores / fabricantes de apoyo​
+		
+#### Impacto / Beneficio
+- Mejorar el gobierno y las estrategias de evolución y mantenimiento de las API del FNA​
+- Mayor control en el diseño, desarrollo y operación de las API​
+- Punto único de búsqueda y  localización de API y servicios en la organización​
+	
+#### Alcance
+- Estructuración del portafolio, en API privadas, públicas y consorcio​
+- Diseño de la estructura y organización de las API de la organización​
+- Definición de lineamientos y políticas de uso de las API ​
+- Tecnologías e infraestructura requeridas para el desarrollo, pruebas y operación de las diferentes API​
+	
+#### Tecnología
+- Portafolio de API
+- Herramientas de diseño de API
+
+<br>
+
+
+### Service Mesh
+#### Objetivo
+Mejorar de la comunicación, estabilidad (reintento y tolerancia a fallos) y la disponibilidad de servicios SOA y microservicios del Fondo mediante el uso de proxys. 
+
+#### Oportunidades / Retos
+- Modernizar los mecanismos de orquestación de servicios​
+- Proponer alternativas para el manejo de escalabilidad, seguridad y monitoreo de servicios​
+- Proponer esquemas de operación de servicios orientados a la nube​
+	
+#### Actores
+- Oficina de Arquitectura FNA​
+- Consultores de Apoyo​
+	
+#### Impacto / Beneficio
+- Apoyo a la estrategia de transición hacia microservicios​
+- Mayor control y monitoreo de los microservicios​
+- Posibilidad de un despliegue multi-cloud de los microservicios​
+- Mejorar mecanismos de comunicación y control de los micro servicios​
+	
+#### Alcance
+- Diseño de arquitectura ​
+- Instalación de una herramienta que implemente el patrón service-mesh (Control Plan – Data plane)​
+- Prueba piloto inicial con un subconjunto de servicios​
+- Extensión de la prueba piloto a un proceso de misión crítica​
+	
+#### Tecnología
+- Implementación service Mesh: Istio, Amazon App Mesh, Meshery
+- Kubernetes
+- Docker
+
+<br>
+
+
+### Plataforma Híbrida de Integración
+#### Objetivo
+Establecer un esquema de integración orientado a mensajes integrado con mecanismos de integración síncronos​
+
+#### Oportunidades / Retos
+- Potencializar el uso de la tecnología de integración instalada  (ESB y Mensajería)​
+- Modernizar los esquemas de integración de la organización con esquemas híbridos (síncronos y asíncronos)​
+- Propender por arquitecturas orientadas a eventos​
+	
+#### Actores
+- Encargados de infraestructura y operaciones​
+- Oficina Arquitectura de FNA​
+- Consultores de apoyo​
+	
+#### Impacto / Beneficio
+- Disminución de la complejidad asociada a la orquestación de servicios​
+- Desacoplamiento de las soluciones y servicios del ecosistema de servicios de la organización​
+- Menor dependencia del bus de servicios​
+	
+#### Alcance
+- Diseño de arquitectura​
+- Prueba piloto con orquestación y coreografía​
+- Extensión de la prueba a un proceso misional​
+	
+#### Tecnología
+- ESB
+- Plataforma de Mensajería
+
+<br>
 
 
 # Fase 3: SOA Objetivo
@@ -646,7 +743,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|857245e del 27 Feb 2023                              |
+|Version|ffea993 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
