@@ -1,116 +1,3 @@
-## B3 Portafolio de API
-### Objetivo: Establecer un portafolio institucional de funcionalidades, recursos y datos expuestos en API, que sirva como fuente única de la verdad sobre las versiones, tecnologías y características de todas las API de la organización​
-
-#### Oportunidades / Retos
-- Gestión y estructuración del portafolio de API del FNA​
-- Definición de los contratos de las API, las tecnologías y los atributos de calidad de las API de la organización​
-
-#### Actores
-- Unidades de negocio​
-- Oficina de Arquitectura​
-- Proveedores del FNA (Cobis, IBM, Oracle)​
-- Consultores / fabricantes de apoyo​
-		
-#### Impacto / Beneficio
-- Mejorar el gobierno y las estrategias de evolución y mantenimiento de las API del FNA​
-- Mayor control en el diseño, desarrollo y operación de las API​
-- Punto único de búsqueda y  localización de API y servicios en la organización​
-	
-#### Alcance
-- Estructuración del portafolio, en API privadas, públicas y consorcio​
-- Diseño de la estructura y organización de las API de la organización​
-- Definición de lineamientos y políticas de uso de las API ​
-- Tecnologías e infraestructura requeridas para el desarrollo, pruebas y operación de las diferentes API​
-	
-#### Tecnología
-- Portafolio de API
-- Herramientas de diseño de API
-
-## B3.1 API Crédito Constructor
-### Objetivo: Actualizar las interfaces de ejecución y exposición de funcionalidades (API) de Crédito Constructor​
-
-#### Oportunidades / Retos
-- Convertir al producto Crédito Constructor en funcionalidades granulares, reutilizables y expuestas (privadas, protegidas y públicas)​
-- Comercializar el API de C. Constructor​
-- Estandarizar el modelo de integración e intercambio de datos​
-	
-#### Actores
-- Unidades de negocio​
-- Oficina de Arquitectura​
-- Proveedores del FNA (Cobis, IBM, Oracle)​
-- Consultores / fabricantes de apoyo​
-	
-#### Impacto / Beneficio
-- Proteger de impacto por cambios en C. Constructor a los consumidores y aplicaciones clientes del producto​
-- Flexibilidad de modificación de las funcionalidades principales de C. Constructor​
-- Modernización de tecnología del producto C. Constructor​
-	
-#### Alcance
-- Estructurar e implementar funcionalidades del producto en forma de operaciones y datos expuestos (API)​
-- Establecer los nuevos consumidores de las API del producto​
-- Actualizar y modificar a los consumidores actuales (redirección)​
-	
-#### Tecnología
-- Portafolio de API
-- Herramientas de diseño de API
-	
-## Iniciativa C1
-## Fichas de proyecto
-### Service Mesh
-
-#### Oportunidades / Retos
-- Modernizar los mecanismos de orquestación de servicios​
-- Proponer alternativas para el manejo de escalabilidad, seguridad y monitoreo de servicios​
-- Proponer esquemas de operación de servicios orientados a la nube​
-	
-#### Actores
-- Oficina de Arquitectura FNA​
-- Consultores de Apoyo​
-	
-#### Impacto / Beneficio
-- Apoyo a la estrategia de transición hacia microservicios​
-- Mayor control y monitoreo de los microservicios​
-- Posibilidad de un despliegue multi-cloud de los microservicios​
-- Mejorar mecanismos de comunicación y control de los micro servicios​
-	
-#### Alcance
-- Diseño de arquitectura ​
-- Instalación de una herramienta que implemente el patrón service-mesh (Control Plan – Data plane)​
-- Prueba piloto inicial con un subconjunto de servicios​
-- Extensión de la prueba piloto a un proceso de misión crítica​
-	
-#### Tecnología
-- Implementación service Mesh: Istio, Amazon App Mesh, Meshery
-- Kubernetes
-- Docker
-
-## C2 Plataforma Híbrida de Integración
-### Objetivo: Establecer un esquema de integración orientado a mensajes integrado con mecanismos de integración síncronos​
-
-#### Oportunidades / Retos
-- Potencializar el uso de la tecnología de integración instalada  (ESB y Mensajería)​
-- Modernizar los esquemas de integración de la organización con esquemas híbridos (síncronos y asíncronos)​
-- Propender por arquitecturas orientadas a eventos​
-	
-#### Actores
-- Encargados de infraestructura y operaciones​
-- Oficina Arquitectura de FNA​
-- Consultores de apoyo​
-	
-#### Impacto / Beneficio
-- Disminución de la complejidad asociada a la orquestación de servicios​
-- Desacoplamiento de las soluciones y servicios del ecosistema de servicios de la organización​
-- Menor dependencia del bus de servicios​
-	
-#### Alcance
-- Diseño de arquitectura​
-- Prueba piloto con orquestación y coreografía​
-- Extensión de la prueba a un proceso misional​
-	
-#### Tecnología
-- ESB
-- Plataforma de Mensajería
-
 ## Hub de Integración Digital
 ### Objetivo: Proveer una plataforma de datos de alta velocidad que intermedie entre el API Gateway y la Plataforma híbrida de Integración ​
 
@@ -247,3 +134,33 @@ Objetivo: Implementar una estrategia de datos  que permita al FNA gestionar sus 
 
 ## Mapa de Ruta FNA​
 - Imagen Mapa de Ruta FNA​
+
+
+## B3.1 API Crédito Constructor
+### Objetivo: Actualizar las interfaces de ejecución y exposición de funcionalidades (API) de Crédito Constructor​
+
+#### Oportunidades / Retos
+- Convertir al producto Crédito Constructor en funcionalidades granulares, reutilizables y expuestas (privadas, protegidas y públicas)​
+- Comercializar el API de C. Constructor​
+- Estandarizar el modelo de integración e intercambio de datos​
+	
+#### Actores
+- Unidades de negocio​
+- Oficina de Arquitectura​
+- Proveedores del FNA (Cobis, IBM, Oracle)​
+- Consultores / fabricantes de apoyo​
+	
+#### Impacto / Beneficio
+- Proteger de impacto por cambios en C. Constructor a los consumidores y aplicaciones clientes del producto​
+- Flexibilidad de modificación de las funcionalidades principales de C. Constructor​
+- Modernización de tecnología del producto C. Constructor​
+	
+#### Alcance
+- Estructurar e implementar funcionalidades del producto en forma de operaciones y datos expuestos (API)​
+- Establecer los nuevos consumidores de las API del producto​
+- Actualizar y modificar a los consumidores actuales (redirección)​
+	
+#### Tecnología
+- Portafolio de API
+- Herramientas de diseño de API
+	
