@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-27" />
   <meta name="citation_publication_date" content="2023-02-27" />
   <meta property="article:published_time" content="2023-02-27" />
-  <meta name="dc.modified" content="2023-02-27T23:49:08+00:00" />
-  <meta property="article:modified_time" content="2023-02-27T23:49:08+00:00" />
+  <meta name="dc.modified" content="2023-02-27T23:52:42+00:00" />
+  <meta property="article:modified_time" content="2023-02-27T23:52:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/))
 versión indicada a continuación, se encuentra en 
 ****
-[ffea993](https://github.com/hwong23/fna-devdoc-f3/tree/ffea99310e4d88ae2e26c9d7edbf05ec60f0888f)
+[596ec68](https://github.com/hwong23/fna-devdoc-f3/tree/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe)
 de February 27, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|ffea993 del 27 Feb 2023                              |
+|Version|596ec68 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|ffea993 del 27 Feb 2023                              |
+|Version|596ec68 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -325,7 +325,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | ffea993 del 27 Feb 2023                                                |
+| Version        | 596ec68 del 27 Feb 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -418,7 +418,7 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|ffea993 del 27 Feb 2023                              |
+|Version|596ec68 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -453,6 +453,129 @@ Actualizar las interfaces de ejecución y exposición de funcionalidades (API) d
 #### Tecnologias
 - Portafolio de API
 - Herramientas de diseño de API
+
+<br>
+
+
+### Hub de Integración Digital
+#### Objetivo
+Proveer una plataforma de datos de alta velocidad que intermedie entre el API Gateway y la Plataforma híbrida de Integración ​
+
+#### Oportunidades / Retos
+- Desacoplamiento de sistemas de información​
+- Consulta de información con baja latencia​
+- Alimentación a la zona de analítica​
+	
+#### Actores
+- Encargados de infraestructura y operaciones​
+- Oficina de arquitectura​
+- Consultores de soporte​
+	
+#### Impacto / Beneficio
+- Soporte a esquemas híbridos de despliegue (on-premises y cloud)​
+- Implementación de prácticas DevOps como despliegue continuo e integración continua​
+- Mayor acceso y velocidad a los datos operativos y analíticos de la organización​
+
+#### Alcance
+- Arquitectura de integración​
+- Integración con el API Gateway y la plataforma híbrida de integración​
+- Integración en un proceso misional​
+	
+#### Tecnología
+- Hub de Integración Digital
+
+<br>
+
+
+### Data Mesh
+#### Objetivo
+Implementar una estrategia de datos  que permita al FNA gestionar sus datos como un activo y aumentar el valor que obtiene de sus datos mediante la identificación de oportunidades para el uso de datos, reducción de costos y mitigación de riesgos​
+
+#### Oportunidades / Retos
+- Traducir las necesidades del negocio en requerimientos de datos y de sistemas para que los procesos tengan de manera consistente los datos que requieren​
+- Preparar estratégicamente al FNA es para evolucionar rápidamente sus productos, servicios y datos para aprovechar las oportunidades comerciales inherentes a las tecnologías emergentes​
+
+#### Actores
+- Oficina de Arquitectura FNA​
+- Consultores de apoyo​
+- Arquitecto de Datos​
+	
+#### Impacto / Beneficio
+- Facilitar la alineación entre el negocio y TI​
+- Diseños de estructuras y planes que cumplan con los requerimientos de datos actuales y a largo plazo para el FNA​
+- Usar la Arquitectura de Datos para establecer la semántica de una empresa, a través de un vocabulario común del negocio​
+​	
+#### Alcance
+- Producir las versiones iniciales de los artefactos de Arquitectura de Datos, como el modelo de datos empresarial, el mapa de flujo de datos y mapas de ruta de toda la empresa​
+- Alinear la Arquitectura de Datos con la estrategia empresarial y la arquitectura de negocio​
+- Definir un modelo canónico de datos basado en un modelo unificado de datos y que permita incrementalmente la implementación de un Data Mesh​
+	
+#### Tecnología
+- Herramientas de modelado de datos	
+- Herramientas que provea servicios de implementación de Data Mesh (Ingesta, almacenamiento, explotación)
+- Repositorio de Arquitectura
+
+<br>
+
+
+### Gobierno de Datos
+#### Objetivo
+Implementar la estrategia de gobierno de datos que permita tener autoridad y control sobre la gestión de los activos de datos del FNA​
+
+#### Oportunidades / Retos
+- Habilitar un FNA  que gestione los datos como un activo​
+- Definir, aprobar, comunicar e implementar principios, políticas, métricas, herramientas y responsabilidades para la gestión de los datos​
+- Monitorear, mantener y guiar el cumplimiento de la políticas sobre la gestión y uso de datos ​
+
+#### Actores
+- Comité de gobierno del FNA​
+- Oficina de arquitectura FNA - Oficina de ​gobierno de datos
+- Especialista en Gobierno de Datos​
+		
+#### Impacto / Beneficio
+- Cumplimiento regulatorio​
+- Eficiencia en proyectos de desarrollo y productos de datos​
+- Gestión de proveedores​
+	
+#### Alcance
+- Definir el gobierno de datos para el FNA​
+- Definir e implementar la estrategía de datos para el FNA​
+- Alinear el gobierno de datos con el gobierno SOA​
+	
+#### Tecnología
+- Herramienta de gobierno de datos
+- Tablero de control de gobierno de datos
+
+<br>
+
+
+### Gestión de Datos Maestros
+#### Objetivo
+Implementar  una estrategia de gestión de datos compartidos para conocer objetivos organizacionales reduciendo la redundancia de los datos y los costos de integración de los datos​
+
+#### Oportunidades / Retos
+- Gestionar los datos compartidos de forma eficiente​
+- Proporcionar una fuente autorizada de datos maestros y de referencia conciliados y evaluados con calidad​
+- Cumplir con los requisitos de datos en el FNA​
+	
+#### Actores
+- Unidades de Negocio​
+- Oficina de arquitectura FNA​
+- Consultores de Apoyo​
+	
+#### Impacto / Beneficio
+- Reducir los riesgos asociados con la redundancia de datos, asegurando alta calidad, y reduciendo costos de integración de datos​
+- Habilitar y compartir activos de información trasversalmente en los dominios de negocio y aplicaciones en la organización​
+- Desarrollar una versión confiable de la verdad para cada instancia de entidad conceptual como producto, lugar, cuenta, persona u organización ​
+	
+#### Alcance
+- Identificar múltiples instancias de la misma entidad representada dentro y entre fuentes de datos; construir y mantener identificadores y referencias cruzadas para permitir la integración de la información​
+- Implementación de una herramienta de Master Data Management (MDM)​
+- Integración de datos a través de estándares, modelos de datos comunes y patrones de integración​
+
+#### Tecnología
+- Herramienta de Master Data Management MDM
+- Tablero de control de datos maestros
 
 <br>
 
@@ -743,7 +866,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|ffea993 del 27 Feb 2023                              |
+|Version|596ec68 del 27 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>

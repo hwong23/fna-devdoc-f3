@@ -1205,6 +1205,419 @@ content/09c. Lista de iniciativas y proyectos.md:88:técnico
 content/09c. Lista de iniciativas y proyectos.md:88:tipo
 content/09c. Lista de iniciativas y proyectos.md:88:tipo
 content/09c. Lista de iniciativas y proyectos.md:88:trabajo
+content/09d10. Hub de Integración Digital.md:1:Integración
+content/09d10. Hub de Integración Digital.md:2:Objetivo
+content/09d10. Hub de Integración Digital.md:3:datos
+content/09d10. Hub de Integración Digital.md:3:el
+content/09d10. Hub de Integración Digital.md:3:entre
+content/09d10. Hub de Integración Digital.md:3:híbrida
+content/09d10. Hub de Integración Digital.md:3:Integración
+content/09d10. Hub de Integración Digital.md:3:intermedie
+content/09d10. Hub de Integración Digital.md:3:plataforma
+content/09d10. Hub de Integración Digital.md:3:Plataforma
+content/09d10. Hub de Integración Digital.md:3:Proveer
+content/09d10. Hub de Integración Digital.md:3:una
+content/09d10. Hub de Integración Digital.md:3:velocidad
+content/09d10. Hub de Integración Digital.md:5:Oportunidades
+content/09d10. Hub de Integración Digital.md:5:Retos
+content/09d10. Hub de Integración Digital.md:6:Desacoplamiento
+content/09d10. Hub de Integración Digital.md:6:información
+content/09d10. Hub de Integración Digital.md:6:sistemas
+content/09d10. Hub de Integración Digital.md:7:baja
+content/09d10. Hub de Integración Digital.md:7:Consulta
+content/09d10. Hub de Integración Digital.md:7:información
+content/09d10. Hub de Integración Digital.md:7:latencia
+content/09d10. Hub de Integración Digital.md:8:Alimentación
+content/09d10. Hub de Integración Digital.md:8:analítica
+content/09d10. Hub de Integración Digital.md:8:zona
+content/09d10. Hub de Integración Digital.md:10:Actores
+content/09d10. Hub de Integración Digital.md:11:Encargados
+content/09d10. Hub de Integración Digital.md:11:infraestructura
+content/09d10. Hub de Integración Digital.md:11:operaciones
+content/09d10. Hub de Integración Digital.md:12:arquitectura
+content/09d10. Hub de Integración Digital.md:12:Oficina
+content/09d10. Hub de Integración Digital.md:13:Consultores
+content/09d10. Hub de Integración Digital.md:13:soporte
+content/09d10. Hub de Integración Digital.md:15:Beneficio
+content/09d10. Hub de Integración Digital.md:15:Impacto
+content/09d10. Hub de Integración Digital.md:16:despliegue
+content/09d10. Hub de Integración Digital.md:16:esquemas
+content/09d10. Hub de Integración Digital.md:16:híbridos
+content/09d10. Hub de Integración Digital.md:16:Soporte
+content/09d10. Hub de Integración Digital.md:17:continuo
+content/09d10. Hub de Integración Digital.md:17:despliegue
+content/09d10. Hub de Integración Digital.md:17:DevOps
+content/09d10. Hub de Integración Digital.md:17:Implementación
+content/09d10. Hub de Integración Digital.md:17:integración
+content/09d10. Hub de Integración Digital.md:17:prácticas
+content/09d10. Hub de Integración Digital.md:18:acceso
+content/09d10. Hub de Integración Digital.md:18:analíticos
+content/09d10. Hub de Integración Digital.md:18:datos
+content/09d10. Hub de Integración Digital.md:18:operativos
+content/09d10. Hub de Integración Digital.md:18:organización
+content/09d10. Hub de Integración Digital.md:18:velocidad
+content/09d10. Hub de Integración Digital.md:20:Alcance
+content/09d10. Hub de Integración Digital.md:21:Arquitectura
+content/09d10. Hub de Integración Digital.md:21:integración
+content/09d10. Hub de Integración Digital.md:22:el
+content/09d10. Hub de Integración Digital.md:22:híbrida
+content/09d10. Hub de Integración Digital.md:22:integración
+content/09d10. Hub de Integración Digital.md:22:Integración
+content/09d10. Hub de Integración Digital.md:22:plataforma
+content/09d10. Hub de Integración Digital.md:23:Integración
+content/09d10. Hub de Integración Digital.md:23:misional
+content/09d10. Hub de Integración Digital.md:23:proceso
+content/09d10. Hub de Integración Digital.md:25:Tecnología
+content/09d10. Hub de Integración Digital.md:26:Integración
+content/09d11. Data Mesh.md:2:Objetivo
+content/09d11. Data Mesh.md:3:activo
+content/09d11. Data Mesh.md:3:aumentar
+content/09d11. Data Mesh.md:3:costos
+content/09d11. Data Mesh.md:3:datos
+content/09d11. Data Mesh.md:3:datos
+content/09d11. Data Mesh.md:3:datos
+content/09d11. Data Mesh.md:3:datos
+content/09d11. Data Mesh.md:3:el
+content/09d11. Data Mesh.md:3:el
+content/09d11. Data Mesh.md:3:estrategia
+content/09d11. Data Mesh.md:3:FNA
+content/09d11. Data Mesh.md:3:gestionar
+content/09d11. Data Mesh.md:3:identificación
+content/09d11. Data Mesh.md:3:Implementar
+content/09d11. Data Mesh.md:3:mediante
+content/09d11. Data Mesh.md:3:mitigación
+content/09d11. Data Mesh.md:3:obtiene
+content/09d11. Data Mesh.md:3:oportunidades
+content/09d11. Data Mesh.md:3:permita
+content/09d11. Data Mesh.md:3:reducción
+content/09d11. Data Mesh.md:3:riesgos
+content/09d11. Data Mesh.md:3:sus
+content/09d11. Data Mesh.md:3:sus
+content/09d11. Data Mesh.md:3:una
+content/09d11. Data Mesh.md:5:Oportunidades
+content/09d11. Data Mesh.md:5:Retos
+content/09d11. Data Mesh.md:6:consistente
+content/09d11. Data Mesh.md:6:datos
+content/09d11. Data Mesh.md:6:datos
+content/09d11. Data Mesh.md:6:manera
+content/09d11. Data Mesh.md:6:necesidades
+content/09d11. Data Mesh.md:6:negocio
+content/09d11. Data Mesh.md:6:procesos
+content/09d11. Data Mesh.md:6:requerimientos
+content/09d11. Data Mesh.md:6:requieren
+content/09d11. Data Mesh.md:6:sistemas
+content/09d11. Data Mesh.md:6:tengan
+content/09d11. Data Mesh.md:6:Traducir
+content/09d11. Data Mesh.md:7:aprovechar
+content/09d11. Data Mesh.md:7:comerciales
+content/09d11. Data Mesh.md:7:datos
+content/09d11. Data Mesh.md:7:emergentes
+content/09d11. Data Mesh.md:7:estratégicamente
+content/09d11. Data Mesh.md:7:evolucionar
+content/09d11. Data Mesh.md:7:FNA
+content/09d11. Data Mesh.md:7:inherentes
+content/09d11. Data Mesh.md:7:oportunidades
+content/09d11. Data Mesh.md:7:Preparar
+content/09d11. Data Mesh.md:7:productos
+content/09d11. Data Mesh.md:7:rápidamente
+content/09d11. Data Mesh.md:7:servicios
+content/09d11. Data Mesh.md:7:sus
+content/09d11. Data Mesh.md:7:tecnologías
+content/09d11. Data Mesh.md:9:Actores
+content/09d11. Data Mesh.md:10:Arquitectura
+content/09d11. Data Mesh.md:10:FNA
+content/09d11. Data Mesh.md:10:Oficina
+content/09d11. Data Mesh.md:11:apoyo
+content/09d11. Data Mesh.md:11:Consultores
+content/09d11. Data Mesh.md:12:Arquitecto
+content/09d11. Data Mesh.md:12:Datos
+content/09d11. Data Mesh.md:14:Beneficio
+content/09d11. Data Mesh.md:14:Impacto
+content/09d11. Data Mesh.md:15:alineación
+content/09d11. Data Mesh.md:15:el
+content/09d11. Data Mesh.md:15:entre
+content/09d11. Data Mesh.md:15:Facilitar
+content/09d11. Data Mesh.md:15:negocio
+content/09d11. Data Mesh.md:16:actuales
+content/09d11. Data Mesh.md:16:cumplan
+content/09d11. Data Mesh.md:16:datos
+content/09d11. Data Mesh.md:16:Diseños
+content/09d11. Data Mesh.md:16:el
+content/09d11. Data Mesh.md:16:estructuras
+content/09d11. Data Mesh.md:16:FNA
+content/09d11. Data Mesh.md:16:plazo
+content/09d11. Data Mesh.md:16:requerimientos
+content/09d11. Data Mesh.md:17:Arquitectura
+content/09d11. Data Mesh.md:17:común
+content/09d11. Data Mesh.md:17:Datos
+content/09d11. Data Mesh.md:17:empresa
+content/09d11. Data Mesh.md:17:establecer
+content/09d11. Data Mesh.md:17:negocio
+content/09d11. Data Mesh.md:17:semántica
+content/09d11. Data Mesh.md:17:través
+content/09d11. Data Mesh.md:17:una
+content/09d11. Data Mesh.md:17:Usar
+content/09d11. Data Mesh.md:17:vocabulario
+content/09d11. Data Mesh.md:19:Alcance
+content/09d11. Data Mesh.md:20:Arquitectura
+content/09d11. Data Mesh.md:20:artefactos
+content/09d11. Data Mesh.md:20:datos
+content/09d11. Data Mesh.md:20:datos
+content/09d11. Data Mesh.md:20:Datos
+content/09d11. Data Mesh.md:20:el
+content/09d11. Data Mesh.md:20:el
+content/09d11. Data Mesh.md:20:empresa
+content/09d11. Data Mesh.md:20:empresarial
+content/09d11. Data Mesh.md:20:flujo
+content/09d11. Data Mesh.md:20:iniciales
+content/09d11. Data Mesh.md:20:mapa
+content/09d11. Data Mesh.md:20:mapas
+content/09d11. Data Mesh.md:20:modelo
+content/09d11. Data Mesh.md:20:Producir
+content/09d11. Data Mesh.md:20:ruta
+content/09d11. Data Mesh.md:20:toda
+content/09d11. Data Mesh.md:20:versiones
+content/09d11. Data Mesh.md:21:Alinear
+content/09d11. Data Mesh.md:21:arquitectura
+content/09d11. Data Mesh.md:21:Arquitectura
+content/09d11. Data Mesh.md:21:Datos
+content/09d11. Data Mesh.md:21:empresarial
+content/09d11. Data Mesh.md:21:estrategia
+content/09d11. Data Mesh.md:21:negocio
+content/09d11. Data Mesh.md:22:basado
+content/09d11. Data Mesh.md:22:canónico
+content/09d11. Data Mesh.md:22:datos
+content/09d11. Data Mesh.md:22:datos
+content/09d11. Data Mesh.md:22:Definir
+content/09d11. Data Mesh.md:22:implementación
+content/09d11. Data Mesh.md:22:incrementalmente
+content/09d11. Data Mesh.md:22:modelo
+content/09d11. Data Mesh.md:22:modelo
+content/09d11. Data Mesh.md:22:permita
+content/09d11. Data Mesh.md:22:unificado
+content/09d11. Data Mesh.md:24:Tecnología
+content/09d11. Data Mesh.md:25:datos
+content/09d11. Data Mesh.md:25:Herramientas
+content/09d11. Data Mesh.md:25:modelado
+content/09d11. Data Mesh.md:26:almacenamiento
+content/09d11. Data Mesh.md:26:explotación
+content/09d11. Data Mesh.md:26:Herramientas
+content/09d11. Data Mesh.md:26:implementación
+content/09d11. Data Mesh.md:26:Ingesta
+content/09d11. Data Mesh.md:26:provea
+content/09d11. Data Mesh.md:26:servicios
+content/09d11. Data Mesh.md:27:Arquitectura
+content/09d11. Data Mesh.md:27:Repositorio
+content/09d12. Gobierno de Datos.md:1:Datos
+content/09d12. Gobierno de Datos.md:1:Gobierno
+content/09d12. Gobierno de Datos.md:2:Objetivo
+content/09d12. Gobierno de Datos.md:3:activos
+content/09d12. Gobierno de Datos.md:3:autoridad
+content/09d12. Gobierno de Datos.md:3:datos
+content/09d12. Gobierno de Datos.md:3:datos
+content/09d12. Gobierno de Datos.md:3:estrategia
+content/09d12. Gobierno de Datos.md:3:FNA
+content/09d12. Gobierno de Datos.md:3:gestión
+content/09d12. Gobierno de Datos.md:3:gobierno
+content/09d12. Gobierno de Datos.md:3:Implementar
+content/09d12. Gobierno de Datos.md:3:permita
+content/09d12. Gobierno de Datos.md:3:sobre
+content/09d12. Gobierno de Datos.md:3:tener
+content/09d12. Gobierno de Datos.md:5:Oportunidades
+content/09d12. Gobierno de Datos.md:5:Retos
+content/09d12. Gobierno de Datos.md:6:activo
+content/09d12. Gobierno de Datos.md:6:datos
+content/09d12. Gobierno de Datos.md:6:FNA
+content/09d12. Gobierno de Datos.md:6:gestione
+content/09d12. Gobierno de Datos.md:6:Habilitar
+content/09d12. Gobierno de Datos.md:7:aprobar
+content/09d12. Gobierno de Datos.md:7:comunicar
+content/09d12. Gobierno de Datos.md:7:datos
+content/09d12. Gobierno de Datos.md:7:Definir
+content/09d12. Gobierno de Datos.md:7:gestión
+content/09d12. Gobierno de Datos.md:7:herramientas
+content/09d12. Gobierno de Datos.md:7:implementar
+content/09d12. Gobierno de Datos.md:7:métricas
+content/09d12. Gobierno de Datos.md:7:políticas
+content/09d12. Gobierno de Datos.md:7:principios
+content/09d12. Gobierno de Datos.md:7:responsabilidades
+content/09d12. Gobierno de Datos.md:8:cumplimiento
+content/09d12. Gobierno de Datos.md:8:datos
+content/09d12. Gobierno de Datos.md:8:el
+content/09d12. Gobierno de Datos.md:8:gestión
+content/09d12. Gobierno de Datos.md:8:guiar
+content/09d12. Gobierno de Datos.md:8:mantener
+content/09d12. Gobierno de Datos.md:8:Monitorear
+content/09d12. Gobierno de Datos.md:8:políticas
+content/09d12. Gobierno de Datos.md:8:sobre
+content/09d12. Gobierno de Datos.md:10:Actores
+content/09d12. Gobierno de Datos.md:11:Comité
+content/09d12. Gobierno de Datos.md:11:FNA
+content/09d12. Gobierno de Datos.md:11:gobierno
+content/09d12. Gobierno de Datos.md:12:arquitectura
+content/09d12. Gobierno de Datos.md:12:datos
+content/09d12. Gobierno de Datos.md:12:FNA
+content/09d12. Gobierno de Datos.md:12:gobierno
+content/09d12. Gobierno de Datos.md:12:Oficina
+content/09d12. Gobierno de Datos.md:12:Oficina
+content/09d12. Gobierno de Datos.md:13:Datos
+content/09d12. Gobierno de Datos.md:13:Especialista
+content/09d12. Gobierno de Datos.md:13:Gobierno
+content/09d12. Gobierno de Datos.md:15:Beneficio
+content/09d12. Gobierno de Datos.md:15:Impacto
+content/09d12. Gobierno de Datos.md:16:Cumplimiento
+content/09d12. Gobierno de Datos.md:16:regulatorio
+content/09d12. Gobierno de Datos.md:17:datos
+content/09d12. Gobierno de Datos.md:17:desarrollo
+content/09d12. Gobierno de Datos.md:17:Eficiencia
+content/09d12. Gobierno de Datos.md:17:productos
+content/09d12. Gobierno de Datos.md:17:proyectos
+content/09d12. Gobierno de Datos.md:18:Gestión
+content/09d12. Gobierno de Datos.md:18:proveedores
+content/09d12. Gobierno de Datos.md:20:Alcance
+content/09d12. Gobierno de Datos.md:21:datos
+content/09d12. Gobierno de Datos.md:21:Definir
+content/09d12. Gobierno de Datos.md:21:el
+content/09d12. Gobierno de Datos.md:21:el
+content/09d12. Gobierno de Datos.md:21:FNA
+content/09d12. Gobierno de Datos.md:21:gobierno
+content/09d12. Gobierno de Datos.md:22:datos
+content/09d12. Gobierno de Datos.md:22:Definir
+content/09d12. Gobierno de Datos.md:22:el
+content/09d12. Gobierno de Datos.md:22:estrategía
+content/09d12. Gobierno de Datos.md:22:FNA
+content/09d12. Gobierno de Datos.md:22:implementar
+content/09d12. Gobierno de Datos.md:23:Alinear
+content/09d12. Gobierno de Datos.md:23:datos
+content/09d12. Gobierno de Datos.md:23:el
+content/09d12. Gobierno de Datos.md:23:el
+content/09d12. Gobierno de Datos.md:23:gobierno
+content/09d12. Gobierno de Datos.md:23:gobierno
+content/09d12. Gobierno de Datos.md:23:SOA
+content/09d12. Gobierno de Datos.md:25:Tecnología
+content/09d12. Gobierno de Datos.md:26:datos
+content/09d12. Gobierno de Datos.md:26:gobierno
+content/09d12. Gobierno de Datos.md:26:Herramienta
+content/09d12. Gobierno de Datos.md:27:datos
+content/09d12. Gobierno de Datos.md:27:gobierno
+content/09d12. Gobierno de Datos.md:27:Tablero
+content/09d13. Gestión de Datos Maestros.md:1:Datos
+content/09d13. Gestión de Datos Maestros.md:1:Gestión
+content/09d13. Gestión de Datos Maestros.md:2:Objetivo
+content/09d13. Gestión de Datos Maestros.md:3:compartidos
+content/09d13. Gestión de Datos Maestros.md:3:conocer
+content/09d13. Gestión de Datos Maestros.md:3:costos
+content/09d13. Gestión de Datos Maestros.md:3:datos
+content/09d13. Gestión de Datos Maestros.md:3:datos
+content/09d13. Gestión de Datos Maestros.md:3:datos
+content/09d13. Gestión de Datos Maestros.md:3:estrategia
+content/09d13. Gestión de Datos Maestros.md:3:gestión
+content/09d13. Gestión de Datos Maestros.md:3:Implementar
+content/09d13. Gestión de Datos Maestros.md:3:integración
+content/09d13. Gestión de Datos Maestros.md:3:objetivos
+content/09d13. Gestión de Datos Maestros.md:3:organizacionales
+content/09d13. Gestión de Datos Maestros.md:3:reduciendo
+content/09d13. Gestión de Datos Maestros.md:3:redundancia
+content/09d13. Gestión de Datos Maestros.md:3:una
+content/09d13. Gestión de Datos Maestros.md:5:Oportunidades
+content/09d13. Gestión de Datos Maestros.md:5:Retos
+content/09d13. Gestión de Datos Maestros.md:6:compartidos
+content/09d13. Gestión de Datos Maestros.md:6:datos
+content/09d13. Gestión de Datos Maestros.md:6:eficiente
+content/09d13. Gestión de Datos Maestros.md:6:forma
+content/09d13. Gestión de Datos Maestros.md:6:Gestionar
+content/09d13. Gestión de Datos Maestros.md:7:autorizada
+content/09d13. Gestión de Datos Maestros.md:7:calidad
+content/09d13. Gestión de Datos Maestros.md:7:conciliados
+content/09d13. Gestión de Datos Maestros.md:7:datos
+content/09d13. Gestión de Datos Maestros.md:7:evaluados
+content/09d13. Gestión de Datos Maestros.md:7:fuente
+content/09d13. Gestión de Datos Maestros.md:7:Proporcionar
+content/09d13. Gestión de Datos Maestros.md:7:referencia
+content/09d13. Gestión de Datos Maestros.md:7:una
+content/09d13. Gestión de Datos Maestros.md:8:Cumplir
+content/09d13. Gestión de Datos Maestros.md:8:datos
+content/09d13. Gestión de Datos Maestros.md:8:el
+content/09d13. Gestión de Datos Maestros.md:8:FNA
+content/09d13. Gestión de Datos Maestros.md:8:requisitos
+content/09d13. Gestión de Datos Maestros.md:10:Actores
+content/09d13. Gestión de Datos Maestros.md:11:Negocio
+content/09d13. Gestión de Datos Maestros.md:11:Unidades
+content/09d13. Gestión de Datos Maestros.md:12:arquitectura
+content/09d13. Gestión de Datos Maestros.md:12:FNA
+content/09d13. Gestión de Datos Maestros.md:12:Oficina
+content/09d13. Gestión de Datos Maestros.md:13:Apoyo
+content/09d13. Gestión de Datos Maestros.md:13:Consultores
+content/09d13. Gestión de Datos Maestros.md:15:Beneficio
+content/09d13. Gestión de Datos Maestros.md:15:Impacto
+content/09d13. Gestión de Datos Maestros.md:16:asegurando
+content/09d13. Gestión de Datos Maestros.md:16:asociados
+content/09d13. Gestión de Datos Maestros.md:16:calidad
+content/09d13. Gestión de Datos Maestros.md:16:costos
+content/09d13. Gestión de Datos Maestros.md:16:datos
+content/09d13. Gestión de Datos Maestros.md:16:datos
+content/09d13. Gestión de Datos Maestros.md:16:integración
+content/09d13. Gestión de Datos Maestros.md:16:reduciendo
+content/09d13. Gestión de Datos Maestros.md:16:Reducir
+content/09d13. Gestión de Datos Maestros.md:16:redundancia
+content/09d13. Gestión de Datos Maestros.md:16:riesgos
+content/09d13. Gestión de Datos Maestros.md:17:activos
+content/09d13. Gestión de Datos Maestros.md:17:aplicaciones
+content/09d13. Gestión de Datos Maestros.md:17:compartir
+content/09d13. Gestión de Datos Maestros.md:17:dominios
+content/09d13. Gestión de Datos Maestros.md:17:Habilitar
+content/09d13. Gestión de Datos Maestros.md:17:información
+content/09d13. Gestión de Datos Maestros.md:17:negocio
+content/09d13. Gestión de Datos Maestros.md:17:organización
+content/09d13. Gestión de Datos Maestros.md:17:trasversalmente
+content/09d13. Gestión de Datos Maestros.md:18:cada
+content/09d13. Gestión de Datos Maestros.md:18:confiable
+content/09d13. Gestión de Datos Maestros.md:18:cuenta
+content/09d13. Gestión de Datos Maestros.md:18:Desarrollar
+content/09d13. Gestión de Datos Maestros.md:18:entidad
+content/09d13. Gestión de Datos Maestros.md:18:instancia
+content/09d13. Gestión de Datos Maestros.md:18:lugar
+content/09d13. Gestión de Datos Maestros.md:18:organización
+content/09d13. Gestión de Datos Maestros.md:18:producto
+content/09d13. Gestión de Datos Maestros.md:18:una
+content/09d13. Gestión de Datos Maestros.md:18:verdad
+content/09d13. Gestión de Datos Maestros.md:18:versión
+content/09d13. Gestión de Datos Maestros.md:20:Alcance
+content/09d13. Gestión de Datos Maestros.md:21:construir
+content/09d13. Gestión de Datos Maestros.md:21:cruzadas
+content/09d13. Gestión de Datos Maestros.md:21:datos
+content/09d13. Gestión de Datos Maestros.md:21:dentro
+content/09d13. Gestión de Datos Maestros.md:21:entidad
+content/09d13. Gestión de Datos Maestros.md:21:entre
+content/09d13. Gestión de Datos Maestros.md:21:identificadores
+content/09d13. Gestión de Datos Maestros.md:21:Identificar
+content/09d13. Gestión de Datos Maestros.md:21:información
+content/09d13. Gestión de Datos Maestros.md:21:instancias
+content/09d13. Gestión de Datos Maestros.md:21:integración
+content/09d13. Gestión de Datos Maestros.md:21:mantener
+content/09d13. Gestión de Datos Maestros.md:21:misma
+content/09d13. Gestión de Datos Maestros.md:21:múltiples
+content/09d13. Gestión de Datos Maestros.md:21:permitir
+content/09d13. Gestión de Datos Maestros.md:21:referencias
+content/09d13. Gestión de Datos Maestros.md:21:representada
+content/09d13. Gestión de Datos Maestros.md:22:herramienta
+content/09d13. Gestión de Datos Maestros.md:22:Implementación
+content/09d13. Gestión de Datos Maestros.md:22:MDM
+content/09d13. Gestión de Datos Maestros.md:22:una
+content/09d13. Gestión de Datos Maestros.md:23:comunes
+content/09d13. Gestión de Datos Maestros.md:23:datos
+content/09d13. Gestión de Datos Maestros.md:23:datos
+content/09d13. Gestión de Datos Maestros.md:23:estándares
+content/09d13. Gestión de Datos Maestros.md:23:integración
+content/09d13. Gestión de Datos Maestros.md:23:Integración
+content/09d13. Gestión de Datos Maestros.md:23:modelos
+content/09d13. Gestión de Datos Maestros.md:23:patrones
+content/09d13. Gestión de Datos Maestros.md:23:través
+content/09d13. Gestión de Datos Maestros.md:25:Tecnología
+content/09d13. Gestión de Datos Maestros.md:26:Herramienta
+content/09d13. Gestión de Datos Maestros.md:26:MDM
+content/09d13. Gestión de Datos Maestros.md:27:datos
+content/09d13. Gestión de Datos Maestros.md:27:Tablero
 content/09d1. API Crédito Constructor.md:1:Crédito
 content/09d1. API Crédito Constructor.md:2:Objetivo
 content/09d1. API Crédito Constructor.md:3:Actualizar
