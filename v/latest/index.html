@@ -37,8 +37,8 @@
   <meta name="dc.date" content="2023-02-28" />
   <meta name="citation_publication_date" content="2023-02-28" />
   <meta property="article:published_time" content="2023-02-28" />
-  <meta name="dc.modified" content="2023-02-28T06:55:36+00:00" />
-  <meta property="article:modified_time" content="2023-02-28T06:55:36+00:00" />
+  <meta name="dc.modified" content="2023-02-28T11:23:10+00:00" />
+  <meta property="article:modified_time" content="2023-02-28T11:23:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -59,9 +59,9 @@
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -77,10 +77,10 @@
 <h1 class="title">Diagnóstico SOA Actual FNA</h1>
 </header>
 <p>Documentación del proyecto 181-2020, E-Service,
-(<a href="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/">permalink</a>)
+(<a href="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/">permalink</a>)
 versión indicada a continuación, se encuentra en
 ****
-<a href="https://github.com/hwong23/fna-devdoc-f3/tree/d899a25a33686fa844a92f94da669a4e3cdd2de7">d899a25</a>
+<a href="https://github.com/hwong23/fna-devdoc-f3/tree/c2a0862840b79adc6f68ecf3d52f74b5b4d72131">c2a0862</a>
 de February 28, 2023.</p>
 <h2 id="grupo-e-service">Grupo E-Service</h2>
 <ul>
@@ -167,7 +167,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>d899a25 del 28 Feb 2023</td>
+<td>c2a0862 del 28 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -233,7 +233,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>d899a25 del 28 Feb 2023</td>
+<td>c2a0862 del 28 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -362,7 +362,7 @@ Arquitecto TI, Stefanini
 <p><a href="">Imagen 1.</a> Partes de la arquitectura del bus de datos del FNA (ESB IBM) impactados por el análisis de brecha en el contexto de flexibilidad de negocio.</p>
 <p><em>Fuente: ae_fna_as_is.archimate.</em></p>
 <p><br></p>
-<p>Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, quereridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna ‘brecha’.</p>
+<p>Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, las mimsas que son requeridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna ‘brecha’.</p>
 <table style="width:100%;">
 <colgroup>
 <col style="width: 53%" />
@@ -500,6 +500,92 @@ Arquitecto TI, Stefanini
 </tbody>
 </table>
 <p><br></p>
+<h2 id="análisis-de-brecha-bizagi---cobis.-contexto-flexibilidad-de-negocio">Análisis de Brecha Bizagi - Cobis. Contexto Flexibilidad de Negocio</h2>
+<p>La sustitución de adaptadores por API puede ser aplicada al caso de los procesos de negocio y la manera como estos se relacionan con los componentes subyacentes del ERP Cobis.</p>
+<figure>
+<img src="images/brechaBizagi-Cobis.png" />
+</figure>
+<p><a href="">Imagen 1.</a> Partes de la arquitectura de la plataforma de negocio FNA (BPMS Bizagi) impactados por el análisis de brecha en el contexto de flexibilidad de negocio.</p>
+<p><em>Fuente: ae_fna_as_is.archimate.</em></p>
+<p><br></p>
+<p>Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, las mimsas que son requeridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna ‘brecha’.</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 53%" />
+<col style="width: 30%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>nombre</strong></th>
+<th><strong>tipo</strong></th>
+<th><strong>brecha</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Cobis</td>
+<td>application-component</td>
+<td>actualizacion</td>
+</tr>
+<tr class="even">
+<td>MQ-Queue</td>
+<td>application-function</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Servicios Cobis</td>
+<td>application-service</td>
+<td>actualización</td>
+</tr>
+<tr class="even">
+<td>Bizagi</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Servicios Bizagi</td>
+<td>application-service</td>
+<td>actualización</td>
+</tr>
+<tr class="even">
+<td>ESB-IBM</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Adaptador Tecnologia MQ</td>
+<td>application-component</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Adaptador Integración Cobis</td>
+<td>application-component</td>
+<td>sustitución</td>
+</tr>
+<tr class="odd">
+<td>Adaptador Integración Bizagi</td>
+<td>application-component</td>
+<td>actualización</td>
+</tr>
+<tr class="even">
+<td>FrameWork ESB</td>
+<td>application-collaboration</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Adaptador Tecnologia SOAP</td>
+<td>application-component</td>
+<td>sustitución</td>
+</tr>
+<tr class="even">
+<td>Notificar errores tecnicos y de negocio (Mail)</td>
+<td>application-component</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
 <table>
 <colgroup>
 <col style="width: 16%" />
@@ -526,7 +612,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>d899a25 del 28 Feb 2023</td>
+<td>c2a0862 del 28 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -666,6 +752,47 @@ Arquitecto TI, Stefanini
 <em>Depend</em>: el proyecto actual puede iniciar (o no) según el desempeño de los proyectos en relación de dependencia con este.</p>
 <p><em>El tipo de proyeto</em> indica el riesgo técnico que causará en la operación de la solución. Para el caso particular del ESB FNA, el proyecto BR10, Estandarización de Integración, extiende los cambios hasta los consumidores de los antes adaptadores. <em>Las estrategias de implementación</em> indican el tipo de trabajo que debe realizarse para minimizar el impacto que el proyecto causará en el este segmento de la empresa del FNA.</p>
 <p><br></p>
+<h4 id="procesos-de-negocio-bizagi---cobis-fna">Procesos de Negocio Bizagi - Cobis FNA</h4>
+<p>Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - Cobis.</p>
+<p><br></p>
+<table>
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 39%" />
+<col style="width: 13%" />
+<col style="width: 14%" />
+<col style="width: 10%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>id</strong></th>
+<th><strong>Proyecto</strong></th>
+<th><strong>Objetivo</strong></th>
+<th><strong>Tipo</strong></th>
+<th><strong>Impl.</strong></th>
+<th><strong>Depend</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>BR020</td>
+<td>Estandarización de Integración ESB FNA</td>
+<td>Disminuir los adaptadores particulares. Reemplazarlos por exposición (y gestión) de API</td>
+<td>regresivo</td>
+<td>sustitución</td>
+<td>BR10</td>
+</tr>
+<tr class="even">
+<td>BR021</td>
+<td>Servicios de negocio y recomposición</td>
+<td>Agregar servicios de negocio de soporte a los procesos de negocio Bizagi FNA. Rediseño de las composiciones de servicios que reflejen el flujo de las transacciones de negocio</td>
+<td>incremental</td>
+<td>actualizacion</td>
+<td>BR10</td>
+</tr>
+</tbody>
+</table>
 <table>
 <colgroup>
 <col style="width: 23%" />
@@ -692,7 +819,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>d899a25 del 28 Feb 2023</td>
+<td>c2a0862 del 28 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
@@ -1281,7 +1408,7 @@ C. Gobernar la arquitectura de referencia de la organización​</p>
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>d899a25 del 28 Feb 2023</td>
+<td>c2a0862 del 28 Feb 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
