@@ -680,13 +680,14 @@ content/09b. Matriz de brechas.md:77:Fondo
 content/09b. Matriz de brechas.md:77:impactadas
 content/09b. Matriz de brechas.md:77:indicados
 content/09b. Matriz de brechas.md:77:intervenidas
+content/09b. Matriz de brechas.md:77:mimsas
 content/09b. Matriz de brechas.md:77:negocio
 content/09b. Matriz de brechas.md:77:partes
 content/09b. Matriz de brechas.md:77:por
 content/09b. Matriz de brechas.md:77:por
 content/09b. Matriz de brechas.md:77:por
-content/09b. Matriz de brechas.md:77:quereridas
 content/09b. Matriz de brechas.md:77:razón
+content/09b. Matriz de brechas.md:77:requeridas
 content/09b. Matriz de brechas.md:77:ser
 content/09b. Matriz de brechas.md:77:siguiente
 content/09b. Matriz de brechas.md:77:SOA
@@ -752,6 +753,111 @@ content/09b. Matriz de brechas.md:104:Aplicaciones
 content/09b. Matriz de brechas.md:104:Externas
 content/09b. Matriz de brechas.md:104:FNA
 content/09b. Matriz de brechas.md:104:Proveedoras
+content/09b. Matriz de brechas.md:108:Análisis
+content/09b. Matriz de brechas.md:108:Bizagi
+content/09b. Matriz de brechas.md:108:Brecha
+content/09b. Matriz de brechas.md:108:Cobis
+content/09b. Matriz de brechas.md:108:Contexto
+content/09b. Matriz de brechas.md:108:Flexibilidad
+content/09b. Matriz de brechas.md:108:Negocio
+content/09b. Matriz de brechas.md:109:adaptadores
+content/09b. Matriz de brechas.md:109:aplicada
+content/09b. Matriz de brechas.md:109:caso
+content/09b. Matriz de brechas.md:109:Cobis
+content/09b. Matriz de brechas.md:109:componentes
+content/09b. Matriz de brechas.md:109:ERP
+content/09b. Matriz de brechas.md:109:estos
+content/09b. Matriz de brechas.md:109:manera
+content/09b. Matriz de brechas.md:109:negocio
+content/09b. Matriz de brechas.md:109:por
+content/09b. Matriz de brechas.md:109:procesos
+content/09b. Matriz de brechas.md:109:puede
+content/09b. Matriz de brechas.md:109:relacionan
+content/09b. Matriz de brechas.md:109:ser
+content/09b. Matriz de brechas.md:109:subyacentes
+content/09b. Matriz de brechas.md:109:sustitución
+content/09b. Matriz de brechas.md:111:Cobis
+content/09b. Matriz de brechas.md:113:análisis
+content/09b. Matriz de brechas.md:113:arquitectura
+content/09b. Matriz de brechas.md:113:Bizagi
+content/09b. Matriz de brechas.md:113:BPMS
+content/09b. Matriz de brechas.md:113:brecha
+content/09b. Matriz de brechas.md:113:contexto
+content/09b. Matriz de brechas.md:113:el
+content/09b. Matriz de brechas.md:113:el
+content/09b. Matriz de brechas.md:113:flexibilidad
+content/09b. Matriz de brechas.md:113:FNA
+content/09b. Matriz de brechas.md:113:Imagen
+content/09b. Matriz de brechas.md:113:impactados
+content/09b. Matriz de brechas.md:113:negocio
+content/09b. Matriz de brechas.md:113:negocio
+content/09b. Matriz de brechas.md:113:Partes
+content/09b. Matriz de brechas.md:113:plataforma
+content/09b. Matriz de brechas.md:113:por
+content/09b. Matriz de brechas.md:115:archimate
+content/09b. Matriz de brechas.md:119:análisis
+content/09b. Matriz de brechas.md:119:arquitectura
+content/09b. Matriz de brechas.md:119:arquitectura
+content/09b. Matriz de brechas.md:119:brecha
+content/09b. Matriz de brechas.md:119:brecha
+content/09b. Matriz de brechas.md:119:columna
+content/09b. Matriz de brechas.md:119:contexto
+content/09b. Matriz de brechas.md:119:datos
+content/09b. Matriz de brechas.md:119:deben
+content/09b. Matriz de brechas.md:119:el
+content/09b. Matriz de brechas.md:119:el
+content/09b. Matriz de brechas.md:119:ESB
+content/09b. Matriz de brechas.md:119:este
+content/09b. Matriz de brechas.md:119:flexibilidad
+content/09b. Matriz de brechas.md:119:FNA
+content/09b. Matriz de brechas.md:119:Fondo
+content/09b. Matriz de brechas.md:119:impactadas
+content/09b. Matriz de brechas.md:119:indicados
+content/09b. Matriz de brechas.md:119:intervenidas
+content/09b. Matriz de brechas.md:119:mimsas
+content/09b. Matriz de brechas.md:119:negocio
+content/09b. Matriz de brechas.md:119:partes
+content/09b. Matriz de brechas.md:119:por
+content/09b. Matriz de brechas.md:119:por
+content/09b. Matriz de brechas.md:119:por
+content/09b. Matriz de brechas.md:119:razón
+content/09b. Matriz de brechas.md:119:requeridas
+content/09b. Matriz de brechas.md:119:ser
+content/09b. Matriz de brechas.md:119:siguiente
+content/09b. Matriz de brechas.md:119:SOA
+content/09b. Matriz de brechas.md:121:brecha
+content/09b. Matriz de brechas.md:121:nombre
+content/09b. Matriz de brechas.md:121:tipo
+content/09b. Matriz de brechas.md:123:actualizacion
+content/09b. Matriz de brechas.md:123:Cobis
+content/09b. Matriz de brechas.md:124:MQ
+content/09b. Matriz de brechas.md:125:actualización
+content/09b. Matriz de brechas.md:125:Cobis
+content/09b. Matriz de brechas.md:125:Servicios
+content/09b. Matriz de brechas.md:126:Bizagi
+content/09b. Matriz de brechas.md:127:actualización
+content/09b. Matriz de brechas.md:127:Bizagi
+content/09b. Matriz de brechas.md:127:Servicios
+content/09b. Matriz de brechas.md:128:ESB
+content/09b. Matriz de brechas.md:129:Adaptador
+content/09b. Matriz de brechas.md:129:MQ
+content/09b. Matriz de brechas.md:129:Tecnologia
+content/09b. Matriz de brechas.md:130:Adaptador
+content/09b. Matriz de brechas.md:130:Cobis
+content/09b. Matriz de brechas.md:130:Integración
+content/09b. Matriz de brechas.md:130:sustitución
+content/09b. Matriz de brechas.md:131:actualización
+content/09b. Matriz de brechas.md:131:Adaptador
+content/09b. Matriz de brechas.md:131:Bizagi
+content/09b. Matriz de brechas.md:131:Integración
+content/09b. Matriz de brechas.md:132:ESB
+content/09b. Matriz de brechas.md:133:Adaptador
+content/09b. Matriz de brechas.md:133:sustitución
+content/09b. Matriz de brechas.md:133:Tecnologia
+content/09b. Matriz de brechas.md:134:errores
+content/09b. Matriz de brechas.md:134:negocio
+content/09b. Matriz de brechas.md:134:Notificar
+content/09b. Matriz de brechas.md:134:tecnicos
 content/09c. Lista de iniciativas y proyectos.md:1:brechas
 content/09c. Lista de iniciativas y proyectos.md:1:iniciativas
 content/09c. Lista de iniciativas y proyectos.md:1:iniciativas
@@ -1205,6 +1311,56 @@ content/09c. Lista de iniciativas y proyectos.md:88:técnico
 content/09c. Lista de iniciativas y proyectos.md:88:tipo
 content/09c. Lista de iniciativas y proyectos.md:88:tipo
 content/09c. Lista de iniciativas y proyectos.md:88:trabajo
+content/09c. Lista de iniciativas y proyectos.md:92:Bizagi
+content/09c. Lista de iniciativas y proyectos.md:92:Cobis
+content/09c. Lista de iniciativas y proyectos.md:92:FNA
+content/09c. Lista de iniciativas y proyectos.md:92:Negocio
+content/09c. Lista de iniciativas y proyectos.md:92:Procesos
+content/09c. Lista de iniciativas y proyectos.md:93:Bizagi
+content/09c. Lista de iniciativas y proyectos.md:93:brecha
+content/09c. Lista de iniciativas y proyectos.md:93:cierre
+content/09c. Lista de iniciativas y proyectos.md:93:Cobis
+content/09c. Lista de iniciativas y proyectos.md:93:negocio
+content/09c. Lista de iniciativas y proyectos.md:93:plataforma
+content/09c. Lista de iniciativas y proyectos.md:93:procesos
+content/09c. Lista de iniciativas y proyectos.md:93:Proyectos
+content/09c. Lista de iniciativas y proyectos.md:97:Impl
+content/09c. Lista de iniciativas y proyectos.md:97:Objetivo
+content/09c. Lista de iniciativas y proyectos.md:97:Proyecto
+content/09c. Lista de iniciativas y proyectos.md:97:Tipo
+content/09c. Lista de iniciativas y proyectos.md:99:adaptadores
+content/09c. Lista de iniciativas y proyectos.md:99:Disminuir
+content/09c. Lista de iniciativas y proyectos.md:99:ESB
+content/09c. Lista de iniciativas y proyectos.md:99:Estandarización
+content/09c. Lista de iniciativas y proyectos.md:99:exposición
+content/09c. Lista de iniciativas y proyectos.md:99:FNA
+content/09c. Lista de iniciativas y proyectos.md:99:gestión
+content/09c. Lista de iniciativas y proyectos.md:99:Integración
+content/09c. Lista de iniciativas y proyectos.md:99:particulares
+content/09c. Lista de iniciativas y proyectos.md:99:por
+content/09c. Lista de iniciativas y proyectos.md:99:Reemplazarlos
+content/09c. Lista de iniciativas y proyectos.md:99:regresivo
+content/09c. Lista de iniciativas y proyectos.md:99:sustitución
+content/09c. Lista de iniciativas y proyectos.md:100:actualizacion
+content/09c. Lista de iniciativas y proyectos.md:100:Agregar
+content/09c. Lista de iniciativas y proyectos.md:100:Bizagi
+content/09c. Lista de iniciativas y proyectos.md:100:composiciones
+content/09c. Lista de iniciativas y proyectos.md:100:el
+content/09c. Lista de iniciativas y proyectos.md:100:flujo
+content/09c. Lista de iniciativas y proyectos.md:100:FNA
+content/09c. Lista de iniciativas y proyectos.md:100:negocio
+content/09c. Lista de iniciativas y proyectos.md:100:negocio
+content/09c. Lista de iniciativas y proyectos.md:100:negocio
+content/09c. Lista de iniciativas y proyectos.md:100:negocio
+content/09c. Lista de iniciativas y proyectos.md:100:procesos
+content/09c. Lista de iniciativas y proyectos.md:100:recomposición
+content/09c. Lista de iniciativas y proyectos.md:100:Rediseño
+content/09c. Lista de iniciativas y proyectos.md:100:reflejen
+content/09c. Lista de iniciativas y proyectos.md:100:servicios
+content/09c. Lista de iniciativas y proyectos.md:100:servicios
+content/09c. Lista de iniciativas y proyectos.md:100:Servicios
+content/09c. Lista de iniciativas y proyectos.md:100:soporte
+content/09c. Lista de iniciativas y proyectos.md:100:transacciones
 content/09d10. Hub de Integración Digital.md:1:Integración
 content/09d10. Hub de Integración Digital.md:2:Objetivo
 content/09d10. Hub de Integración Digital.md:3:datos

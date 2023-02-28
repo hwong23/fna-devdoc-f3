@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-28" />
   <meta name="citation_publication_date" content="2023-02-28" />
   <meta property="article:published_time" content="2023-02-28" />
-  <meta name="dc.modified" content="2023-02-28T06:55:36+00:00" />
-  <meta property="article:modified_time" content="2023-02-28T06:55:36+00:00" />
+  <meta name="dc.modified" content="2023-02-28T11:23:10+00:00" />
+  <meta property="article:modified_time" content="2023-02-28T11:23:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/))
 versión indicada a continuación, se encuentra en 
 ****
-[d899a25](https://github.com/hwong23/fna-devdoc-f3/tree/d899a25a33686fa844a92f94da669a4e3cdd2de7)
+[c2a0862](https://github.com/hwong23/fna-devdoc-f3/tree/c2a0862840b79adc6f68ecf3d52f74b5b4d72131)
 de February 28, 2023.
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|d899a25 del 28 Feb 2023                              |
+|Version|c2a0862 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|d899a25 del 28 Feb 2023                              |
+|Version|c2a0862 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -287,7 +287,7 @@ _Fuente: ae_fna_as_is.archimate._
 
 <br>
 
-Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, quereridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna 'brecha'. 
+Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, las mimsas que son requeridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna 'brecha'. 
 
 | **nombre**                                      | **tipo**                  | **brecha**    |
 |-------------------------------------------------|---------------------------|---------------|
@@ -318,6 +318,35 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 
 <br>
 
+## Análisis de Brecha Bizagi - Cobis. Contexto Flexibilidad de Negocio
+La sustitución de adaptadores por API puede ser aplicada al caso de los procesos de negocio y la manera como estos se relacionan con los componentes subyacentes del ERP Cobis.
+
+![](images/brechaBizagi-Cobis.png)
+
+[Imagen 1.]() Partes de la arquitectura de la plataforma de negocio FNA (BPMS Bizagi) impactados por el análisis de brecha en el contexto de flexibilidad de negocio.
+
+_Fuente: ae_fna_as_is.archimate._
+
+<br>
+
+Las partes impactadas por el análisis de brecha de la arquitectura del bus de datos del FNA (ESB IBM) en el contexto de flexibilidad de negocio, y que por razón de este deben ser intervenidas por API, las mimsas que son requeridas en la arquitectura SOA 2.0 del Fondo, son los indicados en la siguiente tabla, columna 'brecha'. 
+
+| **nombre**                                     | **tipo**                  | **brecha**    |
+|------------------------------------------------|---------------------------|---------------|
+| Cobis                                          | application-component     | actualizacion |
+| MQ-Queue                                       | application-function      |               |
+| Servicios Cobis                                | application-service       | actualización |
+| Bizagi                                         | application-component     |               |
+| Servicios Bizagi                               | application-service       | actualización |
+| ESB-IBM                                        | application-component     |               |
+| Adaptador Tecnologia MQ                        | application-component     |               |
+| Adaptador Integración Cobis                    | application-component     | sustitución   |
+| Adaptador Integración Bizagi                   | application-component     | actualización |
+| FrameWork ESB                                  | application-collaboration |               |
+| Adaptador Tecnologia SOAP                      | application-component     | sustitución   |
+| Notificar errores tecnicos y de negocio (Mail) | application-component     |
+
+<br>
 
 
 | Tema           | Portafolio de iniciativas y brechas: **Lista de iniciativas y proyectos SOA** |
@@ -325,7 +354,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | d899a25 del 28 Feb 2023                                                |
+| Version        | c2a0862 del 28 Feb 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -411,6 +440,15 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 
 <br>
 
+#### Procesos de Negocio Bizagi - Cobis FNA
+Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - Cobis.
+
+<br>
+
+|**id** | **Proyecto**                            | **Objetivo** | **Tipo**      | **Impl.** | **Depend** |
+|-------|-----------------------------------------|--------------|---------------|-----------|-----------------|
+|BR020  | Estandarización de Integración ESB FNA  |Disminuir los adaptadores particulares. Reemplazarlos por exposición (y gestión) de API| regresivo   | sustitución | BR10 |
+|BR021  | Servicios de negocio y recomposición    |Agregar servicios de negocio de soporte a los procesos de negocio Bizagi FNA. Rediseño de las composiciones de servicios que reflejen el flujo de las transacciones de negocio  | incremental | actualizacion | BR10 |
 
 
 |Tema            |Portafolio de iniciativas y brechas: **Ficha descriptiva de proyectos para el segmento FNA**|
@@ -418,7 +456,7 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|d899a25 del 28 Feb 2023                              |
+|Version|c2a0862 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -961,7 +999,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|d899a25 del 28 Feb 2023                              |
+|Version|c2a0862 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
