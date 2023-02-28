@@ -1,14 +1,3 @@
-
-
-## Iniciativa E1
-### Fichas de proyecto
-
-#### Oportunidades / Retos
-#### Actores
-#### Impacto / Beneficio
-#### Alcance
-#### Tecnología
-
 ## Matriz de impacto
 ### Oportunidades / Iniciativas
 
