@@ -1618,6 +1618,295 @@ content/09d13. Gestión de Datos Maestros.md:26:Herramienta
 content/09d13. Gestión de Datos Maestros.md:26:MDM
 content/09d13. Gestión de Datos Maestros.md:27:datos
 content/09d13. Gestión de Datos Maestros.md:27:Tablero
+content/09d14. Devops.md:1:Devops
+content/09d14. Devops.md:2:Objetivo
+content/09d14. Devops.md:3:adopción
+content/09d14. Devops.md:3:crear
+content/09d14. Devops.md:3:cultura
+content/09d14. Devops.md:3:DevOps
+content/09d14. Devops.md:3:entregar
+content/09d14. Devops.md:3:fiable
+content/09d14. Devops.md:3:forma
+content/09d14. Devops.md:3:más
+content/09d14. Devops.md:3:organización
+content/09d14. Devops.md:3:permite
+content/09d14. Devops.md:3:prácticas
+content/09d14. Devops.md:3:productos
+content/09d14. Devops.md:3:rápida
+content/09d14. Devops.md:5:Oportunidades
+content/09d14. Devops.md:5:Retos
+content/09d14. Devops.md:6:administración
+content/09d14. Devops.md:6:administrados
+content/09d14. Devops.md:6:ambientes
+content/09d14. Devops.md:6:aprovisionamiento
+content/09d14. Devops.md:6:calidad
+content/09d14. Devops.md:6:código
+content/09d14. Devops.md:6:desarrollo
+content/09d14. Devops.md:6:diversos
+content/09d14. Devops.md:6:Ej
+content/09d14. Devops.md:6:El
+content/09d14. Devops.md:6:infraestructura
+content/09d14. Devops.md:6:infraestructura
+content/09d14. Devops.md:6:infraestructura
+content/09d14. Devops.md:6:podrían
+content/09d14. Devops.md:6:pre
+content/09d14. Devops.md:6:producción
+content/09d14. Devops.md:6:producción
+content/09d14. Devops.md:6:ser
+content/09d14. Devops.md:6:través
+content/09d14. Devops.md:7:ambientes
+content/09d14. Devops.md:7:aplicación
+content/09d14. Devops.md:7:canalizaciones
+content/09d14. Devops.md:7:ciclo
+content/09d14. Devops.md:7:código
+content/09d14. Devops.md:7:componentes
+content/09d14. Devops.md:7:distintos
+content/09d14. Devops.md:7:El
+content/09d14. Devops.md:7:gestiona
+content/09d14. Devops.md:7:Implementación
+content/09d14. Devops.md:7:incluyendo
+content/09d14. Devops.md:7:promoción
+content/09d14. Devops.md:7:través
+content/09d14. Devops.md:7:vida
+content/09d14. Devops.md:9:Actores
+content/09d14. Devops.md:10:Encargados
+content/09d14. Devops.md:10:infraestructura
+content/09d14. Devops.md:10:operaciones
+content/09d14. Devops.md:11:arquitectura
+content/09d14. Devops.md:11:Oficina
+content/09d14. Devops.md:12:apoyo
+content/09d14. Devops.md:12:Consultores
+content/09d14. Devops.md:12:fabricantes
+content/09d14. Devops.md:14:Beneficio
+content/09d14. Devops.md:14:Impacto
+content/09d14. Devops.md:15:calidad
+content/09d14. Devops.md:16:Aplicaciones
+content/09d14. Devops.md:16:Escalabilidad
+content/09d14. Devops.md:17:Desarrollo
+content/09d14. Devops.md:17:el
+content/09d14. Devops.md:17:Proceso
+content/09d14. Devops.md:17:Velocidad
+content/09d14. Devops.md:19:Alcance
+content/09d14. Devops.md:20:código
+content/09d14. Devops.md:20:cómo
+content/09d14. Devops.md:20:Determinar
+content/09d14. Devops.md:20:elementos
+content/09d14. Devops.md:20:hacer
+content/09d14. Devops.md:20:Infraestructura
+content/09d14. Devops.md:20:pueden
+content/09d14. Devops.md:20:susceptibles
+content/09d14. Devops.md:20:transformar
+content/09d14. Devops.md:21:Automatización
+content/09d14. Devops.md:21:herramienta
+content/09d14. Devops.md:21:Implementación
+content/09d14. Devops.md:21:Servidor
+content/09d14. Devops.md:21:una
+content/09d14. Devops.md:22:apuntar
+content/09d14. Devops.md:22:contar
+content/09d14. Devops.md:22:Continuo
+content/09d14. Devops.md:22:Despliegue
+content/09d14. Devops.md:22:gradualmente
+content/09d14. Devops.md:22:Iniciar
+content/09d14. Devops.md:22:Integración
+content/09d14. Devops.md:22:prácticas
+content/09d14. Devops.md:24:Tecnología
+content/09d14. Devops.md:25:Automatización
+content/09d14. Devops.md:25:Servidor
+content/09d14. Devops.md:26:Código
+content/09d14. Devops.md:26:fuente
+content/09d14. Devops.md:26:Repositorio
+content/09d14. Devops.md:27:Kubernetes
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:1:aplicación
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:1:Arquitectura
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:1:escalable
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:1:Nube
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:2:Objetivo
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:Alcanzar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:eficiencia
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:escalabilidad
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:mejorado
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:mejores
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:niveles
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:operativa
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:3:rendimiento
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:5:Oportunidades
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:5:Retos
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:6:Adopción
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:6:enfoque
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:6:microservicios
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:7:contenedores
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:7:Orquestación
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:8:administrados
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:8:PaaS
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:8:servicios
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:10:Actores
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:11:Encargados
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:11:infraestructura
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:11:operaciones
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:12:arquitectura
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:12:Oficina
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:13:apoyo
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:13:Consultores
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:13:fabricantes
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:15:Beneficio
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:15:Impacto
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:aprovechar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:capacidad
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:carga
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:cómputo
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:elasticidad
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:enfoque
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:Este
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:forma
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:mejor
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:nube
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:ofrece
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:permite
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:Permitir
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:requerido
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:según
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:16:soportar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:actualizaciones
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:aprovisionamiento
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:Automatizar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:demanda
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:dinámica
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:Gestión
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:nodos
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:17:tareas
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:administrativas
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:ajustes
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:aprovisionamiento
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:configuración
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:el
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:Evitar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:fallos
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:recuperación
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:respaldos
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:seguridad
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:18:tareas
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:20:Alcance
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:21:Determinar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:21:elementos
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:21:hacer
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:21:microservicios
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:21:pueden
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:21:susceptibles
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:21:transformar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:22:administrados
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:22:componentes
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:22:Identificar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:22:implementarse
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:22:pueden
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:22:servicios
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:22:servicios
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:23:arquitectura
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:23:dentro
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:23:DevOps
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:23:enfoque
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:23:esta
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:23:Integrar
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:25:Tecnología
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:26:Administrados
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:26:Servicios
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:27:Integración
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:27:sistemas
+content/09d15. Arquitectura de aplicación escalable en la​ nube.md:28:Kubernetes
+content/09d16. Infraestructura de datos de autoservicio.md:1:autoservicio
+content/09d16. Infraestructura de datos de autoservicio.md:1:datos
+content/09d16. Infraestructura de datos de autoservicio.md:1:Infraestructura
+content/09d16. Infraestructura de datos de autoservicio.md:2:Objetivo
+content/09d16. Infraestructura de datos de autoservicio.md:3:iniciativa
+content/09d16. Infraestructura de datos de autoservicio.md:3:nivel
+content/09d16. Infraestructura de datos de autoservicio.md:3:Soportar
+content/09d16. Infraestructura de datos de autoservicio.md:3:técnico
+content/09d16. Infraestructura de datos de autoservicio.md:5:Oportunidades
+content/09d16. Infraestructura de datos de autoservicio.md:5:Retos
+content/09d16. Infraestructura de datos de autoservicio.md:6:Gestión
+content/09d16. Infraestructura de datos de autoservicio.md:6:seguridad
+content/09d16. Infraestructura de datos de autoservicio.md:7:existentes
+content/09d16. Infraestructura de datos de autoservicio.md:7:Integración
+content/09d16. Infraestructura de datos de autoservicio.md:7:sistemas
+content/09d16. Infraestructura de datos de autoservicio.md:8:datos
+content/09d16. Infraestructura de datos de autoservicio.md:8:Escalabilidad
+content/09d16. Infraestructura de datos de autoservicio.md:8:nube
+content/09d16. Infraestructura de datos de autoservicio.md:8:Plataformas
+content/09d16. Infraestructura de datos de autoservicio.md:10:Actores
+content/09d16. Infraestructura de datos de autoservicio.md:11:Encargados
+content/09d16. Infraestructura de datos de autoservicio.md:11:infraestructura
+content/09d16. Infraestructura de datos de autoservicio.md:11:operaciones
+content/09d16. Infraestructura de datos de autoservicio.md:12:Arquitecto
+content/09d16. Infraestructura de datos de autoservicio.md:12:arquitectura
+content/09d16. Infraestructura de datos de autoservicio.md:12:datos
+content/09d16. Infraestructura de datos de autoservicio.md:12:Oficina
+content/09d16. Infraestructura de datos de autoservicio.md:13:apoyo
+content/09d16. Infraestructura de datos de autoservicio.md:13:Consultores
+content/09d16. Infraestructura de datos de autoservicio.md:13:fabricantes
+content/09d16. Infraestructura de datos de autoservicio.md:15:Beneficio
+content/09d16. Infraestructura de datos de autoservicio.md:15:Impacto
+content/09d16. Infraestructura de datos de autoservicio.md:16:área
+content/09d16. Infraestructura de datos de autoservicio.md:16:aspectos
+content/09d16. Infraestructura de datos de autoservicio.md:16:cada
+content/09d16. Infraestructura de datos de autoservicio.md:16:dominio
+content/09d16. Infraestructura de datos de autoservicio.md:16:el
+content/09d16. Infraestructura de datos de autoservicio.md:16:El
+content/09d16. Infraestructura de datos de autoservicio.md:16:equipo
+content/09d16. Infraestructura de datos de autoservicio.md:16:está
+content/09d16. Infraestructura de datos de autoservicio.md:16:evolución
+content/09d16. Infraestructura de datos de autoservicio.md:16:involucrada
+content/09d16. Infraestructura de datos de autoservicio.md:16:mapa
+content/09d16. Infraestructura de datos de autoservicio.md:16:ruta
+content/09d16. Infraestructura de datos de autoservicio.md:16:soportar
+content/09d16. Infraestructura de datos de autoservicio.md:16:técnicos
+content/09d16. Infraestructura de datos de autoservicio.md:17:Cambio
+content/09d16. Infraestructura de datos de autoservicio.md:17:este
+content/09d16. Infraestructura de datos de autoservicio.md:17:monitorear
+content/09d16. Infraestructura de datos de autoservicio.md:17:operar
+content/09d16. Infraestructura de datos de autoservicio.md:17:tecnología
+content/09d16. Infraestructura de datos de autoservicio.md:17:tipo
+content/09d16. Infraestructura de datos de autoservicio.md:18:aplicaciones
+content/09d16. Infraestructura de datos de autoservicio.md:18:asignar
+content/09d16. Infraestructura de datos de autoservicio.md:18:autoservicio
+content/09d16. Infraestructura de datos de autoservicio.md:18:capacidad
+content/09d16. Infraestructura de datos de autoservicio.md:18:conlleva
+content/09d16. Infraestructura de datos de autoservicio.md:18:datos
+content/09d16. Infraestructura de datos de autoservicio.md:18:datos
+content/09d16. Infraestructura de datos de autoservicio.md:18:dominios
+content/09d16. Infraestructura de datos de autoservicio.md:18:El
+content/09d16. Infraestructura de datos de autoservicio.md:18:petición
+content/09d16. Infraestructura de datos de autoservicio.md:18:plataforma
+content/09d16. Infraestructura de datos de autoservicio.md:18:proporcionar
+content/09d16. Infraestructura de datos de autoservicio.md:18:recursos
+content/09d16. Infraestructura de datos de autoservicio.md:20:Alcance
+content/09d16. Infraestructura de datos de autoservicio.md:21:cuente
+content/09d16. Infraestructura de datos de autoservicio.md:21:herramientas
+content/09d16. Infraestructura de datos de autoservicio.md:21:iniciativas
+content/09d16. Infraestructura de datos de autoservicio.md:21:organización
+content/09d16. Infraestructura de datos de autoservicio.md:21:proveedores
+content/09d16. Infraestructura de datos de autoservicio.md:21:Selección
+content/09d16. Infraestructura de datos de autoservicio.md:21:tecnologías
+content/09d16. Infraestructura de datos de autoservicio.md:22:adecuados
+content/09d16. Infraestructura de datos de autoservicio.md:22:calidad
+content/09d16. Infraestructura de datos de autoservicio.md:22:datos
+content/09d16. Infraestructura de datos de autoservicio.md:22:Establecer
+content/09d16. Infraestructura de datos de autoservicio.md:22:estén
+content/09d16. Infraestructura de datos de autoservicio.md:22:garantizar
+content/09d16. Infraestructura de datos de autoservicio.md:22:políticas
+content/09d16. Infraestructura de datos de autoservicio.md:22:procedimientos
+content/09d16. Infraestructura de datos de autoservicio.md:22:protegidos
+content/09d16. Infraestructura de datos de autoservicio.md:23:adecuadamente
+content/09d16. Infraestructura de datos de autoservicio.md:23:el
+content/09d16. Infraestructura de datos de autoservicio.md:23:FinOps
+content/09d16. Infraestructura de datos de autoservicio.md:23:gasto
+content/09d16. Infraestructura de datos de autoservicio.md:23:Modelo
+content/09d16. Infraestructura de datos de autoservicio.md:23:Monitorear
+content/09d16. Infraestructura de datos de autoservicio.md:23:operación
+content/09d16. Infraestructura de datos de autoservicio.md:25:Tecnología
+content/09d16. Infraestructura de datos de autoservicio.md:26:Administrados
+content/09d16. Infraestructura de datos de autoservicio.md:26:Servicios
+content/09d16. Infraestructura de datos de autoservicio.md:27:Integración
+content/09d16. Infraestructura de datos de autoservicio.md:27:sistemas
+content/09d16. Infraestructura de datos de autoservicio.md:28:Microservicios
 content/09d1. API Crédito Constructor.md:1:Crédito
 content/09d1. API Crédito Constructor.md:2:Objetivo
 content/09d1. API Crédito Constructor.md:3:Actualizar

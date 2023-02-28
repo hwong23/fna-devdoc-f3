@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-27'
+date-meta: '2023-02-28'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-27" />
-  <meta name="citation_publication_date" content="2023-02-27" />
-  <meta property="article:published_time" content="2023-02-27" />
-  <meta name="dc.modified" content="2023-02-27T23:52:42+00:00" />
-  <meta property="article:modified_time" content="2023-02-27T23:52:42+00:00" />
+  <meta name="dc.date" content="2023-02-28" />
+  <meta name="citation_publication_date" content="2023-02-28" />
+  <meta property="article:published_time" content="2023-02-28" />
+  <meta name="dc.modified" content="2023-02-28T06:55:36+00:00" />
+  <meta property="article:modified_time" content="2023-02-28T06:55:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/d899a25a33686fa844a92f94da669a4e3cdd2de7/))
 versión indicada a continuación, se encuentra en 
 ****
-[596ec68](https://github.com/hwong23/fna-devdoc-f3/tree/596ec68edabfd119d1c3ce1bf1eaf08648ce09fe)
-de February 27, 2023.
+[d899a25](https://github.com/hwong23/fna-devdoc-f3/tree/d899a25a33686fa844a92f94da669a4e3cdd2de7)
+de February 28, 2023.
 
 
 
@@ -159,7 +159,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|596ec68 del 27 Feb 2023                              |
+|Version|d899a25 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +216,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|596ec68 del 27 Feb 2023                              |
+|Version|d899a25 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -325,7 +325,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 596ec68 del 27 Feb 2023                                                |
+| Version        | d899a25 del 28 Feb 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -418,7 +418,7 @@ _El tipo de proyeto_ indica el riesgo técnico que causará en la operación de 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|596ec68 del 27 Feb 2023                              |
+|Version|d899a25 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -576,6 +576,101 @@ Implementar  una estrategia de gestión de datos compartidos para conocer objeti
 #### Tecnología
 - Herramienta de Master Data Management MDM
 - Tablero de control de datos maestros
+
+<br>
+
+
+### Devops
+#### Objetivo
+La adopción de la cultura y prácticas de Development Operations (DevOps) permite a la organización crear y entregar productos de software de forma más rápida y fiable
+
+#### Oportunidades / Retos
+- El aprovisionamiento y la administración de la infraestructura:   Los diversos ambientes de infraestructura (Ej. desarrollo, calidad, pre-producción y producción) podrían ser administrados a través de infraestructura como código
+- Implementación del código de la aplicación: El ciclo de vida de los componentes incluyendo la promoción en los distintos ambientes se gestiona a través de "pipelines"(o canalizaciones)
+	
+#### Actores
+- Encargados de infraestructura y operaciones
+- Oficina de arquitectura
+- Consultores / fabricantes de apoyo
+	
+#### Impacto / Beneficio
+- Software de mayor calidad
+- Escalabilidad de las Aplicaciones​
+- Velocidad en el Proceso de Desarrollo de Software ​
+	
+#### Alcance
+- Determinar los elementos que son susceptibles de transformar o que pueden hacer uso de Infraestructura cómo código
+- Implementación de una herramienta de "Servidor de Automatización"
+- Iniciar con prácticas de 'Integración Continua' y gradualmente apuntar a contar con 'Despliegue Continuo'
+
+#### Tecnología
+- Servidor de Automatización
+- Repositorio de Código fuente
+- Kubernetes
+
+<br>
+
+
+### Arquitectura de aplicación escalable en la​ Nube
+#### Objetivo
+Alcanzar mejores niveles de eficiencia operativa, mayor escalabilidad y rendimiento mejorado​
+
+#### Oportunidades / Retos
+- Adopción de un enfoque de microservicios ​
+- Orquestación de contenedores
+- Uso de servicios administrados (PaaS)
+	
+#### Actores
+- Encargados de infraestructura y operaciones
+- Oficina de arquitectura
+- Consultores / fabricantes de apoyo
+	
+#### Impacto / Beneficio
+- Permitir capacidad de cómputo particular según sea requerido para soportar la carga. Este enfoque permite aprovechar de mejor forma la elasticidad que ofrece la nube.
+- Automatizar tareas como parches,  aprovisionamiento de nodos y actualizaciones.  Gestión dinámica con base a la demanda.
+- Evitar tareas administrativas, como el aprovisionamiento de hardware, parches de software, configuración, ajustes, recuperación de fallos y respaldos de seguridad​
+	
+#### Alcance
+- Determinar los elementos que son susceptibles de transformar o que pueden hacer uso de microservicios
+- Identificar los servicios o componentes que pueden implementarse como 'servicios administrados'
+- Integrar esta arquitectura dentro del enfoque DevOps
+
+#### Tecnología
+- Servicios Administrados
+- Integración de sistemas
+- Kubernetes
+
+<br>
+
+
+### Infraestructura de datos de autoservicio
+#### Objetivo
+Soportar a nivel técnico la iniciativa de 'Data Mesh'​
+
+#### Oportunidades / Retos
+- Gestión de la seguridad​
+- Integración con sistemas existentes
+- Plataformas de datos en la nube / Escalabilidad​
+	
+#### Actores
+- Encargados de infraestructura y operaciones
+- Oficina de arquitectura / Arquitecto de datos​
+- Consultores / fabricantes de apoyo
+	
+#### Impacto / Beneficio
+- El área de IT solo está involucrada en aspectos técnicos y soportar la evolución con base en el mapa de ruta de "Data mesh" y cada equipo de dominio.
+- Cambio cultural para operar y monitorear este tipo de tecnología. 
+- El autoservicio conlleva la capacidad de proporcionar y asignar los recursos de hardware y aplicaciones de la plataforma de datos a petición de los dominios de datos.
+	
+#### Alcance
+- Selección de herramientas y tecnologías con base en las iniciativas y proveedores con los que cuente la organización
+- Establecer políticas y procedimientos adecuados para garantizar que los datos estén protegidos y sean de alta calidad​
+- Monitorear adecuadamente el gasto (Modelo de operación FinOps)
+
+#### Tecnología
+- Servicios Administrados
+- Integración de sistemas
+- Microservicios
 
 <br>
 
@@ -866,7 +961,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|596ec68 del 27 Feb 2023                              |
+|Version|d899a25 del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
