@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-28" />
   <meta name="citation_publication_date" content="2023-02-28" />
   <meta property="article:published_time" content="2023-02-28" />
-  <meta name="dc.modified" content="2023-02-28T11:23:10+00:00" />
-  <meta property="article:modified_time" content="2023-02-28T11:23:10+00:00" />
+  <meta name="dc.modified" content="2023-02-28T11:35:59+00:00" />
+  <meta property="article:modified_time" content="2023-02-28T11:35:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/043c08f07a258ebc317ea6676f936c35aba9d12f/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/043c08f07a258ebc317ea6676f936c35aba9d12f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/043c08f07a258ebc317ea6676f936c35aba9d12f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/c2a0862840b79adc6f68ecf3d52f74b5b4d72131/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/043c08f07a258ebc317ea6676f936c35aba9d12f/))
 versión indicada a continuación, se encuentra en 
 ****
-[c2a0862](https://github.com/hwong23/fna-devdoc-f3/tree/c2a0862840b79adc6f68ecf3d52f74b5b4d72131)
+[043c08f](https://github.com/hwong23/fna-devdoc-f3/tree/043c08f07a258ebc317ea6676f936c35aba9d12f)
 de February 28, 2023.
 
 
@@ -122,8 +122,6 @@ de February 28, 2023.
 ***
 
 
-#### PR9. Portafolio de iniciativas y brechas
-
 # Fase 3: SOA Objetivo
 # Contenido de los Productos Contractuales, 181-2020
 
@@ -159,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|c2a0862 del 28 Feb 2023                              |
+|Version|043c08f del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -216,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|c2a0862 del 28 Feb 2023                              |
+|Version|043c08f del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -354,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | c2a0862 del 28 Feb 2023                                                |
+| Version        | 043c08f del 28 Feb 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -456,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|c2a0862 del 28 Feb 2023                              |
+|Version|043c08f del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -999,7 +997,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|c2a0862 del 28 Feb 2023                              |
+|Version|043c08f del 28 Feb 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
