@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-07" />
   <meta name="citation_publication_date" content="2023-03-07" />
   <meta property="article:published_time" content="2023-03-07" />
-  <meta name="dc.modified" content="2023-03-07T21:38:28+00:00" />
-  <meta property="article:modified_time" content="2023-03-07T21:38:28+00:00" />
+  <meta name="dc.modified" content="2023-03-07T22:12:46+00:00" />
+  <meta property="article:modified_time" content="2023-03-07T22:12:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2e44fd4a5a8bfbdf68ecdeec1aae9bd039460ced/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2e44fd4a5a8bfbdf68ecdeec1aae9bd039460ced/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2e44fd4a5a8bfbdf68ecdeec1aae9bd039460ced/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/2e44fd4a5a8bfbdf68ecdeec1aae9bd039460ced/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/))
 versión indicada a continuación, se encuentra en 
 ****
-[2e44fd4](https://github.com/hwong23/fna-devdoc-f3/tree/2e44fd4a5a8bfbdf68ecdeec1aae9bd039460ced)
+[2e5b5cf](https://github.com/hwong23/fna-devdoc-f3/tree/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4)
 de March 7, 2023.
 
 
@@ -157,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e44fd4 del 07 Mar 2023                              |
+|Version|2e5b5cf del 07 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -214,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e44fd4 del 07 Mar 2023                              |
+|Version|2e5b5cf del 07 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 2e44fd4 del 07 Mar 2023                                                |
+| Version        | 2e5b5cf del 07 Mar 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -454,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e44fd4 del 07 Mar 2023                              |
+|Version|2e5b5cf del 07 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -997,7 +997,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e44fd4 del 07 Mar 2023                              |
+|Version|2e5b5cf del 07 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1097,13 +1097,13 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e44fd4 del 07 Mar 2023                              |
+|Version|2e5b5cf del 07 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ## Plan de Comisionamiento e Implementación de Infraestrutura
-A partir de la comparativa de la industria (ver Fase 2, ...), y de otros diagnósticos de fases anterior de este ejercicio, como el dominio de infraestructura (...) de la arquitectura de referencia (...), la vigilancia y avances de la industria (...), encontramos los siguientes proyectos de infraestructura a incluir en el plan de comisionamiento o adquisición de tecnología del FNA.
+A partir de la comparativa de la industria (ver Fase 2, [05a. Comparativa FNA industria](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)), y de otros diagnósticos de fases anterior de este ejercicio, como el dominio de infraestructura ([08c. Dominio de infraestructura](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)) de la arquitectura de referencia ([08a. Arquitectura-referencia-v2](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)), la vigilancia y avances de la industria ([07b. Vigilancia avances de la industria](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)), encontramos los siguientes proyectos de infraestructura a incluir en el plan de comisionamiento o adquisición de tecnología del FNA.
 
 Conjugando todos los diagnósticos indicados, listamos los proyectos de adquisición y/o montaje de infraestructura requeridos para el plan de comisionamiento o adquisición tecnológica del FNA.
 
@@ -1115,6 +1115,14 @@ Adquisición de licencias de la herramienta de modelado de arquitectura y de her
 ### Gobierno SOA
 Adicional a la infraestructura de software relacionado con el Gobierno SOA, el FNA debe considerar en su plan de adquisición de tecnología e infraestructura las indicadas a continuación: 
 (Arquitectura de referencia SOA) servidores de aplicación y funciones de nube sin servidor para implementar la mejora de servicios SOA incorporada en la arquitectura de referencia 2.0 (_service mesh_), servidores o servicios de aplicación para la implementación de GraphQL, y una subscripción individual adicional con el proveedor de nube (CSP) adjudicado al FNA. Sumamos a estas adquisiciones de infraestrctura otras de índole operativa, pero complementarias, e igualmente necesarias. Se tratan de las herramienta y licencias de documentación y generación de contenido técnico, como manuales, procedimientos, lecciones, configuración de componentes, entre otros.
+
+Como un apéndice del plan de adquisición que estamos recomendando al FNA, se encuentran la contratación de los recursos de capital humano que entran en la operación del gobierno SOA. Sin bien, esto no es infraestructura, sí son recursos que la operan. El equipo de trabajo requerido conforme el modelo de gobierno SOA presentado aquí se compone del capital humano en los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones de solución y herramientas de software, y del especialista de las estructuras de datos e información del negocio. 
+
+![](images/equipo-gob.png)
+
+[Imagen 2.]() Roles y Grupos de trabajo del gobierno SOA del FNA.
+
+_Fuente: elaboración propia._
 
 <br>
 
@@ -1129,6 +1137,60 @@ La adquisición tecnológica que el FNA debe hacer para cumplir con este punto, 
 Como segunda adquisición, ahora respecto a la gestión de contenedores, es requerido las licencias (plan) de gestión de Kubernetes, como Kubecost. 
 
 En un tercer nivel de adquisición se encuentran las herramientas para monitoreo de la operación, gestión de alarmas y notificaciones y consumo de infraestructura que complemente a las actuales del FNA, y que sean compatibles con la arquitectura de referencia SOA 2.0. Para este efecto, y de manera puntual, estamos recomendando New Relic, por las capacidades de monitoreo del rendimiento de aplicaciones, de la observabilidad, y de la infraestructura.
+
+<br>
+
+## Detalles de Implementación de Infraestrutura
+A manera de detalle de lo que implican los proyectos del plan de comisionamiento o adquisición tecnológica del FNA delineado arriba, presentamos las vista de información de componentes e infraestructura de las soluciones relacionadas en dichos proyectos. 
+
+### Arquitecturas Orientadas a Eventos
+
+Sin duda alguna el mecanismo de comunicación más utilizado en
+arquitectura orientadas a componentes y servicios es el mecanismo
+conocido como request-reply. Es decir, comunicaciones basadas en
+transferencia sincrónica de información. Este mecanismo implica en
+general, la comunicación entre un servicio consumidor y un servicio
+proveedor. El servicio consumidor, debe inicialmente localizar al
+servicio consumidor (posiblemente con ayuda de un ESB) y ejecutar una
+petición al servicio proveedor. A través de protocolos como SOAP la
+comunicación se establece y el intercambio de información comienza
+(posiblemente en datos usando formatos en XML).
+
+En el esquema de comunicación basado en mensajes tres son los conceptos de
+suma importancia: Eventos, Queries y Comandos.
+
+Los eventos, en una Arquitectura orientada por eventos (EDA) representan
+hechos cumplidos, que desean ser notificados de manera asíncrona a los
+demás servicios participantes de una solución.
+
+![](./images/media/image8.png){width="3.466666666666667in"
+height="2.8958333333333335in"}
+
+Las consultas, representan peticiones a un servicio, que no tienen
+efecto de borde.
+
+![](./images/media/image9.png){width="3.738888888888889in"
+height="3.0625in"}
+
+<br>
+
+Los comandos, representan una intención de cambio en el estado de la
+solución. Los comandos son solicitudes que pueden o no ejecutarse, no se
+tiene certeza de su cumplimiento. En cualquier caso, el resultado de
+ejecución de un comando, puede tener como resultado un evento
+notificando a los interesados el resultado obtenido.
+
+![](./images/media/image10.png){width="4.132638888888889in" height="3.0131944444444443in"}
+
+<br>
+
+![](./images/media/image11.png){width="2.9868055555555557in"
+height="2.558333333333333in"}
+
+<br>
+
+La figura anterior, muestra el esquema de comunicación fundamental en
+las arquitecturas orientadas a eventos. Para ver los detalles completos de este proyecto que por este estudio hemos consignado, ver [...](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md))
 
 <br>
 
