@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-08" />
   <meta name="citation_publication_date" content="2023-03-08" />
   <meta property="article:published_time" content="2023-03-08" />
-  <meta name="dc.modified" content="2023-03-08T15:45:09+00:00" />
-  <meta property="article:modified_time" content="2023-03-08T15:45:09+00:00" />
+  <meta name="dc.modified" content="2023-03-08T15:47:50+00:00" />
+  <meta property="article:modified_time" content="2023-03-08T15:47:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/))
 versión indicada a continuación, se encuentra en 
 ****
-[a8e0f9a](https://github.com/hwong23/fna-devdoc-f3/tree/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585)
+[567291e](https://github.com/hwong23/fna-devdoc-f3/tree/567291e6c3336a98a903624f9d4d58e3cf154983)
 de March 8, 2023.
 
 
@@ -157,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|a8e0f9a del 08 Mar 2023                              |
+|Version|567291e del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -214,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|a8e0f9a del 08 Mar 2023                              |
+|Version|567291e del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | a8e0f9a del 08 Mar 2023                                                |
+| Version        | 567291e del 08 Mar 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -454,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|a8e0f9a del 08 Mar 2023                              |
+|Version|567291e del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -997,7 +997,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|a8e0f9a del 08 Mar 2023                              |
+|Version|567291e del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1097,7 +1097,7 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|a8e0f9a del 08 Mar 2023                              |
+|Version|567291e del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1215,6 +1215,8 @@ height="1.3225918635170604in"}
 Tomado de:
 https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh
 
+<br>
+
 En un esquema service mesh, cada servicio es acompañado de un proxy
 (llamado sidecar), este proxy se encarga de gestionar toda la seguridad,
 disponibilidad y escalabilidad, de forma que los servicios no tengan que
@@ -1225,6 +1227,8 @@ height="1.29834208223972in"}
 
 Tomado de:
 https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh
+
+<br>
 
 La siguiente figura resume lo antes expuesto, donde además se ilustran
 los dos elementos fundamentales de este esquema: data plane y control
@@ -1271,7 +1275,6 @@ height="3.0198906386701663in"}
 <br>
 
 ### Hub de Integración Digital (DIH)
-
 Un DIH es un estilo de arquitectura que busca desacoplar sistemas de
 información en un ecosistema de TI. No solo a nivel de flujo de control
 sino también a nivel de datos, adicionando una capa de datos de muy baja
@@ -1291,8 +1294,7 @@ Esta arquitectura permite la práctica de técnicas DevOps, como la
 integración y despliegue continuo. Adicionalmente, esta arquitectura se
 enfoca en la recolección de datos desde múltiples fuentes de datos.
 
-El término DIH fue propuesto por Gartner unos años atrás. En las
-siguiente figuras, podemos apreciar la comparación realizada en el
+En las siguiente figuras podemos apreciar la comparación realizada en el
 informe original de Gartner, entre una arquitectura tradicional basada
 en APIS en la primera figura y una arquitectura basada en DIH en la
 segunda figura.
