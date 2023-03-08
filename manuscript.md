@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-03-07'
+date-meta: '2023-03-08'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-03-07" />
-  <meta name="citation_publication_date" content="2023-03-07" />
-  <meta property="article:published_time" content="2023-03-07" />
-  <meta name="dc.modified" content="2023-03-07T22:12:46+00:00" />
-  <meta property="article:modified_time" content="2023-03-07T22:12:46+00:00" />
+  <meta name="dc.date" content="2023-03-08" />
+  <meta name="citation_publication_date" content="2023-03-08" />
+  <meta property="article:published_time" content="2023-03-08" />
+  <meta name="dc.modified" content="2023-03-08T15:45:09+00:00" />
+  <meta property="article:modified_time" content="2023-03-08T15:45:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585/))
 versión indicada a continuación, se encuentra en 
 ****
-[2e5b5cf](https://github.com/hwong23/fna-devdoc-f3/tree/2e5b5cf7d598efc0dc26f8acefd4a84265ea96f4)
-de March 7, 2023.
+[a8e0f9a](https://github.com/hwong23/fna-devdoc-f3/tree/a8e0f9a59d0a734855f0ad21d48fcc6730fd9585)
+de March 8, 2023.
 
 
 
@@ -157,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e5b5cf del 07 Mar 2023                              |
+|Version|a8e0f9a del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -214,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e5b5cf del 07 Mar 2023                              |
+|Version|a8e0f9a del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 2e5b5cf del 07 Mar 2023                                                |
+| Version        | a8e0f9a del 08 Mar 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -454,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e5b5cf del 07 Mar 2023                              |
+|Version|a8e0f9a del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -997,7 +997,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e5b5cf del 07 Mar 2023                              |
+|Version|a8e0f9a del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1097,7 +1097,7 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|2e5b5cf del 07 Mar 2023                              |
+|Version|a8e0f9a del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1194,4 +1194,124 @@ las arquitecturas orientadas a eventos. Para ver los detalles completos de este 
 
 <br>
 
+### Service Mesh
+
+En los esquemas de comunicación sincrónica, donde los servicios
+localizan otros servicios y envían peticiones sincrónicas (conteniendo
+comandos o consultas). Uno de los problemas que pueden surgir, tienen
+que ver con la necesidad de satisfacer diferentes requisitos de calidad,
+como la seguridad, la disponibilidad y la escalabilidad. Varias de esos
+requisitos se resuelven con diferentes componentes, como, por ejemplo,
+los balanceadores de carga, herramientas de replicación y de
+autorización y autenticación. Adicionalmente, cada servicio implementa
+en su lógica, ciertas funcionalidades para manejar este tipo de
+requisitos, haciendo la complejidad y el mantenimiento de las
+aplicaciones más complejo. Este escenario se ilustra en la siguiente
+figura.
+
+![](./images/media/image12.png){width="2.9808464566929134in"
+height="1.3225918635170604in"}
+
+Tomado de:
+https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh
+
+En un esquema service mesh, cada servicio es acompañado de un proxy
+(llamado sidecar), este proxy se encarga de gestionar toda la seguridad,
+disponibilidad y escalabilidad, de forma que los servicios no tengan que
+preocuparse por estos elementos. La siguiente figura ilustra esta idea.
+
+![](./images/media/image13.png){width="3.053390201224847in"
+height="1.29834208223972in"}
+
+Tomado de:
+https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh
+
+La siguiente figura resume lo antes expuesto, donde además se ilustran
+los dos elementos fundamentales de este esquema: data plane y control
+plane.
+
+El término data plane, se refiere a los proxies (sidecars) asociados a
+cada microservicio. El control plane se encarga de gobernar los proxies
+asociados a los microservicios.
+
+![](./images/media/image14.png){width="4.0495778652668415in"
+height="1.748759842519685in"}
+
+Tomado de:
+https://www.techtarget.com/searchitoperations/definition/service-mesh
+
+<br>
+
+### Plataforma de Integración Híbrida (HIP)
+
+Sin duda alguna tanto las tecnologías basadas en APIs y consumos de
+servicios síncronos han sido y seguirán siendo pieza clave en las
+arquitecturas de integración y orquestación de servicios. Las
+organizaciones han realizado inversiones altas en la instalación y
+mantenimiento de infraestructura como ESBs sin contar las múltiples
+soluciones que hoy día se manejan basadas en este esquema de
+comunicación.
+
+De otra parte, los mecanismos de sincronización y comunicación
+asíncronos, basados primordialmente en colas de mensajes, se vienen
+posicionando como una alternativa cada vez más seria a los buses de
+servicios tradicionales.
+
+Las plataformas de integración híbridas (HIP) se posicionan cada vez más
+como una forma de conciliar las estrategias de integración tradicionales
+y las nuevas tendencias orientadas a eventos. Estas plataformas
+propenden por la transferencia de estado entre sistema de información
+utilizando las plataformas de mensajería y la consulta de información de
+forma sincrónica sobre copias con ventanas de consistencia (consistencia
+eventual)
+
+![](./images/media/image15.png){width="4.3313156167979in"
+height="3.0198906386701663in"}
+
+<br>
+
+### Hub de Integración Digital (DIH)
+
+Un DIH es un estilo de arquitectura que busca desacoplar sistemas de
+información en un ecosistema de TI. No solo a nivel de flujo de control
+sino también a nivel de datos, adicionando una capa de datos de muy baja
+latencia. Adicionalmente se propone una mezcla de los tipos de
+conectores expuestos anteriormente. En primer lugar, se cuenta con un
+API de desacoplamiento. Los DIH permiten trabajar en esquemas híbridos,
+con despliegues on-premises y despliegues en cloud.
+
+![](./images/media/image16.png){width="4.072457349081365in"
+height="3.013879046369204in"}
+
+Tomado de: https://www.gigaspaces.com/blog/digital-integration-hub-dih/
+
+<br>
+
+Esta arquitectura permite la práctica de técnicas DevOps, como la
+integración y despliegue continuo. Adicionalmente, esta arquitectura se
+enfoca en la recolección de datos desde múltiples fuentes de datos.
+
+El término DIH fue propuesto por Gartner unos años atrás. En las
+siguiente figuras, podemos apreciar la comparación realizada en el
+informe original de Gartner, entre una arquitectura tradicional basada
+en APIS en la primera figura y una arquitectura basada en DIH en la
+segunda figura.
+
+![](./images/media/image17.png){width="3.864676290463692in"
+height="2.424093394575678in"}
+
+Tomado de:
+https://mindovermessaging.com/2022/03/29/maximising-your-apis-with-a-digital-integration-hub/
+
+![](./images/media/image18.png){width="3.8965157480314963in"
+height="2.9486122047244097in"}
+
+Tomado de:
+https://mindovermessaging.com/2022/03/29/maximising-your-apis-with-a-digital-integration-hub/
+
+En el esquema basado en DIH la diferencia fundamental radica en una
+nueva capa ubicada entre el API Gateway y los microservicios y la
+plataforma híbrida de integración. Esta capa denominada High Performance
+Data Store (HPDS). Esta capa se alimenta a partir de la plataforma de
+integración, usualmente utilizando un esquema basado en eventos.
 
