@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-08" />
   <meta name="citation_publication_date" content="2023-03-08" />
   <meta property="article:published_time" content="2023-03-08" />
-  <meta name="dc.modified" content="2023-03-08T15:47:50+00:00" />
-  <meta property="article:modified_time" content="2023-03-08T15:47:50+00:00" />
+  <meta name="dc.modified" content="2023-03-08T20:44:24+00:00" />
+  <meta property="article:modified_time" content="2023-03-08T20:44:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/d59eade6d552046ceff87345d2ba98fa18acc67d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d59eade6d552046ceff87345d2ba98fa18acc67d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/d59eade6d552046ceff87345d2ba98fa18acc67d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/567291e6c3336a98a903624f9d4d58e3cf154983/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/d59eade6d552046ceff87345d2ba98fa18acc67d/))
 versión indicada a continuación, se encuentra en 
 ****
-[567291e](https://github.com/hwong23/fna-devdoc-f3/tree/567291e6c3336a98a903624f9d4d58e3cf154983)
+[d59eade](https://github.com/hwong23/fna-devdoc-f3/tree/d59eade6d552046ceff87345d2ba98fa18acc67d)
 de March 8, 2023.
 
 
@@ -157,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|567291e del 08 Mar 2023                              |
+|Version|d59eade del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -214,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|567291e del 08 Mar 2023                              |
+|Version|d59eade del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 567291e del 08 Mar 2023                                                |
+| Version        | d59eade del 08 Mar 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -454,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|567291e del 08 Mar 2023                              |
+|Version|d59eade del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -997,7 +997,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|567291e del 08 Mar 2023                              |
+|Version|d59eade del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1097,7 +1097,7 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|567291e del 08 Mar 2023                              |
+|Version|d59eade del 08 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1137,6 +1137,14 @@ La adquisición tecnológica que el FNA debe hacer para cumplir con este punto, 
 Como segunda adquisición, ahora respecto a la gestión de contenedores, es requerido las licencias (plan) de gestión de Kubernetes, como Kubecost. 
 
 En un tercer nivel de adquisición se encuentran las herramientas para monitoreo de la operación, gestión de alarmas y notificaciones y consumo de infraestructura que complemente a las actuales del FNA, y que sean compatibles con la arquitectura de referencia SOA 2.0. Para este efecto, y de manera puntual, estamos recomendando New Relic, por las capacidades de monitoreo del rendimiento de aplicaciones, de la observabilidad, y de la infraestructura.
+
+En caso de adoptar una estrategía de microservicios se sugiere implementar tecnologías de 'Service Mesh' que permitan obtener mayor información y control. Se puede elegír implementar soluciones open source (Ej. Istio) y así mismo las versiones personalizadas en servicios administrador ofrecidas por diferentes proveedores en la nube.
+
+<br>
+
+### Infraestructura de datos de autoservicio
+Con el fin de llegar a soportar enfoques de gestión de datos como 'Malla de Datos'(Data Mesh) se puede revisar la infraestructura interna y proveedores actuales para saber con que elementos(datos, gobierno, procesamiento de información, etc) se cuentan que puedan sirvan para completar la arquitectura requerida. 
+Mediante servicios administrados en la nube se puede adquirir todos los servicios o aquellos que hagan falta para lograr contar con "Infraestructura de datos de autoservicio". A continuación algunos proveedores que ofrecen los servicios o plataformas completas: SAP, Microsoft(Azure), Google Cloud, Amazon AWS.
 
 <br>
 
