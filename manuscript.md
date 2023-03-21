@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-21" />
   <meta name="citation_publication_date" content="2023-03-21" />
   <meta property="article:published_time" content="2023-03-21" />
-  <meta name="dc.modified" content="2023-03-21T16:30:31+00:00" />
-  <meta property="article:modified_time" content="2023-03-21T16:30:31+00:00" />
+  <meta name="dc.modified" content="2023-03-21T16:39:17+00:00" />
+  <meta property="article:modified_time" content="2023-03-21T16:39:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/99930e47dcba701fd347120d46ed4cc68b0b3f5a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/99930e47dcba701fd347120d46ed4cc68b0b3f5a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/99930e47dcba701fd347120d46ed4cc68b0b3f5a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/99930e47dcba701fd347120d46ed4cc68b0b3f5a/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/))
 versión indicada a continuación, se encuentra en 
 ****
-[99930e4](https://github.com/hwong23/fna-devdoc-f3/tree/99930e47dcba701fd347120d46ed4cc68b0b3f5a)
+[00de529](https://github.com/hwong23/fna-devdoc-f3/tree/00de529ea9bddebf44037bb899fb389ae4f6ec82)
 de March 21, 2023.
 
 
@@ -157,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|99930e4 del 21 Mar 2023                              |
+|Version|00de529 del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -214,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|99930e4 del 21 Mar 2023                              |
+|Version|00de529 del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 99930e4 del 21 Mar 2023                                                |
+| Version        | 00de529 del 21 Mar 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -454,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|99930e4 del 21 Mar 2023                              |
+|Version|00de529 del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -804,7 +804,9 @@ Impacto / Beneficio
 
 ### Arquitectura de referencia SOA 2.0
 #### Objetivo
-Evolucionar el desarrollo de los servicios SOA del FNA hacia otros diseños y tecnologías (como microservicios, REST, API, infraestructura Nube, ...) y favorecer la adopción de un estilo de arquitectura orientado a eventos. ​
+Evolucionar el desarrollo de los servicios SOA del FNA hacia diseños y tecnologías determinadas en la arquitectura de referencia 2.0 (como microservicios, REST, API, infraestructura Nube, ...) y favorecer la adopción de un estilo de arquitectura orientado a eventos. ​
+
+<br>
 
 #### Oportunidades / Retos
 - Acelerar el desarrollo de las arquitecturas de solución​
@@ -820,13 +822,14 @@ Evolucionar el desarrollo de los servicios SOA del FNA hacia otros diseños y te
 - Reducción en tiempos y costos asociados a las soluciones SOA​
 - Mejora en la alineación entre negocio y TI​
 - Mitigación de rotación del equipo de arquitectura​
-- Visión global de soluciones de TI vs Requisitos del negocio​
+- Visión global de soluciones de TI vs. requisitos del negocio​
 	
 #### Alcance
 - Diseño a profundidad de vistas funcional, despliegue, información, integración y tecnología​
 - Modelado en lenguaje y herramienta de diseño del FNA​
 - Crear y administrar las transiciones hacia la arquitectura versión 2.0
 - Utilización del depósito de arquitectura institucional​
+- Crear inventario de artefactos modelo-serie de aceleración de implementación
 	
 #### Tecnología
 - Depósito´de Arquitectura
@@ -998,7 +1001,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|99930e4 del 21 Mar 2023                              |
+|Version|00de529 del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1099,7 +1102,7 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|99930e4 del 21 Mar 2023                              |
+|Version|00de529 del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
