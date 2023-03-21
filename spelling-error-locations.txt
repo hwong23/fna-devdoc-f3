@@ -2452,14 +2452,22 @@ content/09d5. Arquitectura de referencia.md:2:Objetivo
 content/09d5. Arquitectura de referencia.md:3:adopción
 content/09d5. Arquitectura de referencia.md:3:arquitectura
 content/09d5. Arquitectura de referencia.md:3:desarrollo
+content/09d5. Arquitectura de referencia.md:3:diseños
 content/09d5. Arquitectura de referencia.md:3:el
 content/09d5. Arquitectura de referencia.md:3:estilo
 content/09d5. Arquitectura de referencia.md:3:eventos
 content/09d5. Arquitectura de referencia.md:3:Evolucionar
+content/09d5. Arquitectura de referencia.md:3:favorecer
+content/09d5. Arquitectura de referencia.md:3:FNA
 content/09d5. Arquitectura de referencia.md:3:hacia
+content/09d5. Arquitectura de referencia.md:3:infraestructura
 content/09d5. Arquitectura de referencia.md:3:microservicios
+content/09d5. Arquitectura de referencia.md:3:Nube
 content/09d5. Arquitectura de referencia.md:3:orientado
-content/09d5. Arquitectura de referencia.md:3:Servicios
+content/09d5. Arquitectura de referencia.md:3:otros
+content/09d5. Arquitectura de referencia.md:3:servicios
+content/09d5. Arquitectura de referencia.md:3:SOA
+content/09d5. Arquitectura de referencia.md:3:tecnologías
 content/09d5. Arquitectura de referencia.md:5:Oportunidades
 content/09d5. Arquitectura de referencia.md:5:Retos
 content/09d5. Arquitectura de referencia.md:6:Acelerar
@@ -2473,10 +2481,12 @@ content/09d5. Arquitectura de referencia.md:7:el
 content/09d5. Arquitectura de referencia.md:7:negocio
 content/09d5. Arquitectura de referencia.md:7:Unificar
 content/09d5. Arquitectura de referencia.md:7:vocabulario
+content/09d5. Arquitectura de referencia.md:8:Fondo
 content/09d5. Arquitectura de referencia.md:8:gobierno
 content/09d5. Arquitectura de referencia.md:8:lineamientos
 content/09d5. Arquitectura de referencia.md:8:políticas
 content/09d5. Arquitectura de referencia.md:8:Proveer
+content/09d5. Arquitectura de referencia.md:8:SOA
 content/09d5. Arquitectura de referencia.md:8:soporte
 content/09d5. Arquitectura de referencia.md:10:Actores
 content/09d5. Arquitectura de referencia.md:11:Áreas
@@ -2512,7 +2522,7 @@ content/09d5. Arquitectura de referencia.md:19:Visión
 content/09d5. Arquitectura de referencia.md:21:Alcance
 content/09d5. Arquitectura de referencia.md:22:despliegue
 content/09d5. Arquitectura de referencia.md:22:Diseño
-content/09d5. Arquitectura de referencia.md:22:funciona
+content/09d5. Arquitectura de referencia.md:22:funcional
 content/09d5. Arquitectura de referencia.md:22:información
 content/09d5. Arquitectura de referencia.md:22:integración
 content/09d5. Arquitectura de referencia.md:22:profundidad
@@ -2520,16 +2530,23 @@ content/09d5. Arquitectura de referencia.md:22:tecnología
 content/09d5. Arquitectura de referencia.md:23:diseño
 content/09d5. Arquitectura de referencia.md:23:FNA
 content/09d5. Arquitectura de referencia.md:23:herramienta
+content/09d5. Arquitectura de referencia.md:23:lenguaje
 content/09d5. Arquitectura de referencia.md:23:Modelado
+content/09d5. Arquitectura de referencia.md:24:administrar
 content/09d5. Arquitectura de referencia.md:24:arquitectura
-content/09d5. Arquitectura de referencia.md:24:depósito
-content/09d5. Arquitectura de referencia.md:24:institucional
-content/09d5. Arquitectura de referencia.md:24:Utilización
-content/09d5. Arquitectura de referencia.md:26:Tecnología
-content/09d5. Arquitectura de referencia.md:27:Arquitectura
-content/09d5. Arquitectura de referencia.md:27:Depósito
-content/09d5. Arquitectura de referencia.md:28:Herramientas
-content/09d5. Arquitectura de referencia.md:28:modelado
+content/09d5. Arquitectura de referencia.md:24:Crear
+content/09d5. Arquitectura de referencia.md:24:hacia
+content/09d5. Arquitectura de referencia.md:24:transiciones
+content/09d5. Arquitectura de referencia.md:24:versión
+content/09d5. Arquitectura de referencia.md:25:arquitectura
+content/09d5. Arquitectura de referencia.md:25:depósito
+content/09d5. Arquitectura de referencia.md:25:institucional
+content/09d5. Arquitectura de referencia.md:25:Utilización
+content/09d5. Arquitectura de referencia.md:27:Tecnología
+content/09d5. Arquitectura de referencia.md:28:Arquitectura
+content/09d5. Arquitectura de referencia.md:28:Depósito
+content/09d5. Arquitectura de referencia.md:29:Herramientas
+content/09d5. Arquitectura de referencia.md:29:modelado
 content/09d6. Microservicios.md:1:Microservicios
 content/09d6. Microservicios.md:2:Objetivo
 content/09d6. Microservicios.md:3:arquitectura
