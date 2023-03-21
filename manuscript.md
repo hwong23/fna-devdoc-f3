@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-21" />
   <meta name="citation_publication_date" content="2023-03-21" />
   <meta property="article:published_time" content="2023-03-21" />
-  <meta name="dc.modified" content="2023-03-21T16:39:17+00:00" />
-  <meta property="article:modified_time" content="2023-03-21T16:39:17+00:00" />
+  <meta name="dc.modified" content="2023-03-21T16:40:25+00:00" />
+  <meta property="article:modified_time" content="2023-03-21T16:40:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/c28f54fd8d6d02171ccedaeb195202c0b9ac6dfc/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c28f54fd8d6d02171ccedaeb195202c0b9ac6dfc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/c28f54fd8d6d02171ccedaeb195202c0b9ac6dfc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/00de529ea9bddebf44037bb899fb389ae4f6ec82/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/c28f54fd8d6d02171ccedaeb195202c0b9ac6dfc/))
 versión indicada a continuación, se encuentra en 
 ****
-[00de529](https://github.com/hwong23/fna-devdoc-f3/tree/00de529ea9bddebf44037bb899fb389ae4f6ec82)
+[c28f54f](https://github.com/hwong23/fna-devdoc-f3/tree/c28f54fd8d6d02171ccedaeb195202c0b9ac6dfc)
 de March 21, 2023.
 
 
@@ -157,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|00de529 del 21 Mar 2023                              |
+|Version|c28f54f del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -214,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|00de529 del 21 Mar 2023                              |
+|Version|c28f54f del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 00de529 del 21 Mar 2023                                                |
+| Version        | c28f54f del 21 Mar 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -454,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|00de529 del 21 Mar 2023                              |
+|Version|c28f54f del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -464,6 +464,8 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 ### BR01. API Crédito Constructor
 #### Objetivo
 Actualizar las interfaces de ejecución y exposición de funcionalidades (API) de Crédito Constructor.
+
+<br>
 
 #### Oportunidades / Retos
 - Convertir al producto Crédito Constructor en funcionalidades granulares, reutilizables y expuestas (privadas, protegidas y públicas)
@@ -715,6 +717,8 @@ Soportar a nivel técnico la iniciativa de 'Data Mesh'​
 #### Objetivo
 Actualizar las interfaces de integración y comunicación entre servicios gestionados por el bus de datos empresarial ESB IBM FNA.
 
+<br>
+
 #### Oportunidades / Retos
 - Incluir formas de integración más flexibles y cercanas a lo funcional vía API, granulares, reutilizables y mediadas por niveles de exposición (privadas, protegidas y públicas)
 - Migrar la integración entre aplicaciones hacia la exposición de funcionalidades independientes de la aplicación (API)
@@ -744,6 +748,8 @@ Actualizar las interfaces de integración y comunicación entre servicios gestio
 ### A1. Gobierno SOA
 #### Objetivo
 Vigilar las relaciones entre las áreas de negocio (la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA) y la implementación y diseño de soluciones SOA. El gobierno SOA del Fondo debe asistir en la aplicación y ejecución de un estándar de implementación, observación y puesta en marcha de soluciones SOA.
+
+<br>
 
 #### Oportunidades / Retos
 - Fortalecer el comité de gobierno SOA del FNA
@@ -775,6 +781,8 @@ Vigilar las relaciones entre las áreas de negocio (la vicepresidencia de operac
 ### Oficina de arquitectura
 #### Objetivo
 Equipo de trabajo, conforme al gobierno SOA, a cargo de los roles de gestión de la tecnología y arquitectura en los ámbitos específicos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones y herramientas de software, y especialista estructuras de datos e información negocio. Rol general: gestión de conocimiento de la arquitectura de referencia.​
+
+<br>
 
 #### Oportunidades / Retos
 - Institucionalizar el rol y los deberes y responsabilidad del grupo de arquitectura
@@ -1001,7 +1009,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|00de529 del 21 Mar 2023                              |
+|Version|c28f54f del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1102,7 +1110,7 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|00de529 del 21 Mar 2023                              |
+|Version|c28f54f del 21 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>

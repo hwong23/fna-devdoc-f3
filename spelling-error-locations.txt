@@ -2071,75 +2071,75 @@ content/09d1. API Crédito Constructor.md:3:Crédito
 content/09d1. API Crédito Constructor.md:3:ejecución
 content/09d1. API Crédito Constructor.md:3:exposición
 content/09d1. API Crédito Constructor.md:3:funcionalidades
-content/09d1. API Crédito Constructor.md:5:Oportunidades
-content/09d1. API Crédito Constructor.md:5:Retos
-content/09d1. API Crédito Constructor.md:6:Convertir
-content/09d1. API Crédito Constructor.md:6:Crédito
-content/09d1. API Crédito Constructor.md:6:expuestas
-content/09d1. API Crédito Constructor.md:6:funcionalidades
-content/09d1. API Crédito Constructor.md:6:granulares
-content/09d1. API Crédito Constructor.md:6:privadas
-content/09d1. API Crédito Constructor.md:6:producto
-content/09d1. API Crédito Constructor.md:6:protegidas
-content/09d1. API Crédito Constructor.md:6:públicas
-content/09d1. API Crédito Constructor.md:6:reutilizables
-content/09d1. API Crédito Constructor.md:7:Comercializar
-content/09d1. API Crédito Constructor.md:7:el
-content/09d1. API Crédito Constructor.md:8:datos
-content/09d1. API Crédito Constructor.md:8:el
-content/09d1. API Crédito Constructor.md:8:Estandarizar
-content/09d1. API Crédito Constructor.md:8:integración
-content/09d1. API Crédito Constructor.md:8:intercambio
-content/09d1. API Crédito Constructor.md:8:modelo
-content/09d1. API Crédito Constructor.md:10:Alcance
-content/09d1. API Crédito Constructor.md:11:datos
-content/09d1. API Crédito Constructor.md:11:Estructurar
-content/09d1. API Crédito Constructor.md:11:expuestos
-content/09d1. API Crédito Constructor.md:11:forma
-content/09d1. API Crédito Constructor.md:11:funcionalidades
-content/09d1. API Crédito Constructor.md:11:implementar
-content/09d1. API Crédito Constructor.md:11:operaciones
-content/09d1. API Crédito Constructor.md:11:producto
-content/09d1. API Crédito Constructor.md:12:consumidores
-content/09d1. API Crédito Constructor.md:12:Establecer
-content/09d1. API Crédito Constructor.md:12:nuevos
-content/09d1. API Crédito Constructor.md:12:producto
-content/09d1. API Crédito Constructor.md:13:actuales
-content/09d1. API Crédito Constructor.md:13:Actualizar
-content/09d1. API Crédito Constructor.md:13:consumidores
-content/09d1. API Crédito Constructor.md:13:modificar
-content/09d1. API Crédito Constructor.md:13:redirección
-content/09d1. API Crédito Constructor.md:15:Beneficio
-content/09d1. API Crédito Constructor.md:15:Impacto
-content/09d1. API Crédito Constructor.md:16:cambios
-content/09d1. API Crédito Constructor.md:16:consumidores
-content/09d1. API Crédito Constructor.md:16:extremos
-content/09d1. API Crédito Constructor.md:16:impacto
-content/09d1. API Crédito Constructor.md:16:integración
-content/09d1. API Crédito Constructor.md:16:por
-content/09d1. API Crédito Constructor.md:16:Proteger
-content/09d1. API Crédito Constructor.md:17:Flexibilidad
-content/09d1. API Crédito Constructor.md:17:integraciones
-content/09d1. API Crédito Constructor.md:17:modificación
+content/09d1. API Crédito Constructor.md:7:Oportunidades
+content/09d1. API Crédito Constructor.md:7:Retos
+content/09d1. API Crédito Constructor.md:8:Convertir
+content/09d1. API Crédito Constructor.md:8:Crédito
+content/09d1. API Crédito Constructor.md:8:expuestas
+content/09d1. API Crédito Constructor.md:8:funcionalidades
+content/09d1. API Crédito Constructor.md:8:granulares
+content/09d1. API Crédito Constructor.md:8:privadas
+content/09d1. API Crédito Constructor.md:8:producto
+content/09d1. API Crédito Constructor.md:8:protegidas
+content/09d1. API Crédito Constructor.md:8:públicas
+content/09d1. API Crédito Constructor.md:8:reutilizables
+content/09d1. API Crédito Constructor.md:9:Comercializar
+content/09d1. API Crédito Constructor.md:9:el
+content/09d1. API Crédito Constructor.md:10:datos
+content/09d1. API Crédito Constructor.md:10:el
+content/09d1. API Crédito Constructor.md:10:Estandarizar
+content/09d1. API Crédito Constructor.md:10:integración
+content/09d1. API Crédito Constructor.md:10:intercambio
+content/09d1. API Crédito Constructor.md:10:modelo
+content/09d1. API Crédito Constructor.md:12:Alcance
+content/09d1. API Crédito Constructor.md:13:datos
+content/09d1. API Crédito Constructor.md:13:Estructurar
+content/09d1. API Crédito Constructor.md:13:expuestos
+content/09d1. API Crédito Constructor.md:13:forma
+content/09d1. API Crédito Constructor.md:13:funcionalidades
+content/09d1. API Crédito Constructor.md:13:implementar
+content/09d1. API Crédito Constructor.md:13:operaciones
+content/09d1. API Crédito Constructor.md:13:producto
+content/09d1. API Crédito Constructor.md:14:consumidores
+content/09d1. API Crédito Constructor.md:14:Establecer
+content/09d1. API Crédito Constructor.md:14:nuevos
+content/09d1. API Crédito Constructor.md:14:producto
+content/09d1. API Crédito Constructor.md:15:actuales
+content/09d1. API Crédito Constructor.md:15:Actualizar
+content/09d1. API Crédito Constructor.md:15:consumidores
+content/09d1. API Crédito Constructor.md:15:modificar
+content/09d1. API Crédito Constructor.md:15:redirección
+content/09d1. API Crédito Constructor.md:17:Beneficio
+content/09d1. API Crédito Constructor.md:17:Impacto
+content/09d1. API Crédito Constructor.md:18:cambios
+content/09d1. API Crédito Constructor.md:18:consumidores
+content/09d1. API Crédito Constructor.md:18:extremos
+content/09d1. API Crédito Constructor.md:18:impacto
 content/09d1. API Crédito Constructor.md:18:integración
-content/09d1. API Crédito Constructor.md:18:modelo
-content/09d1. API Crédito Constructor.md:18:Modernización
-content/09d1. API Crédito Constructor.md:18:tecnología
-content/09d1. API Crédito Constructor.md:20:Actores
-content/09d1. API Crédito Constructor.md:21:negocio
-content/09d1. API Crédito Constructor.md:21:Unidades
-content/09d1. API Crédito Constructor.md:22:Arquitectura
-content/09d1. API Crédito Constructor.md:22:Oficina
-content/09d1. API Crédito Constructor.md:23:Cobis
-content/09d1. API Crédito Constructor.md:23:FNA
-content/09d1. API Crédito Constructor.md:23:Proveedores
-content/09d1. API Crédito Constructor.md:24:apoyo
-content/09d1. API Crédito Constructor.md:24:Consultores
-content/09d1. API Crédito Constructor.md:24:fabricantes
-content/09d1. API Crédito Constructor.md:26:Tecnologias
-content/09d1. API Crédito Constructor.md:27:Portafolio
-content/09d1. API Crédito Constructor.md:28:diseño
-content/09d1. API Crédito Constructor.md:28:Herramientas
+content/09d1. API Crédito Constructor.md:18:por
+content/09d1. API Crédito Constructor.md:18:Proteger
+content/09d1. API Crédito Constructor.md:19:Flexibilidad
+content/09d1. API Crédito Constructor.md:19:integraciones
+content/09d1. API Crédito Constructor.md:19:modificación
+content/09d1. API Crédito Constructor.md:20:integración
+content/09d1. API Crédito Constructor.md:20:modelo
+content/09d1. API Crédito Constructor.md:20:Modernización
+content/09d1. API Crédito Constructor.md:20:tecnología
+content/09d1. API Crédito Constructor.md:22:Actores
+content/09d1. API Crédito Constructor.md:23:negocio
+content/09d1. API Crédito Constructor.md:23:Unidades
+content/09d1. API Crédito Constructor.md:24:Arquitectura
+content/09d1. API Crédito Constructor.md:24:Oficina
+content/09d1. API Crédito Constructor.md:25:Cobis
+content/09d1. API Crédito Constructor.md:25:FNA
+content/09d1. API Crédito Constructor.md:25:Proveedores
+content/09d1. API Crédito Constructor.md:26:apoyo
+content/09d1. API Crédito Constructor.md:26:Consultores
+content/09d1. API Crédito Constructor.md:26:fabricantes
+content/09d1. API Crédito Constructor.md:28:Tecnologias
+content/09d1. API Crédito Constructor.md:29:Portafolio
+content/09d1. API Crédito Constructor.md:30:diseño
+content/09d1. API Crédito Constructor.md:30:Herramientas
 content/09d2. Estandarización de Integración ESB FNA.md:1:ESB
 content/09d2. Estandarización de Integración ESB FNA.md:1:Estandarización
 content/09d2. Estandarización de Integración ESB FNA.md:1:FNA
@@ -2157,93 +2157,93 @@ content/09d2. Estandarización de Integración ESB FNA.md:3:gestionados
 content/09d2. Estandarización de Integración ESB FNA.md:3:integración
 content/09d2. Estandarización de Integración ESB FNA.md:3:por
 content/09d2. Estandarización de Integración ESB FNA.md:3:servicios
-content/09d2. Estandarización de Integración ESB FNA.md:5:Oportunidades
-content/09d2. Estandarización de Integración ESB FNA.md:5:Retos
-content/09d2. Estandarización de Integración ESB FNA.md:6:cercanas
-content/09d2. Estandarización de Integración ESB FNA.md:6:exposición
-content/09d2. Estandarización de Integración ESB FNA.md:6:flexibles
-content/09d2. Estandarización de Integración ESB FNA.md:6:formas
-content/09d2. Estandarización de Integración ESB FNA.md:6:funcional
-content/09d2. Estandarización de Integración ESB FNA.md:6:granulares
-content/09d2. Estandarización de Integración ESB FNA.md:6:Incluir
-content/09d2. Estandarización de Integración ESB FNA.md:6:integración
-content/09d2. Estandarización de Integración ESB FNA.md:6:más
-content/09d2. Estandarización de Integración ESB FNA.md:6:mediadas
-content/09d2. Estandarización de Integración ESB FNA.md:6:niveles
-content/09d2. Estandarización de Integración ESB FNA.md:6:por
-content/09d2. Estandarización de Integración ESB FNA.md:6:privadas
-content/09d2. Estandarización de Integración ESB FNA.md:6:protegidas
-content/09d2. Estandarización de Integración ESB FNA.md:6:públicas
-content/09d2. Estandarización de Integración ESB FNA.md:6:reutilizables
-content/09d2. Estandarización de Integración ESB FNA.md:6:vía
-content/09d2. Estandarización de Integración ESB FNA.md:7:aplicación
-content/09d2. Estandarización de Integración ESB FNA.md:7:aplicaciones
-content/09d2. Estandarización de Integración ESB FNA.md:7:entre
-content/09d2. Estandarización de Integración ESB FNA.md:7:exposición
-content/09d2. Estandarización de Integración ESB FNA.md:7:funcionalidades
-content/09d2. Estandarización de Integración ESB FNA.md:7:hacia
-content/09d2. Estandarización de Integración ESB FNA.md:7:independientes
-content/09d2. Estandarización de Integración ESB FNA.md:7:integración
-content/09d2. Estandarización de Integración ESB FNA.md:7:Migrar
-content/09d2. Estandarización de Integración ESB FNA.md:8:datos
-content/09d2. Estandarización de Integración ESB FNA.md:8:el
-content/09d2. Estandarización de Integración ESB FNA.md:8:Estandarizar
+content/09d2. Estandarización de Integración ESB FNA.md:7:Oportunidades
+content/09d2. Estandarización de Integración ESB FNA.md:7:Retos
+content/09d2. Estandarización de Integración ESB FNA.md:8:cercanas
+content/09d2. Estandarización de Integración ESB FNA.md:8:exposición
+content/09d2. Estandarización de Integración ESB FNA.md:8:flexibles
+content/09d2. Estandarización de Integración ESB FNA.md:8:formas
+content/09d2. Estandarización de Integración ESB FNA.md:8:funcional
+content/09d2. Estandarización de Integración ESB FNA.md:8:granulares
+content/09d2. Estandarización de Integración ESB FNA.md:8:Incluir
 content/09d2. Estandarización de Integración ESB FNA.md:8:integración
-content/09d2. Estandarización de Integración ESB FNA.md:8:intercambio
-content/09d2. Estandarización de Integración ESB FNA.md:8:modelo
-content/09d2. Estandarización de Integración ESB FNA.md:10:Alcance
-content/09d2. Estandarización de Integración ESB FNA.md:11:datos
-content/09d2. Estandarización de Integración ESB FNA.md:11:Estructurar
-content/09d2. Estandarización de Integración ESB FNA.md:11:expuestos
-content/09d2. Estandarización de Integración ESB FNA.md:11:forma
-content/09d2. Estandarización de Integración ESB FNA.md:11:funcionalidades
-content/09d2. Estandarización de Integración ESB FNA.md:11:implementar
-content/09d2. Estandarización de Integración ESB FNA.md:11:operaciones
-content/09d2. Estandarización de Integración ESB FNA.md:11:producto
-content/09d2. Estandarización de Integración ESB FNA.md:12:consumidores
-content/09d2. Estandarización de Integración ESB FNA.md:12:Establecer
-content/09d2. Estandarización de Integración ESB FNA.md:12:nuevos
-content/09d2. Estandarización de Integración ESB FNA.md:12:producto
-content/09d2. Estandarización de Integración ESB FNA.md:13:actuales
-content/09d2. Estandarización de Integración ESB FNA.md:13:Actualizar
-content/09d2. Estandarización de Integración ESB FNA.md:13:consumidores
-content/09d2. Estandarización de Integración ESB FNA.md:13:modificar
-content/09d2. Estandarización de Integración ESB FNA.md:13:redirección
-content/09d2. Estandarización de Integración ESB FNA.md:15:Beneficio
-content/09d2. Estandarización de Integración ESB FNA.md:15:Impacto
-content/09d2. Estandarización de Integración ESB FNA.md:16:aplicaciones
-content/09d2. Estandarización de Integración ESB FNA.md:16:cambios
-content/09d2. Estandarización de Integración ESB FNA.md:16:clientes
-content/09d2. Estandarización de Integración ESB FNA.md:16:consumidores
-content/09d2. Estandarización de Integración ESB FNA.md:16:impacto
-content/09d2. Estandarización de Integración ESB FNA.md:16:por
-content/09d2. Estandarización de Integración ESB FNA.md:16:producto
-content/09d2. Estandarización de Integración ESB FNA.md:16:Proteger
-content/09d2. Estandarización de Integración ESB FNA.md:17:Flexibilidad
-content/09d2. Estandarización de Integración ESB FNA.md:17:funcionalidades
-content/09d2. Estandarización de Integración ESB FNA.md:17:modificación
-content/09d2. Estandarización de Integración ESB FNA.md:17:principales
-content/09d2. Estandarización de Integración ESB FNA.md:18:Aumentar
-content/09d2. Estandarización de Integración ESB FNA.md:18:capacidades
-content/09d2. Estandarización de Integración ESB FNA.md:18:el
-content/09d2. Estandarización de Integración ESB FNA.md:18:ESB
-content/09d2. Estandarización de Integración ESB FNA.md:18:nivel
-content/09d2. Estandarización de Integración ESB FNA.md:18:tecnologías
-content/09d2. Estandarización de Integración ESB FNA.md:20:Actores
-content/09d2. Estandarización de Integración ESB FNA.md:21:negocio
-content/09d2. Estandarización de Integración ESB FNA.md:21:Unidades
-content/09d2. Estandarización de Integración ESB FNA.md:22:Arquitectura
-content/09d2. Estandarización de Integración ESB FNA.md:22:Oficina
-content/09d2. Estandarización de Integración ESB FNA.md:23:Cobis
-content/09d2. Estandarización de Integración ESB FNA.md:23:FNA
-content/09d2. Estandarización de Integración ESB FNA.md:23:Proveedores
-content/09d2. Estandarización de Integración ESB FNA.md:24:apoyo
-content/09d2. Estandarización de Integración ESB FNA.md:24:Consultores
-content/09d2. Estandarización de Integración ESB FNA.md:24:fabricantes
-content/09d2. Estandarización de Integración ESB FNA.md:26:Tecnologias
-content/09d2. Estandarización de Integración ESB FNA.md:27:Portafolio
-content/09d2. Estandarización de Integración ESB FNA.md:28:diseño
-content/09d2. Estandarización de Integración ESB FNA.md:28:Herramientas
+content/09d2. Estandarización de Integración ESB FNA.md:8:más
+content/09d2. Estandarización de Integración ESB FNA.md:8:mediadas
+content/09d2. Estandarización de Integración ESB FNA.md:8:niveles
+content/09d2. Estandarización de Integración ESB FNA.md:8:por
+content/09d2. Estandarización de Integración ESB FNA.md:8:privadas
+content/09d2. Estandarización de Integración ESB FNA.md:8:protegidas
+content/09d2. Estandarización de Integración ESB FNA.md:8:públicas
+content/09d2. Estandarización de Integración ESB FNA.md:8:reutilizables
+content/09d2. Estandarización de Integración ESB FNA.md:8:vía
+content/09d2. Estandarización de Integración ESB FNA.md:9:aplicación
+content/09d2. Estandarización de Integración ESB FNA.md:9:aplicaciones
+content/09d2. Estandarización de Integración ESB FNA.md:9:entre
+content/09d2. Estandarización de Integración ESB FNA.md:9:exposición
+content/09d2. Estandarización de Integración ESB FNA.md:9:funcionalidades
+content/09d2. Estandarización de Integración ESB FNA.md:9:hacia
+content/09d2. Estandarización de Integración ESB FNA.md:9:independientes
+content/09d2. Estandarización de Integración ESB FNA.md:9:integración
+content/09d2. Estandarización de Integración ESB FNA.md:9:Migrar
+content/09d2. Estandarización de Integración ESB FNA.md:10:datos
+content/09d2. Estandarización de Integración ESB FNA.md:10:el
+content/09d2. Estandarización de Integración ESB FNA.md:10:Estandarizar
+content/09d2. Estandarización de Integración ESB FNA.md:10:integración
+content/09d2. Estandarización de Integración ESB FNA.md:10:intercambio
+content/09d2. Estandarización de Integración ESB FNA.md:10:modelo
+content/09d2. Estandarización de Integración ESB FNA.md:12:Alcance
+content/09d2. Estandarización de Integración ESB FNA.md:13:datos
+content/09d2. Estandarización de Integración ESB FNA.md:13:Estructurar
+content/09d2. Estandarización de Integración ESB FNA.md:13:expuestos
+content/09d2. Estandarización de Integración ESB FNA.md:13:forma
+content/09d2. Estandarización de Integración ESB FNA.md:13:funcionalidades
+content/09d2. Estandarización de Integración ESB FNA.md:13:implementar
+content/09d2. Estandarización de Integración ESB FNA.md:13:operaciones
+content/09d2. Estandarización de Integración ESB FNA.md:13:producto
+content/09d2. Estandarización de Integración ESB FNA.md:14:consumidores
+content/09d2. Estandarización de Integración ESB FNA.md:14:Establecer
+content/09d2. Estandarización de Integración ESB FNA.md:14:nuevos
+content/09d2. Estandarización de Integración ESB FNA.md:14:producto
+content/09d2. Estandarización de Integración ESB FNA.md:15:actuales
+content/09d2. Estandarización de Integración ESB FNA.md:15:Actualizar
+content/09d2. Estandarización de Integración ESB FNA.md:15:consumidores
+content/09d2. Estandarización de Integración ESB FNA.md:15:modificar
+content/09d2. Estandarización de Integración ESB FNA.md:15:redirección
+content/09d2. Estandarización de Integración ESB FNA.md:17:Beneficio
+content/09d2. Estandarización de Integración ESB FNA.md:17:Impacto
+content/09d2. Estandarización de Integración ESB FNA.md:18:aplicaciones
+content/09d2. Estandarización de Integración ESB FNA.md:18:cambios
+content/09d2. Estandarización de Integración ESB FNA.md:18:clientes
+content/09d2. Estandarización de Integración ESB FNA.md:18:consumidores
+content/09d2. Estandarización de Integración ESB FNA.md:18:impacto
+content/09d2. Estandarización de Integración ESB FNA.md:18:por
+content/09d2. Estandarización de Integración ESB FNA.md:18:producto
+content/09d2. Estandarización de Integración ESB FNA.md:18:Proteger
+content/09d2. Estandarización de Integración ESB FNA.md:19:Flexibilidad
+content/09d2. Estandarización de Integración ESB FNA.md:19:funcionalidades
+content/09d2. Estandarización de Integración ESB FNA.md:19:modificación
+content/09d2. Estandarización de Integración ESB FNA.md:19:principales
+content/09d2. Estandarización de Integración ESB FNA.md:20:Aumentar
+content/09d2. Estandarización de Integración ESB FNA.md:20:capacidades
+content/09d2. Estandarización de Integración ESB FNA.md:20:el
+content/09d2. Estandarización de Integración ESB FNA.md:20:ESB
+content/09d2. Estandarización de Integración ESB FNA.md:20:nivel
+content/09d2. Estandarización de Integración ESB FNA.md:20:tecnologías
+content/09d2. Estandarización de Integración ESB FNA.md:22:Actores
+content/09d2. Estandarización de Integración ESB FNA.md:23:negocio
+content/09d2. Estandarización de Integración ESB FNA.md:23:Unidades
+content/09d2. Estandarización de Integración ESB FNA.md:24:Arquitectura
+content/09d2. Estandarización de Integración ESB FNA.md:24:Oficina
+content/09d2. Estandarización de Integración ESB FNA.md:25:Cobis
+content/09d2. Estandarización de Integración ESB FNA.md:25:FNA
+content/09d2. Estandarización de Integración ESB FNA.md:25:Proveedores
+content/09d2. Estandarización de Integración ESB FNA.md:26:apoyo
+content/09d2. Estandarización de Integración ESB FNA.md:26:Consultores
+content/09d2. Estandarización de Integración ESB FNA.md:26:fabricantes
+content/09d2. Estandarización de Integración ESB FNA.md:28:Tecnologias
+content/09d2. Estandarización de Integración ESB FNA.md:29:Portafolio
+content/09d2. Estandarización de Integración ESB FNA.md:30:diseño
+content/09d2. Estandarización de Integración ESB FNA.md:30:Herramientas
 content/09d3. Gobierno SOA.md:1:Gobierno
 content/09d3. Gobierno SOA.md:1:SOA
 content/09d3. Gobierno SOA.md:2:Objetivo
@@ -2277,81 +2277,81 @@ content/09d3. Gobierno SOA.md:3:soluciones
 content/09d3. Gobierno SOA.md:3:vicepresidencia
 content/09d3. Gobierno SOA.md:3:vicepresidencia
 content/09d3. Gobierno SOA.md:3:Vigilar
-content/09d3. Gobierno SOA.md:5:Oportunidades
-content/09d3. Gobierno SOA.md:5:Retos
-content/09d3. Gobierno SOA.md:6:comité
-content/09d3. Gobierno SOA.md:6:el
-content/09d3. Gobierno SOA.md:6:FNA
-content/09d3. Gobierno SOA.md:6:Fortalecer
-content/09d3. Gobierno SOA.md:6:gobierno
-content/09d3. Gobierno SOA.md:6:SOA
-content/09d3. Gobierno SOA.md:7:Generar
-content/09d3. Gobierno SOA.md:7:gobierno
-content/09d3. Gobierno SOA.md:7:lineamientos
-content/09d3. Gobierno SOA.md:7:políticas
-content/09d3. Gobierno SOA.md:7:SOA
-content/09d3. Gobierno SOA.md:8:arquitectura
-content/09d3. Gobierno SOA.md:8:desarrollo
-content/09d3. Gobierno SOA.md:8:institucionalización
-content/09d3. Gobierno SOA.md:8:proceso
-content/09d3. Gobierno SOA.md:8:Promover
-content/09d3. Gobierno SOA.md:8:referencia
+content/09d3. Gobierno SOA.md:7:Oportunidades
+content/09d3. Gobierno SOA.md:7:Retos
+content/09d3. Gobierno SOA.md:8:comité
+content/09d3. Gobierno SOA.md:8:el
+content/09d3. Gobierno SOA.md:8:FNA
+content/09d3. Gobierno SOA.md:8:Fortalecer
+content/09d3. Gobierno SOA.md:8:gobierno
 content/09d3. Gobierno SOA.md:8:SOA
-content/09d3. Gobierno SOA.md:8:soluciones
-content/09d3. Gobierno SOA.md:10:Actores
-content/09d3. Gobierno SOA.md:11:Comité
-content/09d3. Gobierno SOA.md:11:FNA
-content/09d3. Gobierno SOA.md:11:gobierno
-content/09d3. Gobierno SOA.md:12:arquitectura
-content/09d3. Gobierno SOA.md:12:FNA
-content/09d3. Gobierno SOA.md:12:Oficina
-content/09d3. Gobierno SOA.md:13:asesor
+content/09d3. Gobierno SOA.md:9:Generar
+content/09d3. Gobierno SOA.md:9:gobierno
+content/09d3. Gobierno SOA.md:9:lineamientos
+content/09d3. Gobierno SOA.md:9:políticas
+content/09d3. Gobierno SOA.md:9:SOA
+content/09d3. Gobierno SOA.md:10:arquitectura
+content/09d3. Gobierno SOA.md:10:desarrollo
+content/09d3. Gobierno SOA.md:10:institucionalización
+content/09d3. Gobierno SOA.md:10:proceso
+content/09d3. Gobierno SOA.md:10:Promover
+content/09d3. Gobierno SOA.md:10:referencia
+content/09d3. Gobierno SOA.md:10:SOA
+content/09d3. Gobierno SOA.md:10:soluciones
+content/09d3. Gobierno SOA.md:12:Actores
 content/09d3. Gobierno SOA.md:13:Comité
-content/09d3. Gobierno SOA.md:15:Beneficio
-content/09d3. Gobierno SOA.md:15:Impacto
-content/09d3. Gobierno SOA.md:16:ambigüedad
-content/09d3. Gobierno SOA.md:16:arquitectura
-content/09d3. Gobierno SOA.md:16:claros
-content/09d3. Gobierno SOA.md:16:evolución
-content/09d3. Gobierno SOA.md:16:guiar
-content/09d3. Gobierno SOA.md:16:libres
-content/09d3. Gobierno SOA.md:16:Lineamientos
-content/09d3. Gobierno SOA.md:16:organización
-content/09d3. Gobierno SOA.md:16:permitan
-content/09d3. Gobierno SOA.md:16:SOA
-content/09d3. Gobierno SOA.md:17:estratégica
-content/09d3. Gobierno SOA.md:17:Fuente
-content/09d3. Gobierno SOA.md:17:operación
-content/09d3. Gobierno SOA.md:17:planeación
-content/09d3. Gobierno SOA.md:17:SOA
-content/09d3. Gobierno SOA.md:17:única
-content/09d3. Gobierno SOA.md:18:cumplimiento
-content/09d3. Gobierno SOA.md:18:niveles
-content/09d3. Gobierno SOA.md:18:servicio
+content/09d3. Gobierno SOA.md:13:FNA
+content/09d3. Gobierno SOA.md:13:gobierno
+content/09d3. Gobierno SOA.md:14:arquitectura
+content/09d3. Gobierno SOA.md:14:FNA
+content/09d3. Gobierno SOA.md:14:Oficina
+content/09d3. Gobierno SOA.md:15:asesor
+content/09d3. Gobierno SOA.md:15:Comité
+content/09d3. Gobierno SOA.md:17:Beneficio
+content/09d3. Gobierno SOA.md:17:Impacto
+content/09d3. Gobierno SOA.md:18:ambigüedad
+content/09d3. Gobierno SOA.md:18:arquitectura
+content/09d3. Gobierno SOA.md:18:claros
+content/09d3. Gobierno SOA.md:18:evolución
+content/09d3. Gobierno SOA.md:18:guiar
+content/09d3. Gobierno SOA.md:18:libres
+content/09d3. Gobierno SOA.md:18:Lineamientos
+content/09d3. Gobierno SOA.md:18:organización
+content/09d3. Gobierno SOA.md:18:permitan
 content/09d3. Gobierno SOA.md:18:SOA
-content/09d3. Gobierno SOA.md:18:soluciones
-content/09d3. Gobierno SOA.md:18:Vigilancia
-content/09d3. Gobierno SOA.md:20:Alcance
-content/09d3. Gobierno SOA.md:21:comité
-content/09d3. Gobierno SOA.md:21:Diseño
-content/09d3. Gobierno SOA.md:21:gobierno
-content/09d3. Gobierno SOA.md:21:procesos
-content/09d3. Gobierno SOA.md:21:responsabilidades
-content/09d3. Gobierno SOA.md:22:comité
-content/09d3. Gobierno SOA.md:22:dentro
-content/09d3. Gobierno SOA.md:22:FNA
-content/09d3. Gobierno SOA.md:22:Institucionalización
+content/09d3. Gobierno SOA.md:19:estratégica
+content/09d3. Gobierno SOA.md:19:Fuente
+content/09d3. Gobierno SOA.md:19:operación
+content/09d3. Gobierno SOA.md:19:planeación
+content/09d3. Gobierno SOA.md:19:SOA
+content/09d3. Gobierno SOA.md:19:única
+content/09d3. Gobierno SOA.md:20:cumplimiento
+content/09d3. Gobierno SOA.md:20:niveles
+content/09d3. Gobierno SOA.md:20:servicio
+content/09d3. Gobierno SOA.md:20:SOA
+content/09d3. Gobierno SOA.md:20:soluciones
+content/09d3. Gobierno SOA.md:20:Vigilancia
+content/09d3. Gobierno SOA.md:22:Alcance
 content/09d3. Gobierno SOA.md:23:comité
-content/09d3. Gobierno SOA.md:23:Definición
-content/09d3. Gobierno SOA.md:23:instalación
+content/09d3. Gobierno SOA.md:23:Diseño
+content/09d3. Gobierno SOA.md:23:gobierno
+content/09d3. Gobierno SOA.md:23:procesos
 content/09d3. Gobierno SOA.md:23:responsabilidades
-content/09d3. Gobierno SOA.md:23:selección
-content/09d3. Gobierno SOA.md:25:Tecnología
-content/09d3. Gobierno SOA.md:26:centralizado
-content/09d3. Gobierno SOA.md:26:Depósito
-content/09d3. Gobierno SOA.md:26:SOA
-content/09d3. Gobierno SOA.md:27:Depósito
-content/09d3. Gobierno SOA.md:27:documental
+content/09d3. Gobierno SOA.md:24:comité
+content/09d3. Gobierno SOA.md:24:dentro
+content/09d3. Gobierno SOA.md:24:FNA
+content/09d3. Gobierno SOA.md:24:Institucionalización
+content/09d3. Gobierno SOA.md:25:comité
+content/09d3. Gobierno SOA.md:25:Definición
+content/09d3. Gobierno SOA.md:25:instalación
+content/09d3. Gobierno SOA.md:25:responsabilidades
+content/09d3. Gobierno SOA.md:25:selección
+content/09d3. Gobierno SOA.md:27:Tecnología
+content/09d3. Gobierno SOA.md:28:centralizado
+content/09d3. Gobierno SOA.md:28:Depósito
+content/09d3. Gobierno SOA.md:28:SOA
+content/09d3. Gobierno SOA.md:29:Depósito
+content/09d3. Gobierno SOA.md:29:documental
 content/09d4. Oficina de arquitectura.md:1:arquitectura
 content/09d4. Oficina de arquitectura.md:1:Oficina
 content/09d4. Oficina de arquitectura.md:2:Objetivo
@@ -2384,67 +2384,67 @@ content/09d4. Oficina de arquitectura.md:3:SOA
 content/09d4. Oficina de arquitectura.md:3:tecnología
 content/09d4. Oficina de arquitectura.md:3:tecnológica
 content/09d4. Oficina de arquitectura.md:3:trabajo
-content/09d4. Oficina de arquitectura.md:5:Oportunidades
-content/09d4. Oficina de arquitectura.md:5:Retos
-content/09d4. Oficina de arquitectura.md:6:arquitectura
-content/09d4. Oficina de arquitectura.md:6:deberes
-content/09d4. Oficina de arquitectura.md:6:el
-content/09d4. Oficina de arquitectura.md:6:grupo
-content/09d4. Oficina de arquitectura.md:6:Institucionalizar
-content/09d4. Oficina de arquitectura.md:6:responsabilidad
-content/09d4. Oficina de arquitectura.md:6:rol
-content/09d4. Oficina de arquitectura.md:7:arquitectura
-content/09d4. Oficina de arquitectura.md:7:cada
-content/09d4. Oficina de arquitectura.md:7:conocimiento
-content/09d4. Oficina de arquitectura.md:7:efectiva
-content/09d4. Oficina de arquitectura.md:7:FNA
-content/09d4. Oficina de arquitectura.md:7:gestión
-content/09d4. Oficina de arquitectura.md:7:Hacer
-content/09d4. Oficina de arquitectura.md:7:más
-content/09d4. Oficina de arquitectura.md:7:una
-content/09d4. Oficina de arquitectura.md:7:vez
-content/09d4. Oficina de arquitectura.md:9:Actores
-content/09d4. Oficina de arquitectura.md:10:Dirección
-content/09d4. Oficina de arquitectura.md:11:negocio
-content/09d4. Oficina de arquitectura.md:11:Unidades
-content/09d4. Oficina de arquitectura.md:12:Consultores
-content/09d4. Oficina de arquitectura.md:12:soporte
-content/09d4. Oficina de arquitectura.md:14:Beneficio
-content/09d4. Oficina de arquitectura.md:14:Impacto
-content/09d4. Oficina de arquitectura.md:15:arquitectura
-content/09d4. Oficina de arquitectura.md:15:conocimiento
-content/09d4. Oficina de arquitectura.md:15:el
-content/09d4. Oficina de arquitectura.md:15:FNA
-content/09d4. Oficina de arquitectura.md:15:Gestionar
-content/09d4. Oficina de arquitectura.md:16:arquitectura
-content/09d4. Oficina de arquitectura.md:16:arquitectura
-content/09d4. Oficina de arquitectura.md:16:consultores
-content/09d4. Oficina de arquitectura.md:16:desde
-content/09d4. Oficina de arquitectura.md:16:directo
-content/09d4. Oficina de arquitectura.md:16:enlace
-content/09d4. Oficina de arquitectura.md:16:oficina
-content/09d4. Oficina de arquitectura.md:16:Proveer
+content/09d4. Oficina de arquitectura.md:7:Oportunidades
+content/09d4. Oficina de arquitectura.md:7:Retos
+content/09d4. Oficina de arquitectura.md:8:arquitectura
+content/09d4. Oficina de arquitectura.md:8:deberes
+content/09d4. Oficina de arquitectura.md:8:el
+content/09d4. Oficina de arquitectura.md:8:grupo
+content/09d4. Oficina de arquitectura.md:8:Institucionalizar
+content/09d4. Oficina de arquitectura.md:8:responsabilidad
+content/09d4. Oficina de arquitectura.md:8:rol
+content/09d4. Oficina de arquitectura.md:9:arquitectura
+content/09d4. Oficina de arquitectura.md:9:cada
+content/09d4. Oficina de arquitectura.md:9:conocimiento
+content/09d4. Oficina de arquitectura.md:9:efectiva
+content/09d4. Oficina de arquitectura.md:9:FNA
+content/09d4. Oficina de arquitectura.md:9:gestión
+content/09d4. Oficina de arquitectura.md:9:Hacer
+content/09d4. Oficina de arquitectura.md:9:más
+content/09d4. Oficina de arquitectura.md:9:una
+content/09d4. Oficina de arquitectura.md:9:vez
+content/09d4. Oficina de arquitectura.md:11:Actores
+content/09d4. Oficina de arquitectura.md:12:Dirección
+content/09d4. Oficina de arquitectura.md:13:negocio
+content/09d4. Oficina de arquitectura.md:13:Unidades
+content/09d4. Oficina de arquitectura.md:14:Consultores
+content/09d4. Oficina de arquitectura.md:14:soporte
+content/09d4. Oficina de arquitectura.md:16:Beneficio
+content/09d4. Oficina de arquitectura.md:16:Impacto
 content/09d4. Oficina de arquitectura.md:17:arquitectura
-content/09d4. Oficina de arquitectura.md:17:Gobernar
-content/09d4. Oficina de arquitectura.md:17:organización
-content/09d4. Oficina de arquitectura.md:17:referencia
-content/09d4. Oficina de arquitectura.md:19:Alcance
-content/09d4. Oficina de arquitectura.md:20:Definición
-content/09d4. Oficina de arquitectura.md:20:funciones
-content/09d4. Oficina de arquitectura.md:20:miembros
-content/09d4. Oficina de arquitectura.md:20:oficina
-content/09d4. Oficina de arquitectura.md:21:Definir
-content/09d4. Oficina de arquitectura.md:21:niveles
-content/09d4. Oficina de arquitectura.md:21:oficina
-content/09d4. Oficina de arquitectura.md:21:procesos
-content/09d4. Oficina de arquitectura.md:21:servicio
-content/09d4. Oficina de arquitectura.md:22:lanzamiento
+content/09d4. Oficina de arquitectura.md:17:conocimiento
+content/09d4. Oficina de arquitectura.md:17:el
+content/09d4. Oficina de arquitectura.md:17:FNA
+content/09d4. Oficina de arquitectura.md:17:Gestionar
+content/09d4. Oficina de arquitectura.md:18:arquitectura
+content/09d4. Oficina de arquitectura.md:18:arquitectura
+content/09d4. Oficina de arquitectura.md:18:consultores
+content/09d4. Oficina de arquitectura.md:18:desde
+content/09d4. Oficina de arquitectura.md:18:directo
+content/09d4. Oficina de arquitectura.md:18:enlace
+content/09d4. Oficina de arquitectura.md:18:oficina
+content/09d4. Oficina de arquitectura.md:18:Proveer
+content/09d4. Oficina de arquitectura.md:19:arquitectura
+content/09d4. Oficina de arquitectura.md:19:Gobernar
+content/09d4. Oficina de arquitectura.md:19:organización
+content/09d4. Oficina de arquitectura.md:19:referencia
+content/09d4. Oficina de arquitectura.md:21:Alcance
+content/09d4. Oficina de arquitectura.md:22:Definición
+content/09d4. Oficina de arquitectura.md:22:funciones
+content/09d4. Oficina de arquitectura.md:22:miembros
 content/09d4. Oficina de arquitectura.md:22:oficina
-content/09d4. Oficina de arquitectura.md:24:Tecnología
-content/09d4. Oficina de arquitectura.md:25:Arquitectura
-content/09d4. Oficina de arquitectura.md:25:referencia
-content/09d4. Oficina de arquitectura.md:26:Arquitectura
-content/09d4. Oficina de arquitectura.md:26:Depósito
+content/09d4. Oficina de arquitectura.md:23:Definir
+content/09d4. Oficina de arquitectura.md:23:niveles
+content/09d4. Oficina de arquitectura.md:23:oficina
+content/09d4. Oficina de arquitectura.md:23:procesos
+content/09d4. Oficina de arquitectura.md:23:servicio
+content/09d4. Oficina de arquitectura.md:24:lanzamiento
+content/09d4. Oficina de arquitectura.md:24:oficina
+content/09d4. Oficina de arquitectura.md:26:Tecnología
+content/09d4. Oficina de arquitectura.md:27:Arquitectura
+content/09d4. Oficina de arquitectura.md:27:referencia
+content/09d4. Oficina de arquitectura.md:28:Arquitectura
+content/09d4. Oficina de arquitectura.md:28:Depósito
 content/09d5. Arquitectura de referencia.md:1:Arquitectura
 content/09d5. Arquitectura de referencia.md:1:referencia
 content/09d5. Arquitectura de referencia.md:1:SOA
