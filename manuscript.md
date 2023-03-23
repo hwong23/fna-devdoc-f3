@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-03-21'
+date-meta: '2023-03-23'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-03-21" />
-  <meta name="citation_publication_date" content="2023-03-21" />
-  <meta property="article:published_time" content="2023-03-21" />
-  <meta name="dc.modified" content="2023-03-21T16:58:10+00:00" />
-  <meta property="article:modified_time" content="2023-03-21T16:58:10+00:00" />
+  <meta name="dc.date" content="2023-03-23" />
+  <meta name="citation_publication_date" content="2023-03-23" />
+  <meta property="article:published_time" content="2023-03-23" />
+  <meta name="dc.modified" content="2023-03-23T16:31:36+00:00" />
+  <meta property="article:modified_time" content="2023-03-23T16:31:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/3e0652da925eb551f11347e728d96db1f6920bb3/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/3e0652da925eb551f11347e728d96db1f6920bb3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/3e0652da925eb551f11347e728d96db1f6920bb3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/32cb7796fbffbf0c1794ddab7fe7fcf4fb122254/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/32cb7796fbffbf0c1794ddab7fe7fcf4fb122254/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/32cb7796fbffbf0c1794ddab7fe7fcf4fb122254/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/3e0652da925eb551f11347e728d96db1f6920bb3/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/32cb7796fbffbf0c1794ddab7fe7fcf4fb122254/))
 versión indicada a continuación, se encuentra en 
 ****
-[3e0652d](https://github.com/hwong23/fna-devdoc-f3/tree/3e0652da925eb551f11347e728d96db1f6920bb3)
-de March 21, 2023.
+[32cb779](https://github.com/hwong23/fna-devdoc-f3/tree/32cb7796fbffbf0c1794ddab7fe7fcf4fb122254)
+de March 23, 2023.
 
 
 
@@ -157,49 +157,8 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|3e0652d del 21 Mar 2023                              |
+|Version|32cb779 del 23 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
-
-<br>
-
-
-
-+ **Harry Wong, ing.**
-  <br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_hwong](https://github.com/e_hwong)
-    <br>
-  <small>
-     Arquitecto SOA, Stefanini
-  </small>
-
-+ **Eddie Hernandez, ing.**
-  <br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_ehernandez](https://github.com/e_ehernandez)
-    <br>
-  <small>
-     Datos, Stefanini
-  </small>
-
-+ **Federico Suárez, ing.**
-  <br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_fsuarez](https://github.com/e_fsuarez)
-    <br>
-  <small>
-     Infraestructura, Stefanini
-  </small>
-
-+ **Darío Correal, ing.**
-  <br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_dcorreal](https://github.com/e_dcorreal)
-    <br>
-  <small>
-     Arquitecto TI, Stefanini
-  </small>
-
 
 <br>
 
@@ -255,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|3e0652d del 21 Mar 2023                              |
+|Version|32cb779 del 23 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -393,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 3e0652d del 21 Mar 2023                                                |
+| Version        | 32cb779 del 23 Mar 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -495,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|3e0652d del 21 Mar 2023                              |
+|Version|32cb779 del 23 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1050,13 +1009,18 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|3e0652d del 21 Mar 2023                              |
+|Version|32cb779 del 23 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ## Hoja de Ruta E-Service FNA de los Proyectos de Cambio
 
+![](images/hojaruta1.png)
+
+[Imagen 1.]() Proyectos de cierre de brecha FNA. Prioridades, secuencia, puntos de control de la evolución de la arquitectura de referencia SOA 2.0 del Fondo.
+
+_Fuente: elaboración propia._
 
 
 ## Resumen de Problemáticas del Diagnóstivo de Madurez SOA del FNA
@@ -1151,7 +1115,7 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|3e0652d del 21 Mar 2023                              |
+|Version|32cb779 del 23 Mar 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
