@@ -10,3 +10,8 @@
 
 ## Hoja de Ruta E-Service FNA de los Proyectos de Cambio
 
+![](images/hojaruta1.png)
+
+[Imagen 1.]() Proyectos de cierre de brecha FNA. Prioridades, secuencia, puntos de control de la evolución de la arquitectura de referencia SOA 2.0 del Fondo.
+
+_Fuente: elaboración propia._
