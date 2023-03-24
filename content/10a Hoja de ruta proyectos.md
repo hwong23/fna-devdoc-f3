@@ -59,15 +59,16 @@ Por consecuencia de estos los proyectos PRY01 y PRY02 de la hoja de ruta, en el 
 
 ![](images/vistaevolarquitectura.png)
 
-[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas, .
+[Imagen 2.]() Vista de evolución de arquitectura de referencia FNA a razón del las capacidades incrementadas.
 
 Componentes modificados
 Los aumentos de versión de la arquitectura SOA del FNA implica que ítems de trabajo, componentes de software, aplicaciones, tecnologías o recursos de capital humano deban ser modificados (aumentado de versión).
 
 Con propósito únicamente ilustrativo de los ítems que pueden ser sujetos de variante (especialización) por concepto de los incrementos de la arquitectura del FNA, dominio de aplicaciones y servicios únicamente, bajo las condiciones de tiempo y recursos del proyecto de implemenatción de hoja de ruta E-Service, período 2023, presentamos a continuación una lista de aplicaciones de software que pueden llegar a cambiar (otros ítems se no presentes en este ejemplo pueden ser impactados).
 
+![](images/vistaitemsarq.png)
 
-Figura3. Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.
+[Imagen 2.]() Aplicaciones de software del FNA involucrados en los incrementos de versión de la arquitectura de referencia.
 
 
 Equipo de Trabajo
@@ -94,6 +95,9 @@ Nota: este recurso puede ser individual, o común entre ambos proyectos del alca
 		○ Líder funcional de aplicaciones pertenecientes al incremento de versión de la arquitectura FNA
 
 Plan de Trabajo
+![](images/vistaimplementacion.png)
+
+[Imagen 4.]() Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Dic 2023. Ver 1.0
 
 
 Costo Beneficio (aproximado)
