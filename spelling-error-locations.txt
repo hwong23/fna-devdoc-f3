@@ -1476,9 +1476,7 @@ content/09d11. Data Mesh.md:7:inherentes
 content/09d11. Data Mesh.md:7:oportunidades
 content/09d11. Data Mesh.md:7:Preparar
 content/09d11. Data Mesh.md:7:productos
-content/09d11. Data Mesh.md:7:rápidamente
 content/09d11. Data Mesh.md:7:servicios
-content/09d11. Data Mesh.md:7:sus
 content/09d11. Data Mesh.md:7:tecnologías
 content/09d11. Data Mesh.md:9:Actores
 content/09d11. Data Mesh.md:10:Arquitectura
@@ -1726,7 +1724,7 @@ content/09d13. Gestión de Datos Maestros.md:17:Habilitar
 content/09d13. Gestión de Datos Maestros.md:17:información
 content/09d13. Gestión de Datos Maestros.md:17:negocio
 content/09d13. Gestión de Datos Maestros.md:17:organización
-content/09d13. Gestión de Datos Maestros.md:17:trasversalmente
+content/09d13. Gestión de Datos Maestros.md:17:transversalmente
 content/09d13. Gestión de Datos Maestros.md:18:cada
 content/09d13. Gestión de Datos Maestros.md:18:confiable
 content/09d13. Gestión de Datos Maestros.md:18:cuenta
