@@ -4977,7 +4977,7 @@ content/11d. Comisionamiento infraestructura.md:23:implementación
 content/11d. Comisionamiento infraestructura.md:23:implementar
 content/11d. Comisionamiento infraestructura.md:23:incorporada
 content/11d. Comisionamiento infraestructura.md:23:índole
-content/11d. Comisionamiento infraestructura.md:23:infraestrctura
+content/11d. Comisionamiento infraestructura.md:23:infraestructura
 content/11d. Comisionamiento infraestructura.md:23:lecciones
 content/11d. Comisionamiento infraestructura.md:23:licencias
 content/11d. Comisionamiento infraestructura.md:23:manuales
@@ -5000,7 +5000,6 @@ content/11d. Comisionamiento infraestructura.md:23:servidores
 content/11d. Comisionamiento infraestructura.md:23:servidores
 content/11d. Comisionamiento infraestructura.md:23:SOA
 content/11d. Comisionamiento infraestructura.md:23:SOA
-content/11d. Comisionamiento infraestructura.md:23:subscripción
 content/11d. Comisionamiento infraestructura.md:23:Sumamos
 content/11d. Comisionamiento infraestructura.md:23:técnico
 content/11d. Comisionamiento infraestructura.md:23:tratan
@@ -5141,7 +5140,7 @@ content/11d. Comisionamiento infraestructura.md:41:JetBrains
 content/11d. Comisionamiento infraestructura.md:41:operación
 content/11d. Comisionamiento infraestructura.md:41:punto
 content/11d. Comisionamiento infraestructura.md:41:recomendado
-content/11d. Comisionamiento infraestructura.md:41:relaciondo
+content/11d. Comisionamiento infraestructura.md:41:relacionado
 content/11d. Comisionamiento infraestructura.md:41:servicios
 content/11d. Comisionamiento infraestructura.md:41:siguiente
 content/11d. Comisionamiento infraestructura.md:41:TeamCity
