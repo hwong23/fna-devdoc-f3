@@ -2542,8 +2542,8 @@ content/09d5. Arquitectura de referencia.md:24:Diseño
 content/09d5. Arquitectura de referencia.md:24:funcional
 content/09d5. Arquitectura de referencia.md:24:información
 content/09d5. Arquitectura de referencia.md:24:integración
-content/09d5. Arquitectura de referencia.md:24:profundidad
 content/09d5. Arquitectura de referencia.md:24:tecnología
+content/09d5. Arquitectura de referencia.md:24:unificado
 content/09d5. Arquitectura de referencia.md:25:diseño
 content/09d5. Arquitectura de referencia.md:25:FNA
 content/09d5. Arquitectura de referencia.md:25:herramienta
