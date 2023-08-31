@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-08-04'
+date-meta: '2023-08-31'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-08-04" />
-  <meta name="citation_publication_date" content="2023-08-04" />
-  <meta property="article:published_time" content="2023-08-04" />
-  <meta name="dc.modified" content="2023-08-04T03:36:45+00:00" />
-  <meta property="article:modified_time" content="2023-08-04T03:36:45+00:00" />
+  <meta name="dc.date" content="2023-08-31" />
+  <meta name="citation_publication_date" content="2023-08-31" />
+  <meta property="article:published_time" content="2023-08-31" />
+  <meta name="dc.modified" content="2023-08-31T14:52:05+00:00" />
+  <meta property="article:modified_time" content="2023-08-31T14:52:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/5c974d5a4e63c6419557270ba1d106daa29c639f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5c974d5a4e63c6419557270ba1d106daa29c639f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/5c974d5a4e63c6419557270ba1d106daa29c639f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f3/v/70756ffa0bfd99c2aa6e67b779d929cc594d6467/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/70756ffa0bfd99c2aa6e67b779d929cc594d6467/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f3/v/70756ffa0bfd99c2aa6e67b779d929cc594d6467/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f3/v/5c974d5a4e63c6419557270ba1d106daa29c639f/))
+([permalink](https://hwong23.github.io/fna-devdoc-f3/v/70756ffa0bfd99c2aa6e67b779d929cc594d6467/))
 versión indicada a continuación, se encuentra en 
 ****
-[5c974d5](https://github.com/hwong23/fna-devdoc-f3/tree/5c974d5a4e63c6419557270ba1d106daa29c639f)
-de August 4, 2023.
+[70756ff](https://github.com/hwong23/fna-devdoc-f3/tree/70756ffa0bfd99c2aa6e67b779d929cc594d6467)
+de August 31, 2023.
 
 
 
@@ -157,7 +157,7 @@ Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5c974d5 del 04 Aug 2023                              |
+|Version|70756ff del 31 Aug 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -214,7 +214,7 @@ En resumen, los pasos para la aplicación de este metodo son
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5c974d5 del 04 Aug 2023                              |
+|Version|70756ff del 31 Aug 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ Las partes impactadas por el análisis de brecha de la arquitectura del bus de d
 | Palabras clave | SOA, Análisis de brecha, GAP, Comparativa                                     |
 | Autor          |                                                                               |
 | Fuente         |                                                                               |
-| Version        | 5c974d5 del 04 Aug 2023                                                |
+| Version        | 70756ff del 31 Aug 2023                                                |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)        |
 
 <br>
@@ -454,7 +454,7 @@ Proyectos de cierre de brecha de la plataforma de procesos de negocio, Bizagi - 
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5c974d5 del 04 Aug 2023                              |
+|Version|70756ff del 31 Aug 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -769,7 +769,7 @@ Vigilar las relaciones entre las áreas de negocio (la vicepresidencia de operac
 #### Alcance
 - Crear e institucionalizar el comité de gobierno SOA del FNA
 - Definir los roles y responsabilidades para la instalación del comité
-- Elaborar los lineamientos, políticas  y procesos de gobierno SOA del FNA
+- Elaborar los lineamientos, políticas y procesos de gobierno SOA del FNA
 - Medir las decisiones de gobierno sobre la arquitectura y el proceso de desarrollo de soluciones SOA
 
 #### Tecnología
@@ -794,10 +794,10 @@ Equipo de trabajo, conforme al gobierno SOA, a cargo de los roles de gestión de
 - Unidades de negocio​
 - Consultores de soporte​
 	
-Impacto / Beneficio
-	A.  Gestionar el conocimiento en arquitectura del FNA​
-	B.  Proveer un enlace directo desde la oficina de arquitectura con los consultores en arquitectura​
-	C.  Gobernar la arquitectura de referencia de la organización​
+#### Impacto / Beneficio
+- Gestionar el conocimiento en arquitectura del FNA​
+- Proveer un enlace directo desde la oficina de arquitectura con los consultores en arquitectura​
+- Gobernar la arquitectura de referencia de la organización​
 
 #### Alcance
 - Definición de funciones y roles de los miembros de la oficina​
@@ -1010,7 +1010,7 @@ Procura la articulación y gestión de dependencias de las iniciativas SOA del p
 |Palabras clave  |SOA, Análisis de brecha, GAP, Comparativa          |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5c974d5 del 04 Aug 2023                              |
+|Version|70756ff del 31 Aug 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1257,7 +1257,7 @@ Sin embargo, antes de dar paso en este sentido hay que subsanar las problemátic
 |Palabras clave  |SOA, Proyecto de cierre brecha, Brecha, Infraestructura |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|5c974d5 del 04 Aug 2023                              |
+|Version|70756ff del 31 Aug 2023                              |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
