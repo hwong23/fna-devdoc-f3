@@ -2588,11 +2588,11 @@ content/09d5. Arquitectura de referencia.md:32:implementación
 content/09d5. Arquitectura de referencia.md:32:inventario
 content/09d5. Arquitectura de referencia.md:32:modelo
 content/09d5. Arquitectura de referencia.md:32:serie
-content/09d5. Arquitectura de referencia.md:35:Tecnología
-content/09d5. Arquitectura de referencia.md:36:Arquitectura
-content/09d5. Arquitectura de referencia.md:36:Depósito
-content/09d5. Arquitectura de referencia.md:37:Herramientas
-content/09d5. Arquitectura de referencia.md:37:modelado
+content/09d5. Arquitectura de referencia.md:34:Tecnología
+content/09d5. Arquitectura de referencia.md:35:Arquitectura
+content/09d5. Arquitectura de referencia.md:35:Depósito
+content/09d5. Arquitectura de referencia.md:36:Herramientas
+content/09d5. Arquitectura de referencia.md:36:modelado
 content/09d6. Microservicios.md:1:Microservicios
 content/09d6. Microservicios.md:2:Objetivo
 content/09d6. Microservicios.md:3:arquitectura
